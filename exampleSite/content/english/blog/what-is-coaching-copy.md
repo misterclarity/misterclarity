@@ -1,6 +1,6 @@
 +++
 author = "Vlad-Emil Petrea"
-date = 2020-07-11T15:52:12Z
+date = 2020-07-11T09:00:00Z
 description = "coaching"
 draft = true
 image = "images/blog/meghna.jpg"
