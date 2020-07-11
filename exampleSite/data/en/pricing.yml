@@ -18,9 +18,9 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Gold
-    price: "$199"
-    unit: month
+  - name: Self-confidence
+    price: "€100"
+    unit: hour
     services:
     - 1GB Disk Space
     - 10 Email Account
