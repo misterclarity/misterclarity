@@ -4,8 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Go beyond the screen, become the **HERO** of your own life.
-  content: ''
+  title: Go beyond the screen.
+  content: Become the **HERO** of your own life.
   button:
     enable: true
     label: Explore Us
