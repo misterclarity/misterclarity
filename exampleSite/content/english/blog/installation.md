@@ -1,7 +1,7 @@
 ---
 title: What is coaching?
 date: 2020-07-11T17:52:12+02:00
-author: Vlad-Emil Petrea
+author: John Doe
 image_webp: images/blog/meghna.webp
 image: images/blog/meghna.jpg
 description: coaching
