@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: My Services
   service_item:
   - name: WordPress Theme bro
