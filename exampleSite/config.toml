@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "MisterClarity"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all rights reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
