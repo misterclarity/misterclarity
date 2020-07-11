@@ -1,5 +1,5 @@
 +++
-author = "John Doe"
+author = "Vlad-Emil Petrea"
 date = 2020-07-11T09:00:00Z
 description = "coaching"
 image = "images/blog/meghna.jpg"
