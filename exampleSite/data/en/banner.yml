@@ -4,8 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Go beyond the screen.
-  content: Become the **HERO** of your own life.
+  title: Become the **HERO** of your own life.
+  content: Go beyond the screen.
   button:
     enable: true
     label: Book a Free Call
