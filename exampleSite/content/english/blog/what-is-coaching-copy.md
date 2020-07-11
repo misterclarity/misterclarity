@@ -2,7 +2,6 @@
 author = "John Doe"
 date = 2020-07-11T09:00:00Z
 description = "coaching"
-draft = true
 image = "images/blog/meghna.jpg"
 image_webp = "images/blog/meghna.webp"
 title = "What is coaching?-(copy)"
