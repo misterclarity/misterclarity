@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: My Services
   service_item:
   - name: WordPress Theme bro
     icon: ti-world
