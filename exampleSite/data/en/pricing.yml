@@ -31,9 +31,9 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Platinum
-    price: "$299"
-    unit: month
+  - name: Hidden resources
+    price: "€150"
+    unit: hour
     services:
     - 1GB Disk Space
     - 10 Email Account
