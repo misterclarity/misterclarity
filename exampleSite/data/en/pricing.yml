@@ -7,7 +7,7 @@ pricing:
   pricing_table:
   - name: Clarity
     price: "€50"
-    unit: day
+    unit: hour
     services:
     - 1GB Disk Space
     - 10 Email Account
