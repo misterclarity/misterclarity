@@ -1,11 +1,14 @@
 ---
 skill:
-  enable: false
-  title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  enable: true
+  title: My offer
+  subtitle: Become the HERO of your own life!
+  content: 'What if you could be just as satisfied, joyful, and in the zone as you
+    are when playing videogames, while pursuing your real-life goals? How would your
+    life be like? How far could you get? I will help you find out. Often in life,
+    we are just one step away from living the life we want. Let''s take that step
+    together. My life experience and work has prepared me for accompanying you on
+    your journey towards self-acceptance and positive transformation. '
   image: images/about/company-growth.webp
   skill_item:
   - name: Business Development
