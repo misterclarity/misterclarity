@@ -6,7 +6,7 @@ funfacts:
   counter_item:
   - title: Happy Clients
     icon: ti-face-smile
-    count: "20"
+    count: "12"
   - title: Coaching session hours
     icon: ti-archive
     count: "23"
