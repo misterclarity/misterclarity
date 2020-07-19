@@ -19,10 +19,10 @@ service:
     icon: fa fa-heart-o fa-lg fa-3x
     content: Moving into a place of calmness and composure, especially when talking
       about a difficult situation.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Listening
+    icon: fa fa-headphones fa-lg fa-3x
+    content: To be heard is a basic human need. Deep listening is an integral part
+      of coaching.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
