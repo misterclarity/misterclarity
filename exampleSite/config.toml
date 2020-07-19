@@ -91,11 +91,11 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/thedragonsoars"
-[[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/theDragonSoars"
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/in/thedragonsoars"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/theDragonSoars"
