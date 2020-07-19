@@ -14,7 +14,7 @@ pricing:
     - Written takeaway
     button:
       label: Book
-      link: "#"
+      link: https://calendly.com/dragoncoach/60min
   - name: Self-confidence
     price: "€80"
     unit: hour
@@ -25,7 +25,7 @@ pricing:
     - Written takeaway
     button:
       label: Book
-      link: "#"
+      link: https://calendly.com/dragoncoach/60min
   - name: Hidden resources
     price: "€120"
     unit: hour
@@ -37,4 +37,4 @@ pricing:
     - Written takeaway
     button:
       label: Book
-      link: "#"
+      link: https://calendly.com/dragoncoach/60min
