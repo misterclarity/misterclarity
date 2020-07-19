@@ -25,7 +25,7 @@ pricing:
     - Written takeaway
     button:
       label: Book
-      link: "#"
+      link: https://calendly.com/dragoncoach/60min
   - name: Hidden resources
     price: "€120"
     unit: hour
