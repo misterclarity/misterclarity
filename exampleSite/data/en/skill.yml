@@ -11,13 +11,5 @@ skill:
     your journey towards self-acceptance and positive transformation. '
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
-    percent: 90%
-  - name: Analysis
-    percent: 70%
-  - name: Design
-    percent: 80%
-  - name: IOS Development
-    percent: 95%
   - name: Android Development
     percent: 75%
