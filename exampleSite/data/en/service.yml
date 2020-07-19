@@ -13,8 +13,8 @@ service:
       of thought, of emotion, of self.
   - name: Imagination
     icon: fa fa-photo fa-lg fa-3x
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Using the power of one's imagination is a great way to understand situations
+      and overcome challenges.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
