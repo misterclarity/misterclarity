@@ -18,7 +18,7 @@ feature:
     icon: ti-move
     content: The coaching session moves at your own rhythm, and follows topics as
       needed.
-  - title: Easy Customization
-    icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Collaborative & challenging
+    icon: ti-thought
+    content: As a coach, I am fully present in the conversation, either through active
+      listening, asking clarifying questions, and pointing out incongrunecies.
