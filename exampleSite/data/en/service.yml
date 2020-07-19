@@ -11,8 +11,8 @@ service:
     icon: fa fa-compass fa-lg fa-3x
     content: Achieving clarity is a common takeaway from a coaching session. Clarity
       of thought, of emotion, of self.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
+  - name: Imagination
+    icon: fa fa-photo fa-lg fa-3x
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Graphic Design
