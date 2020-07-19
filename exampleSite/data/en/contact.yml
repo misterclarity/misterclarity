@@ -9,10 +9,8 @@ contact:
     info: Aspettenstrasse 34, 2380, Perchtoldsdorf, Austria
   - icon: ti-mobile
     info: 'Phone: +43 (0) 6506 733 755'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: drachencoach@gmail.com'
   contact_form:
     enable: true
     form_action: "#"
