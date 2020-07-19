@@ -27,12 +27,12 @@ pricing:
       label: Book
       link: "#"
   - name: Hidden resources
-    price: "€150"
+    price: "€120"
     unit: hour
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
+    - Any personal topic
+    - 10' shared silence
+    - Open conversation
     - 1 GB Storage
     - 10 GB Bandwidth
     - 24/7 Tech Support
