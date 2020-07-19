@@ -19,36 +19,26 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu]
-static = []
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
+URL = "contact"
+name = "contact"
+weight = 5
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = 3
 [[menu.main]]
 URL = "services"
 name = "services"
 weight = 2
 [[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
+URL = "about"
+name = "about"
+weight = 1
 [params]
 author = "Digital Walk"
 description = "Built with love"
