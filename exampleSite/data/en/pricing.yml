@@ -9,14 +9,11 @@ pricing:
     price: "€50"
     unit: hour
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Any personal topic
+    - Open conversation
+    - Written takeaway
     button:
-      label: Signup
+      label: Book
       link: "#"
   - name: Self-confidence
     price: "€100"
