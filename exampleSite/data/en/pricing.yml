@@ -20,13 +20,11 @@ pricing:
     unit: hour
     services:
     - Any personal topic
-    - Script Installer
+    - Open conversation
     - 10' uninterrupted time
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Written takeaway
     button:
-      label: Signup
+      label: Book
       link: "#"
   - name: Hidden resources
     price: "€150"
