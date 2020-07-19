@@ -44,6 +44,7 @@ author = "Digital Walk"
 description = "Built with love!"
 google_analytics_id = ""
 logo = "images/logo.png"
+biglogo = "images/big-logo.png"
 post_share = true
 [params.map]
 enable = true
