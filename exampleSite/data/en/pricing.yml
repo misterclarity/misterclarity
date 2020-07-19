@@ -5,9 +5,9 @@ pricing:
     be on a journey together, it will create a partnership which allows both of us
     to offer and receive value organically.
   pricing_table:
-  - name: 15 minutes of Silence
+  - name: Clarity
     price: "€50"
-    unit: minutes
+    unit: hour
     services:
     - 1GB Disk Space
     - 10 Email Account
