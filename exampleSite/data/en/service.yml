@@ -3,10 +3,10 @@ service:
   enable: false
   title: My Services
   service_item:
-  - name: WordPress Theme bro
-    icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Openness
+    icon: ion-coffee
+    content: Connection happens when the basic requirements are present. Openness,
+      patience, deep listening, empathy.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
