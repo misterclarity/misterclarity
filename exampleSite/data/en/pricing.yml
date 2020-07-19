@@ -16,12 +16,12 @@ pricing:
       label: Book
       link: "#"
   - name: Self-confidence
-    price: "€100"
+    price: "€80"
     unit: hour
     services:
-    - 1GB Disk Space
-    - 10 Email Account
+    - Any personal topic
     - Script Installer
+    - 10' uninterrupted time
     - 1 GB Storage
     - 10 GB Bandwidth
     - 24/7 Tech Support
