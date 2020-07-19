@@ -7,10 +7,10 @@ service:
     icon: ti-coffee
     content: Connection happens when the basic requirements are present. Openness,
       patience, deep listening, empathy.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Clarity
+    icon: ti-compass
+    content: Achieving clarity is a common takeaway from a coaching session. Clarity
+      of thought, of emotion, of self.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
