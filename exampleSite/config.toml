@@ -58,8 +58,8 @@ post_share = true
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "48.07351"
-map_longitude = "16.17013"
+map_latitude = "48.126404"
+map_longitude = "16.283692"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/Ionicons/css/ionicons.min.css"
