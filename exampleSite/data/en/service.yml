@@ -1,6 +1,6 @@
 ---
 service:
-  enable: false
+  enable: true
   title: My Services
   service_item:
   - name: Openness
