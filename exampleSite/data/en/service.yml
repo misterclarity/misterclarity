@@ -15,10 +15,10 @@ service:
     icon: fa fa-photo fa-lg fa-3x
     content: Using the power of one's imagination is a great way to understand situations
       and overcome challenges.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Centering
+    icon: fa fa-heart-o fa-lg fa-3x
+    content: Moving into a place of calmness and composure, especially when talking
+      about a difficult situation.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
