@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #ffffff;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 }
 
 pre {
-  color: #afbac4;
+  color: #ffffff;
 }
 
 /*=================================================================
@@ -644,12 +644,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #fff;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #fff;
 }
 
 .call-to-action .btn-main {
