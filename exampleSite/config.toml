@@ -101,7 +101,7 @@ icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/thedragonsoars"
 [[params.social]]
 icon = "ti-dribbble"
 link = "#"
