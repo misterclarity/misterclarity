@@ -8,5 +8,5 @@ banner:
   content: ''
   button:
     enable: true
-    label: Book a Free Call
+    label: Take the first step
     link: https://calendly.com/dragoncoach/30min
