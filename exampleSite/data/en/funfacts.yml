@@ -11,7 +11,7 @@ funfacts:
     icon: ti-archive
     count: "23"
   - title: Aha! moments
-    icon: ti-thumb-up
+    icon: ti-light-bulb
     count: "42"
   - title: Cups of Coffee
     icon: ti-gift
