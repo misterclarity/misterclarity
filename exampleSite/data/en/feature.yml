@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/herome.jpg
-  image_webp: images/about/herome.webp
+  image: images/herome.jpg
+  image_webp: images/herome.webp
   title: 'I am a Transformational Coach. Here is what that means:'
   content: I am a trusted companion during your journey to becoming who you are.
   feature_item:
