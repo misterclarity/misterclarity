@@ -31,11 +31,10 @@ pricing:
     unit: hour
     services:
     - Any personal topic
-    - 10' shared silence
     - Open conversation
+    - 10' shared silence
     - 15' uninterrupted time
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Written takeaway
     button:
       label: Signup
       link: "#"
