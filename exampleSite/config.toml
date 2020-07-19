@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Mr. Clarity | Transformational Coaching"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all rights reserved"
+copyright = "copyright &copy; 2020 [Digital Walk.](https://apex.oracle.com/pls/apex/f?p=133899) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -41,7 +41,7 @@ name = "about"
 weight = 1
 [params]
 author = "Digital Walk"
-description = "Built with love"
+description = "Built with love!"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
