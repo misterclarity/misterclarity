@@ -7,7 +7,7 @@ feature:
   content: I am a trusted companion during your journey to becoming who you are.
   feature_item:
   - title: Honest, open, authentic
-    icon: ti-world
+    icon: ti-user
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
   - title: Belief in potential
