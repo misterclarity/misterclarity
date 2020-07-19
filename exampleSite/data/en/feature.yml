@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/about/herome.jpg
   image_webp: images/about/herome.webp
-  title: I am a coach. Here is what that means.
+  title: 'I am a Transformational Coach. Here is what that means:'
   content: I am a trusted companion during your journey to becoming who you are.
   feature_item:
   - title: Honest, open, authentic
