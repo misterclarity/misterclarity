@@ -3,7 +3,8 @@ contact:
   enable: true
   title: Contact Me
   subtitle: '"It is not the answer that enlightens, but the question." Eugene Ionesco'
-  content: Please write me an email and I will get back to you as soon as possible.
+  content: Feel free to call me, or write me an email and I will get back to you as
+    soon as possible.
   contact_list:
   - icon: ti-location-pin
     info: Aspettenstrasse 34, 2380, Perchtoldsdorf, Austria
