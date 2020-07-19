@@ -4,7 +4,7 @@ service:
   title: My Services
   service_item:
   - name: Openness
-    icon: ti-coffee
+    icon: fa-coffee
     content: Connection happens when the basic requirements are present. Openness,
       patience, deep listening, empathy.
   - name: Clarity
