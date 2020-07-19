@@ -4,14 +4,14 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: I am a coach. Here is what that means.
-  content: I am a trusted companion in your journey within.
+  content: I am a trusted companion during your journey to becoming who you are.
   feature_item:
   - title: Open
     icon: ti-world
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
-    icon: ti-panel
+  - title: Belief in potential
+    icon: ti-thumb-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
   - title: SEO Optimized
