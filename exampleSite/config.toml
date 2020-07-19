@@ -89,6 +89,3 @@ link = "https://www.linkedin.com/in/thedragonsoars"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/theDragonSoars"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
