@@ -1,9 +1,9 @@
 ---
 pricing:
   enable: true
-  title: The pricing is decided during our first conversation. However long we will
-    be on a journey together, it will create a partnership which allows both of us
-    to offer and receive value organically.
+  title: The pricing can also be decided during our first conversation. However long
+    we will be on a journey together, it will create a partnership which allows both
+    of us to offer and receive value organically.
   pricing_table:
   - name: Clarity
     price: "€50"
@@ -20,7 +20,7 @@ pricing:
     services:
     - Any personal topic
     - Open conversation
-    - 10' uninterrupted time
+    - 20' uninterrupted talk time
     button:
       label: Book
       link: https://calendly.com/dragoncoach/60min
