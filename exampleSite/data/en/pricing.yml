@@ -36,5 +36,5 @@ pricing:
     - 15' uninterrupted time
     - Written takeaway
     button:
-      label: Signup
+      label: Book
       link: "#"
