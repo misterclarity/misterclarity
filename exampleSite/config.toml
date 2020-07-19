@@ -80,7 +80,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/biglogo.png"
+preloader = "images/big-logo.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/theDragonSoars"
