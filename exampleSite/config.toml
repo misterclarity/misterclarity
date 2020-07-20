@@ -41,10 +41,10 @@ name = "about"
 weight = 1
 [params]
 author = "Digital Walk"
+biglogo = "images/big-logo.png"
 description = "Built with love!"
 google_analytics_id = ""
 logo = "images/logo.png"
-biglogo = "images/big-logo.png"
 post_share = true
 [params.map]
 enable = true
@@ -80,7 +80,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/becomethedragon.png"
+preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/theDragonSoars"
