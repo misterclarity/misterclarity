@@ -1,15 +1,13 @@
 +++
 author = "Vlad-Emil Petrea"
-date = 2020-07-10T15:52:12Z
-description = "coaching"
+date = 2020-07-21T11:30:00Z
+description = "life"
 draft = true
-image = "/images/what-is-coaching.jpg"
+image = "/images/yinyang.jpg"
 image_webp = ""
 title = "Spirit stifling"
 
 +++
-During a 1-on-1 coaching session we create a safe space for sharing thoughts, feelings, and emotions. Once a clear goal is identified, the coaching session uses conversation and active listening to uncover your hidden resources, increase your confidence, and achieve clarity. You will be amazed by how much stronger, more able, and more resourceful you actually are!
+Chaos and order. Our lives are to some degree flowing on the spectrum between the two opposites. Both extremes lead to a miserable life.
 
-Coaching offers something society often fails to do. It recognizes the nature of life present inside each of us and brings it into optimal alignment. Once alignment is even remotely achieved, one's life becomes more fluid, resources become free, and awareness is gained. Such awareness makes free will possible, and with that ability, there is no limit to what you can achieve.
-
-> _"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." Viktor Frankl_
+> _"The Daoists believe that a meaningful life, the optimally meaningful life, is to be found on the border between chaos and order, and I would say that your nervous system tells you exactly when you are there, and it’s a kind of place. You can tell when you are there because you are secure enough to be confident, but not so secure that you are bored, and you are interested enough to be awake, but not so interested that you are terrified. When you are in a state like that, when you find things interesting and meaningful, then time slips by you and you are no longer self-conscious." Jordan Peterson_
