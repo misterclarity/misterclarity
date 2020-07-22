@@ -2,7 +2,6 @@
 author = "Vlad-Emil Petrea"
 date = 2020-07-22T07:30:00Z
 description = "coaching"
-draft = true
 image = "/images/theexpert.jpg"
 image_webp = ""
 title = "The expert"
