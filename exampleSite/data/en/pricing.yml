@@ -25,7 +25,7 @@ pricing:
       label: Book
       link: https://calendly.com/dragoncoach/60min
   - name: Hidden resources
-    price: "€120"
+    price: "€90"
     unit: 2 hours
     services:
     - Any personal topic
