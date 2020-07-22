@@ -1,15 +1,13 @@
 +++
 author = "Vlad-Emil Petrea"
-date = 2020-07-10T15:52:12Z
+date = 2020-07-22T07:30:00Z
 description = "coaching"
 draft = true
-image = "/images/what-is-coaching.jpg"
+image = "/images/theexpert.jpg"
 image_webp = ""
 title = "The expert"
 
 +++
-During a 1-on-1 coaching session we create a safe space for sharing thoughts, feelings, and emotions. Once a clear goal is identified, the coaching session uses conversation and active listening to uncover your hidden resources, increase your confidence, and achieve clarity. You will be amazed by how much stronger, more able, and more resourceful you actually are!
-
-Coaching offers something society often fails to do. It recognizes the nature of life present inside each of us and brings it into optimal alignment. Once alignment is even remotely achieved, one's life becomes more fluid, resources become free, and awareness is gained. Such awareness makes free will possible, and with that ability, there is no limit to what you can achieve.
+A coaching session is said to have no expert. This is meant for the coach, partially to remind them that the client is creative, resourceful, and whole. Yet during my practice I have noticed there an expert present. Namely, you. Often in life we listen to advice from seemingly wise sources, from people, from books, from friends and family, from scientists. Yet we forget that in terms of our own lives, there is only one true expert. Our Self. There is an inner guide that remains steadfast no matter what happens externally. This presence is to be found in various ways, but rarely does engaging with society bring its voice to the foreground. 
 
 > _"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." Viktor Frankl_
