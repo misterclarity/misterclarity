@@ -15,12 +15,12 @@ pricing:
       label: Book
       link: https://calendly.com/dragoncoach/60min
   - name: Self-confidence
-    price: "€80"
-    unit: hour
+    price: "€90"
+    unit: 2 hours
     services:
     - Any personal topic
     - Open conversation
-    - 15' uninterrupted talk time
+    - Written takeaway
     button:
       label: Book
       link: https://calendly.com/dragoncoach/60min
