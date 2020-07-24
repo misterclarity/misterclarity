@@ -1,17 +1,13 @@
 +++
 author = "Vlad-Emil Petrea"
-date = 2020-07-22T07:30:00Z
+date = 2020-07-24T07:59:00Z
 description = "coaching"
 draft = true
 image = "/images/theexpert.jpg"
 image_webp = ""
-title = "Clarity, the power of the Logos"
+title = "Clarity and the power of the Logos"
 
 +++
-A coaching session is said to have no expert. This is meant to remind the coach that the client is creative, resourceful, and whole. Yet during my coaching practice I have noticed there is always an expert present. Namely, **you**. 
-
-Often in life we listen to advice from seemingly wise sources, from bosses, from books, from friends and family, from scientists, etc. We sometimes forget that in terms of our own lives, there is only one true expert. Our **Self**. It is an inner guide that remains steadfast no matter what happens externally. This presence is to be found in various ways (meditation, spirituality, exercise, play,creativity, etc.) but rarely does engaging with societal structures bring its voice to the foreground.
-
-Take comfort in knowing that this guiding presence is by your side all the time, and take time to be grateful for it. A coaching session is centered around the awareness of this guiding presence and places the client in the best possible relationship with its nature.
+Sometimes we find ourselves at a crossroad in life. Choices abound, and this can lead to confusion and a form of decision paralysis. One way to proceed in such situations is, in the words of Jordan Peterson, to „do something“. Basically, Doctor Peterson is suggesting that every step taken, even in the wrong direction, will reveal more about the current situation than standing in place, ruminating. While this can definitely be useful, another approach is to clarify one’s own thoughts about and perception of the many directions available. Every choice becomes clear once we understand it, and clarity is the key ingredient to achieving understanding. This is where language comes to the rescue. Put simply, speaking or writing out how we feel and think about a situation 
 
 > _"Of course I talk to myself. Sometimes I need expert advice." -_ Edward Henheffer
