@@ -14,7 +14,7 @@ contact:
     info: 'Email: drachencoach@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "POST"
     name: Your Name
     email: Your Email
     subject: Subject
