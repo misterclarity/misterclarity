@@ -21,9 +21,8 @@ service:
       with a difficult or complex situation.
   - name: Listening
     icon: fa fa-headphones fa-lg fa-3x
-    content: To be heard is a basic human need. Deep listening is an integral part
-      of coaching, and the benefits range from feeling valued all the way to feeling
-      smarter.
+    content: Deep listening is an integral part of coaching, and the benefits range
+      from feeling valued all the way to feeling smarter.
   - name: Development
     icon: fa fa-leaf fa-lg fa-3x
     content: Moving forward happens one step at a time. Every step into the unknown
