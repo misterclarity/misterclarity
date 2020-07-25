@@ -474,10 +474,10 @@ a:hover {
 }
 
 .hero-area .block h1 {
-/*   font-size: 60px; */
+  font-size: 60px;
   color: #fff;
-  text-transform: uppercase;
-/*   font-weight: 700; */
+/*   text-transform: uppercase; */
+  font-weight: 700;
   margin-bottom: 20px;
 }
 
