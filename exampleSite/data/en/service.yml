@@ -25,5 +25,5 @@ service:
       from feeling valued all the way to feeling smarter.
   - name: Development
     icon: fa fa-leaf fa-lg fa-3x
-    content: Moving forward happens one step at a time. Every step into the unknown
-      will reveal confidence and resources you never knew you have.
+    content: Moving step-by-step into the unknown will reveal confidence and resources
+      you never knew you have.
