@@ -17,8 +17,8 @@ service:
       and overcome challenges.
   - name: Centering
     icon: fa fa-heart-o fa-lg fa-3x
-    content: Moving into a place of calmness and composure, especially when talking
-      about a difficult situation.
+    content: Moving into a place of calmness and composure, especially when dealing
+      with a difficult or complex situation.
   - name: Listening
     icon: fa fa-headphones fa-lg fa-3x
     content: To be heard is a basic human need. Deep listening is an integral part
