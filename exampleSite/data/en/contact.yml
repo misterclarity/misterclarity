@@ -11,10 +11,10 @@ contact:
   - icon: ti-mobile
     info: 'Phone: +43 (0) 6506 733 755'
   - icon: ti-email
-    info: 'Email: drachencoach@gmail.com'
+    info: 'Email: coach@misterclarity.com'
   contact_form:
     enable: true
-    form_action: "POST"
+    form_action: POST
     name: Your Name
     email: Your Email
     subject: Subject
