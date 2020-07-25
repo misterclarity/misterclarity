@@ -43,7 +43,7 @@ weight = 1
 author = "Digital Walk"
 biglogo = "images/big-logo.png"
 description = "Built with love!"
-google_analytics_id = ""
+google_analytics_id = "UA-173554268-1"
 logo = "images/logo.png"
 post_share = true
 [params.map]
