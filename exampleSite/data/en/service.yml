@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: My Services
+  title: My Promise
   service_item:
   - name: Openness
     icon: fa fa-coffee fa-lg fa-3x
