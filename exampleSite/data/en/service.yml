@@ -26,5 +26,5 @@ service:
       smarter.
   - name: Development
     icon: fa fa-leaf fa-lg fa-3x
-    content: Moving forward happens one step at a time. With every step into the unkown,
-      you will discover confidence and resources which you never thought you have.
+    content: Moving forward happens one step at a time. Every step into the unknown
+      will reveal confidence and resources you never knew you have.
