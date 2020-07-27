@@ -3,7 +3,7 @@ author = "Vlad-Emil Petrea"
 date = 2020-07-27T09:00:00Z
 description = "coaching"
 draft = true
-image = "/images/theexpert.jpg"
+image = "/images/presence.jpg"
 image_webp = ""
 title = "Presence in life"
 
