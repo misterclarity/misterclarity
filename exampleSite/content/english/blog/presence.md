@@ -5,7 +5,7 @@ description = "coaching"
 draft = true
 image = "/images/theexpert.jpg"
 image_webp = ""
-title = "Presence"
+title = "Presence in life"
 
 +++
 A coaching session is said to have no expert. This is meant to remind the coach that the client is creative, resourceful, and whole. Yet during my coaching practice I have noticed there is always an expert present. Namely, **you**. 
