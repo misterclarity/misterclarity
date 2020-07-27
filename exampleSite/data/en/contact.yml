@@ -2,7 +2,7 @@
 contact:
   enable: true
   title: Contact Me
-  subtitle: '"It is not the answer that enlightens, but the question." Eugene Ionesco'
+  subtitle: '"It is not the answer that enlightens, but the question." - Eugene Ionesco'
   content: Feel free to call me, or write me an email and I will get back to you as
     soon as possible.
   contact_list:
