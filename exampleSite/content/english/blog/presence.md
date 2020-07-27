@@ -2,10 +2,9 @@
 author = "Vlad-Emil Petrea"
 date = 2020-07-27T09:00:00Z
 description = "coaching"
-draft = true
 image = "/images/presence.jpg"
 image_webp = ""
-title = "Presence in life"
+title = "Presence"
 
 +++
 What comes to mind when you see or hear the word **presence**? Is it related to the mind? Perhaps listening carefully? Feeling relaxed, open to ideas, aware...these are all qualities related to presence. Notice that I haven't mentioned anything about context. Usually presence refers to being with at least one other person around. Thus, we are usually present with other people. But **presence can begin with one's self**. Being present while no one is around. Being present. Or just being. What does that involve? Listening? Feeling relaxed, open to (own) ideas, being aware (of the body, of emotions, of needs, etc.)? In my case, most elements required in interpersonal presence apply also to solo presence. 
