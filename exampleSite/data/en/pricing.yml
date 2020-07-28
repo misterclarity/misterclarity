@@ -39,7 +39,7 @@ pricing:
     button:
       label: Book
       link: https://calendly.com/misterclarity/60min
-  - name: Nature Coaching
+  - name: Coaching in Nature
     price: "120"
     unit: hour
     services:
