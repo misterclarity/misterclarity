@@ -6,13 +6,13 @@ pricing:
     of us to offer and receive value organically.
   pricing_table:
   - name: Clarity
-    price: "€50"
+    price: 50€
     unit: hour
     services:
     - Any personal topic
     - Open conversation
     - Coaching models
-    - Written takeaway
+    - Written takeaway (+10€)
     button:
       label: Book
       link: https://calendly.com/misterclarity/60min
