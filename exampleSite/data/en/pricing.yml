@@ -38,7 +38,7 @@ pricing:
     - Written takeaway
     button:
       label: Book
-      link: https://calendly.com/dragoncoach/60min
+      link: https://calendly.com/misterclarity/60min
   - name: Special offer (Nature Coaching)
     price: "120"
     unit: hour
