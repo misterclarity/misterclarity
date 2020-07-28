@@ -17,7 +17,7 @@ pricing:
       label: Book
       link: https://calendly.com/misterclarity/60min
   - name: Self-confidence
-    price: "€75"
+    price: 75€
     unit: hour
     services:
     - Any personal topic
