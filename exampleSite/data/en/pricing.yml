@@ -43,9 +43,9 @@ pricing:
     price: "120"
     unit: hour
     services:
-    - Coaching session in nature
+    - Outdoors coaching session
     - Travel to location by motorcycle
-    - You can pick the location
+    - Location choice is optional
     - Nature = open heart
     - Open heart => best results
     button:
