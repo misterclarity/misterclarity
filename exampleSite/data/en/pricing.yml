@@ -43,10 +43,11 @@ pricing:
     price: "120"
     unit: hour
     services:
+    - Coaching session in nature
+    - Travel to location by motorcycle
+    - You can pick the location
     - Nature = open heart
     - Open heart => best results
-    - You can pick the location
-    - Coaching session in nature
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book
