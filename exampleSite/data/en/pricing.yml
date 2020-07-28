@@ -44,8 +44,8 @@ pricing:
     unit: hour
     services:
     - Outdoor coaching session
-    - Travel to location by motorcycle
-    - Location choice is optional
+    - Travel by motorcycle (optional)
+    - Location choice (optional)
     - Nature opens the heart
     - Open heart yields best results
     button:
