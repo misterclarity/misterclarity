@@ -28,7 +28,7 @@ pricing:
       label: Book
       link: https://calendly.com/misterclarity/60min
   - name: Hidden resources
-    price: "€90"
+    price: 90€
     unit: hour
     services:
     - Any personal topic
