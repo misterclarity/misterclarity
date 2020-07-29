@@ -28,7 +28,7 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book
-  - name: Parent-child dynamics
+  - name: Parent-Child dynamics
     price: 100€
     unit: hour
     services:
