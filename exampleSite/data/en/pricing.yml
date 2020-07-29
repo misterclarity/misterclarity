@@ -5,6 +5,11 @@ pricing:
     we will be on a journey together, it will create a partnership which allows both
     of us to offer and receive value organically.
   pricing_table:
+  - name: Parent-child dynamics
+    price: "100"
+    unit: hour
+    services: ''
+    button: ''
   - name: Clarity
     price: 50€
     unit: hour
