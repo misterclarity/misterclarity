@@ -8,7 +8,9 @@ pricing:
   - name: Parent-child dynamics
     price: 100€
     unit: hour
-    services: ''
+    services:
+    - Suitable for parents or children
+    - Integrate family patterns
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
