@@ -6,7 +6,7 @@ pricing:
     of us to offer and receive value organically.
   pricing_table:
   - name: Parent-child dynamics
-    price: "100"
+    price: 100€
     unit: hour
     services: ''
     button: ''
