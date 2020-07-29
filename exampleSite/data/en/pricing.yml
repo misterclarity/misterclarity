@@ -5,35 +5,14 @@ pricing:
     we will be on a journey together, it will create a partnership which allows both
     of us to offer and receive value organically.
   pricing_table:
-  - name: Parent-child dynamics
-    price: 100€
-    unit: hour
-    services:
-    - Suitable for parents or children
-    - Integrate family patterns
-    button:
-      link: https://calendly.com/misterclarity/60min
-      label: Book now
   - name: Clarity
     price: 50€
     unit: hour
     services:
     - Any personal topic
     - Open conversation
-    - Coaching models
-    - Written takeaway (+10€)
-    button:
-      label: Book
-      link: https://calendly.com/misterclarity/60min
-  - name: Self-confidence
-    price: 75€
-    unit: hour
-    services:
-    - Any personal topic
-    - Open conversation
-    - Alignment technique
     - Accountability partner
-    - Written takeaway
+    - Written takeaway (+10€)
     button:
       label: Book
       link: https://calendly.com/misterclarity/60min
@@ -61,3 +40,12 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book
+  - name: Parent-child dynamics
+    price: 100€
+    unit: hour
+    services:
+    - Suitable for parents or children
+    - Integrate family patterns
+    button:
+      link: https://calendly.com/misterclarity/60min
+      label: Book now
