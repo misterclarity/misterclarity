@@ -16,18 +16,6 @@ pricing:
     button:
       label: Book
       link: https://calendly.com/misterclarity/60min
-  - name: Coaching in Nature
-    price: 120€
-    unit: hour
-    services:
-    - Outdoor coaching session
-    - Travel by motorcycle (optional)
-    - Location choice (optional)
-    - Nature opens the heart
-    - Open heart yields best results
-    button:
-      link: https://calendly.com/misterclarity/60min
-      label: Book
   - name: Parent-Child dynamics
     price: 100€
     unit: hour
@@ -39,3 +27,15 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
+  - name: Coaching in Nature
+    price: 150€
+    unit: hour
+    services:
+    - Outdoor coaching session
+    - Travel by motorcycle (optional)
+    - Location choice (optional)
+    - Nature opens the heart
+    - Open heart yields best results
+    button:
+      link: https://calendly.com/misterclarity/60min
+      label: Book
