@@ -9,7 +9,9 @@ pricing:
     price: 100€
     unit: hour
     services: ''
-    button: ''
+    button:
+      link: https://calendly.com/misterclarity/60min
+      label: Book now
   - name: Clarity
     price: 50€
     unit: hour
