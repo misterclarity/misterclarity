@@ -16,18 +16,6 @@ pricing:
     button:
       label: Book
       link: https://calendly.com/misterclarity/60min
-  - name: Hidden resources
-    price: 90€
-    unit: hour
-    services:
-    - Any personal topic
-    - Open conversation
-    - Reflective silence
-    - Projection technique
-    - Written takeaway
-    button:
-      label: Book
-      link: https://calendly.com/misterclarity/60min
   - name: Coaching in Nature
     price: 120€
     unit: hour
