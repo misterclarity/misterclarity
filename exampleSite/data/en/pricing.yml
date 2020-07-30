@@ -18,7 +18,9 @@ pricing:
     services:
     - Sultry voice coaching
     - Because I can
-    button: ''
+    button:
+      label: Keep on booking
+      link: ''
   - name: Clarity
     price: 50€
     unit: hour
