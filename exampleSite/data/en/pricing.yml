@@ -16,7 +16,7 @@ pricing:
     button:
       label: Book
       link: https://calendly.com/misterclarity/60min
-  - name: Family dynamics
+  - name: Family Dynamics
     price: 100€
     unit: hour
     services:
