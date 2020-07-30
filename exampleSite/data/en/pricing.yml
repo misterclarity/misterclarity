@@ -9,8 +9,8 @@ pricing:
     price: IBM is paying for it
     unit: ''
     services:
-    - A swarm of Aha! moments...but see if I care
     - Cloudy with a chance of ranting
+    - A swarm of Aha! moments...but see if I care
     button: ''
   - name: The Shahrukh
     price: Zounds of Pounds
