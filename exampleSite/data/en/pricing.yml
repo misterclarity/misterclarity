@@ -16,12 +16,12 @@ pricing:
     button:
       label: Book
       link: https://calendly.com/misterclarity/60min
-  - name: Parent-Child dynamics
+  - name: Family dynamics
     price: 100€
     unit: hour
     services:
-    - Suitable for parents or children
-    - Understand all your facets
+    - Suitable for all family members
+    - Transform fear into understanding
     - Integrate family patterns
     - Stop the trauma cycle
     button:
