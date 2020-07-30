@@ -7,7 +7,7 @@ pricing:
   pricing_table:
   - name: The Gregor
     price: IBM is paying for it
-    unit: ''
+    unit: "'"
     services:
     - Cloudy with a chance of ranting
     - A swarm of Aha! moments...but see if I care
