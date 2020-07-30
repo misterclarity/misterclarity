@@ -31,6 +31,7 @@ pricing:
     price: 150€
     unit: hour
     services:
+    - First session is free
     - Outdoor coaching session
     - Travel by motorcycle (optional)
     - Location choice (optional)
