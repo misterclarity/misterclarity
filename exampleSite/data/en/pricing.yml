@@ -5,22 +5,6 @@ pricing:
     we will be on a journey together, it will create a partnership which allows both
     of us to offer and receive value organically.
   pricing_table:
-  - name: The McElvogue
-    price: IBM is paying for it
-    unit: "'"
-    services:
-    - Cloudy with a chance of ranting
-    - A swarm of Aha! moments...but see if I care
-    button: ''
-  - name: The Shahrukh
-    price: Zounds of Pounds
-    unit: minute
-    services:
-    - Sultry voice coaching
-    - Because I can
-    button:
-      label: Keep on booking
-      link: ''
   - name: Clarity
     price: 50€
     unit: hour
