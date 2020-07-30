@@ -19,6 +19,7 @@ pricing:
     price: 100€
     unit: hour
     services:
+    - First session is free
     - Suitable for all family members
     - Transform fear into understanding
     - Integrate family patterns
