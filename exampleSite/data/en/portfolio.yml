@@ -3,6 +3,18 @@ portfolio:
   enable: true
   title: Video content
   portfolio_item:
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
+  - name: 3rd
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
   - name: 2nd
     image: ''
     image_webp: ''
