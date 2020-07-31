@@ -10,6 +10,7 @@ pricing:
     unit: hour
     services:
     - First session is free
+    - Understand what happened
     button: ''
   - name: Clarity
     price: 50€
