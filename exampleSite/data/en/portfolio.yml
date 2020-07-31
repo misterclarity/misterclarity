@@ -4,9 +4,10 @@ portfolio:
   title: Coaching Resources
   portfolio_item:
   - name: 10' Guided Meditation
-    image: ''
+    image: " images/10'meditation.jpg"
     image_webp: ''
-    categories: ''
+    categories:
+    - DIY
     content: 10' meditation with Rasheed Ogunlaru
     link: https://youtu.be/JH9fuOl893Q
   - name: The Nature of Life
