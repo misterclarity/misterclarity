@@ -3,25 +3,6 @@ portfolio:
   enable: true
   title: Video content
   portfolio_item:
-  - name: ''
-    image: ''
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: ''
-  - name: The Nature of Life
-    image: ''
-    image_webp: ''
-    categories:
-    - Interview
-    content: ''
-    link: ''
-  - name: 2nd
-    image: ''
-    image_webp: ''
-    categories: []
-    content: 2nd
-    link: ''
   - name: The Nature of Life
     image: images/natureoflife.jpg
     image_webp: ''
