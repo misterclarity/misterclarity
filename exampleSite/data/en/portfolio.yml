@@ -8,4 +8,6 @@ portfolio:
     image_webp: ''
     categories: []
     content: Become Who You Are | Part 1 - The Nature of Life
-    link: https://youtu.be/lHt0SJsbO1o
+    link: <iframe width="560" height="315" src="https://www.youtube.com/embed/lHt0SJsbO1o"
+      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
