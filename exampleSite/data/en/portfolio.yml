@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Video content
   portfolio_item:
+  - name: 2nd
+    image: ''
+    image_webp: ''
+    categories:
+    - 2nd
+    content: 2nd
+    link: ''
   - name: The Nature of Life
     image: images/natureoflife.jpg
     image_webp: ''
