@@ -1,4 +1,6 @@
 ---
+- id: portfolio
+  translation: Coaching Resources
 - id: blogTitle
   translation: Latest Posts
 - id: readMore
