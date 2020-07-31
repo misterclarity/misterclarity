@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Coaching concepts
   portfolio_item:
   - name: Become Who You Are | Part 1
