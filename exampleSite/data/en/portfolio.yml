@@ -4,7 +4,7 @@ portfolio:
   title: Coaching Resources
   portfolio_item:
   - name: Guided Meditation (click here to watch)
-    image: " images/meditation.jpg"
+    image: "/images/meditation.jpg"
     image_webp: ''
     categories:
     - Guides
