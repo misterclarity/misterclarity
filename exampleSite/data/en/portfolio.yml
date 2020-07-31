@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Coaching resources
+  title: Coaching Resources
   portfolio_item:
   - name: The Nature of Life
     image: images/natureoflife.jpg
