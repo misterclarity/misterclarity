@@ -5,6 +5,12 @@ pricing:
     we will be on a journey together, it will create a partnership which allows both
     of us to offer and receive value organically.
   pricing_table:
+  - name: Divorce
+    price: "100"
+    unit: hour
+    services:
+    - First session is free
+    button: ''
   - name: Clarity
     price: 50€
     unit: hour
