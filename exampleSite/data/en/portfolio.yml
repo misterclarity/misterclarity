@@ -1,7 +1,7 @@
 ---
 portfolio:
-  enable: false
-  title: Coaching concepts
+  enable: true
+  title: Video content
   portfolio_item:
   - name: Become Who You Are | Part 1
     image: images/portfolio/portfolio-2.jpg
