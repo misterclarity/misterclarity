@@ -3,9 +3,9 @@ portfolio:
   enable: true
   title: Video content
   portfolio_item:
-  - name: Become Who You Are | Part 1
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: The Nature of Life
+    image: images/natureoflife.jpg
+    image_webp: ''
     categories: []
     content: Become Who You Are | Part 1 - The Nature of Life
     link: https://youtu.be/lHt0SJsbO1o
