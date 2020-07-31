@@ -33,7 +33,9 @@ pricing:
     services:
     - First session is free
     - Understand what happened
-    button: ''
+    button:
+      label: Book now
+      link: https://calendly.com/misterclarity/60min
   - name: Coaching in Nature
     price: 150€
     unit: hour
