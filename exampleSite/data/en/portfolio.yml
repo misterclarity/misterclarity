@@ -12,7 +12,8 @@ portfolio:
   - name: The Nature of Life
     image: ''
     image_webp: ''
-    categories: ''
+    categories:
+    - Interview
     content: ''
     link: ''
   - name: 2nd
@@ -24,6 +25,7 @@ portfolio:
   - name: The Nature of Life
     image: images/natureoflife.jpg
     image_webp: ''
-    categories: []
+    categories:
+    - Interviews
     content: Become Who You Are | Part 1 - The Nature of Life
     link: https://youtu.be/lHt0SJsbO1o
