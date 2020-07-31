@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
-  - name: 10' Guided Meditation (click this title to watch)
+  - name: 10' Guided Meditation (click here to watch)
     image: " images/10'meditation.jpg"
     image_webp: ''
     categories:
