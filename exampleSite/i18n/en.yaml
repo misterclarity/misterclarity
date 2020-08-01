@@ -17,8 +17,8 @@
   translation: About
 - id: services
   translation: My Promise
-- id: portfolio
-  translation: Portfolio
+- id: resources
+  translation: Resources
 - id: pricing
   translation: Pricing
 - id: blog
