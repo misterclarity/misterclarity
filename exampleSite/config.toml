@@ -28,6 +28,10 @@ URL = "blog"
 name = "blog"
 weight = 4
 [[menu.main]]
+URL = "portfolio"
+name = "Resources"
+weight = ""
+[[menu.main]]
 URL = "pricing"
 name = "pricing"
 weight = 3
