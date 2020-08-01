@@ -19,12 +19,12 @@ pricing:
     price: 100€
     unit: hour
     services:
-    - Written takeaway (+10€)
     - First session is free
     - Suitable for all family members
     - Transform fear into understanding
     - Develop a mature approach
     - Integrate family patterns
+    - Written takeaway (+10€)
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
