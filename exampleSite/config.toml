@@ -21,7 +21,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "portfolio"
+name = "Resources"
 weight = "6"
 [[menu.main]]
 URL = "contact"
