@@ -10,7 +10,9 @@ pricing:
     unit: hour
     services:
     - First session is free
-    - Accountability partner
+    - Gain clarity
+    - Setup a plan
+    - Have an accountability partner
     - Written takeaway (+10€)
     button:
       label: Book now
