@@ -17,6 +17,6 @@ Society is meant, partially, to offer such a space. One where we share and celeb
 
 Coaching offers a space for intimate, personal celebrations, a neutral, respectful space for grieving, and a rigorous space for problem-solving. This space enables the most hidden habits, values, ideas, feelings and resources to surface. It is the coach's **presence** that **encourages** one to go past the point of fear and self-doubt. To explore with **curiosity**, beyond feelings of anxiety, and into the areas where all the hidden resources, discarded dreams, and lost, or hidden identities reside.
 
-**Presence creates a bond** based on trust, inclusive awareness, and curiosity. People work for years to build such bonds. During coaching, due to the training and nature of a coach, this can be achieved in a few hours, if not minutes. There are moments in life where the need for such a bond becomes imperative. While it might be tempting to turn to a loved one, they are at times ill-equipped, biased, or simply unavailable to help. Hello, coach!
+**Presence creates a bond** based on trust, inclusive awareness, and curiosity. People work for years to build such bonds. During coaching, due to the training and nature of a coach, this can be achieved in a few hours, if not minutes. There are moments in life where the need for such a bond becomes imperative. While it might be tempting to turn to a loved one, they can be ill-equipped, biased, or simply unavailable to help. Hello, coach!
 
 > “Let others see their own greatness when looking in your eyes.” - Mollie Marti
