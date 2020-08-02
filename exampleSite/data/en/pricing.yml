@@ -29,7 +29,7 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
-  - name: Finding    ! Yourself
+  - name: Finding      Yourself
     price: 150€
     unit: hour
     services:
