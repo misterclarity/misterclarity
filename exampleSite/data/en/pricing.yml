@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: The price
+  title: The pricing
   pricing_table:
   - name: Personal Development
     price: 50€
@@ -31,6 +31,7 @@ pricing:
     price: 150€
     unit: hour
     services:
+    - Intro session is free
     - Outdoor coaching session(s)
     - Travel by motorcycle (optional)
     - Location choice (optional)
