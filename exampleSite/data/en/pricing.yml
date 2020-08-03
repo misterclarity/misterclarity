@@ -1,9 +1,7 @@
 ---
 pricing:
   enable: true
-  title: The pricing can also be decided during our first conversation. However long
-    we will be on a journey together, it will create a partnership which allows both
-    of us to offer and receive value organically.
+  title: The price
   pricing_table:
   - name: Personal Development
     price: 50€
@@ -33,7 +31,6 @@ pricing:
     price: 150€
     unit: hour
     services:
-    - First session is free
     - Outdoor coaching session(s)
     - Travel by motorcycle (optional)
     - Location choice (optional)
