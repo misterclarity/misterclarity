@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
+  - name: Letting go
+    image: ''
+    image_webp: ''
+    categories:
+    - Perspectives
+    content: ''
+    link: https://youtu.be/tTagzjCROPU
   - name: Guided Meditation (click here to watch)
     image: "/images/meditation.jpg"
     image_webp: ''
