@@ -1,9 +1,7 @@
 ---
 pricing:
   enable: true
-  title: The pricing can also be decided during our first conversation. However long
-    we will be on a journey together, it will create a partnership which allows both
-    of us to offer and receive value organically.
+  title: The pricing
   pricing_table:
   - name: Personal Development
     price: 50€
@@ -33,13 +31,13 @@ pricing:
     price: 150€
     unit: hour
     services:
-    - First session is free
+    - Intro session is free
     - Outdoor coaching session(s)
     - Travel by motorcycle (optional)
     - Location choice (optional)
-    - Nature opens the heart
-    - Nature restores perspective
-    - Explore beyond your comfort zone
+    - Comfort zone challenge
+    - Grounding techniques
+    - Perspective shift technique
     - Written takeaway (+10€)
     button:
       link: https://calendly.com/misterclarity/60min

@@ -3,6 +3,19 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
+  - name: Levels of consciousness (click here to watch)
+    image: "/images/walk.jpg"
+    image_webp: ''
+    categories: ''
+    content: When the going gets tough, go for a walk.
+    link: https://youtu.be/FQabwV9YjPo
+  - name: The power of surrender and letting go (click here to watch)
+    image: "/images/surrender.jpg"
+    image_webp: ''
+    categories:
+    - Perspectives
+    content: ''
+    link: https://youtu.be/tTagzjCROPU
   - name: Guided Meditation (click here to watch)
     image: "/images/meditation.jpg"
     image_webp: ''
