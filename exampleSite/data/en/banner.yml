@@ -4,7 +4,7 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Go beyond the story. Become the hero of your own life.
+  title: Go beyond. Become the hero of your own life.
   content: ''
   button:
     enable: true
