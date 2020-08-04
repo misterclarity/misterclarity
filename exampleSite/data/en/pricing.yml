@@ -15,6 +15,11 @@ pricing:
     button:
       label: Book now
       link: https://calendly.com/misterclarity/60min
+  - name: Digital Challenges
+    price: 90€
+    unit: hour
+    services: ''
+    button: ''
   - name: Relationship Dynamics
     price: 100€
     unit: hour
