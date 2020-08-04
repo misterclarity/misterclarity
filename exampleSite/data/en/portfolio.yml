@@ -6,7 +6,8 @@ portfolio:
   - name: Levels of consciousness (click here to watch)
     image: "/images/walk.jpg"
     image_webp: ''
-    categories: ''
+    categories:
+    - Guides
     content: When the going gets tough, go for a walk.
     link: https://youtu.be/FQabwV9YjPo
   - name: The power of surrender and letting go (click here to watch)
