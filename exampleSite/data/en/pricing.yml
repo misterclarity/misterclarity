@@ -16,7 +16,7 @@ pricing:
       label: Book now
       link: https://calendly.com/misterclarity/60min
   - name: Digital Challenges
-    price: 80€
+    price: 75€
     unit: hour
     services:
     - First session is free
