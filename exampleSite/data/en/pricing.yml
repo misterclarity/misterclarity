@@ -18,7 +18,11 @@ pricing:
   - name: Digital Challenges
     price: 90€
     unit: hour
-    services: ''
+    services:
+    - First session is free
+    - 'Suitable for working on:'
+    - Video games
+    - Social media
     button: ''
   - name: Relationship Dynamics
     price: 100€
