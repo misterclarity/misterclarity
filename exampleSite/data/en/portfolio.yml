@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: false
+  enable: true
   title: Coaching Resources
   portfolio_item:
   - name: Levels of consciousness (click here to watch)
