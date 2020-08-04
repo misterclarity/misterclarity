@@ -16,13 +16,15 @@ pricing:
       label: Book now
       link: https://calendly.com/misterclarity/60min
   - name: Digital Challenges
-    price: 90€
+    price: 80€
     unit: hour
     services:
     - First session is free
-    - 'Suitable for working on:'
+    - 'Suitable for balancing out:'
     - Video games
     - Social media
+    - Entertainment
+    - Pornography
     button: ''
   - name: Relationship Dynamics
     price: 100€
