@@ -4,9 +4,10 @@ portfolio:
   title: Coaching Resources
   portfolio_item:
   - name: 20' Guided Meditation (click here to watch)
-    image: ''
+    image: "/images/meditation20.jpg"
     image_webp: ''
-    categories: ''
+    categories:
+    - Guides
     content: ''
     link: https://youtu.be/_FFDfOzTgGg
   - name: Levels of consciousness (click here to watch)
