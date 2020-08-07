@@ -39,7 +39,7 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
-  - name: Discovering your self
+  - name: Discovering your Self
     price: 150€
     unit: hour
     services:
@@ -47,7 +47,7 @@ pricing:
     - Outdoor coaching session(s)
     - Comfort zone challenge
     - Grounding techniques
-    - Perspective shift technique
+    - Regain perspective
     - Written takeaway (+10€)
     button:
       link: https://calendly.com/misterclarity/60min
