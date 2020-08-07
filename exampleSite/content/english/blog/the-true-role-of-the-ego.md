@@ -1,9 +1,9 @@
 +++
 author = "Vlad-Emil Petrea"
-date = 2020-07-27T09:00:00Z
-description = "coaching"
+date = 2020-08-08T09:00:00Z
+description = "psychology"
 draft = true
-image = "/images/presence.jpg"
+image = ""
 image_webp = ""
 title = "The true role of the Ego"
 
