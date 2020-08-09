@@ -3,7 +3,7 @@ author = "Vlad-Emil Petrea"
 date = 2020-07-14T15:52:12Z
 description = "coaching"
 draft = true
-image = "/images/what-is-coaching.jpg"
+image = "/images/ignorance.jpg"
 image_webp = ""
 title = "The reason why ignorance is bliss"
 
