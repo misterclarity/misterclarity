@@ -3,6 +3,13 @@ pricing:
   enable: true
   title: The pricing
   pricing_table:
+  - name: Grounding
+    price: "125"
+    unit: hour
+    services:
+    - First session is free
+    button:
+      label: Book now
   - name: Personal Development
     price: 50€
     unit: hour
