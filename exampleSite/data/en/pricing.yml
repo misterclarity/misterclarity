@@ -26,7 +26,9 @@ pricing:
     - Entertainment
     - Pornography
     - Written takeaway included
-    button: ''
+    button:
+      link: https://calendly.com/misterclarity/60min
+      label: Book now
   - name: Grounding Yourself
     price: 100€
     unit: hour
