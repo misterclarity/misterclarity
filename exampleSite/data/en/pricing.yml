@@ -4,7 +4,7 @@ pricing:
   title: The pricing
   pricing_table:
   - name: Grounding
-    price: "125"
+    price: 125€
     unit: hour
     services:
     - First session is free
