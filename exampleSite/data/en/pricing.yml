@@ -3,15 +3,6 @@ pricing:
   enable: true
   title: The pricing
   pricing_table:
-  - name: Grounding
-    price: 125€
-    unit: hour
-    services:
-    - Written takeaway included
-    - First session is free
-    button:
-      label: Book now
-      link: https://calendly.com/misterclarity/60min
   - name: Personal Development
     price: 50€
     unit: hour
@@ -48,6 +39,15 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
+  - name: Grounding
+    price: 125€
+    unit: hour
+    services:
+    - First session is free
+    - Written takeaway included
+    button:
+      label: Book now
+      link: https://calendly.com/misterclarity/60min
   - name: Know your Self
     price: 150€
     unit: hour
