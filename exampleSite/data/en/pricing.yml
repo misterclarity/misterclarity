@@ -10,6 +10,7 @@ pricing:
     - First session is free
     button:
       label: Book now
+      link: https://calendly.com/misterclarity/60min
   - name: Personal Development
     price: 50€
     unit: hour
