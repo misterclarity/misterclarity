@@ -36,7 +36,7 @@ pricing:
     button:
       label: Book now
       link: https://calendly.com/misterclarity/60min
-  - name: Know your Self
+  - name: Knowing your Self
     price: 150€
     unit: hour
     services:
