@@ -7,6 +7,7 @@ pricing:
     price: 125€
     unit: hour
     services:
+    - Written takeaway included
     - First session is free
     button:
       label: Book now
