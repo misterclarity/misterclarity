@@ -31,8 +31,10 @@ pricing:
     price: 100€
     unit: hour
     services:
-    - Achieve (self) compassion
     - First session is free
+    - Yoga, meditation, breathwork techniques
+    - Become (self) confident
+    - Achieve (self) compassion
     - Written takeaway included
     button:
       label: Book now
