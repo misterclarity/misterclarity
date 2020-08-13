@@ -4,7 +4,8 @@ feature:
   image: images/herome.jpg
   image_webp: images/herome.webp
   title: 'I am a Transformational Coach. Here is what that means:'
-  content: I am a trusted ally during your journey to becoming who you are.
+  content: I am a trusted ally during your journey to becoming who you are. If you
+    want to know more about me, have a look at my blog.
   feature_item:
   - title: Honest, open, authentic
     icon: ti-user
