@@ -19,7 +19,9 @@ We often walk through the societal supermarket due to its convenience. It's the 
 
 > _"_
 >
-> \- I know this steak doesn't exist. I know that when I put it in my mouth, the Matrix is telling my brain... that it is juicy, and delicious. After nine years, you know what I realize?Ignorance is bliss.
+> \- I know this steak doesn't exist. I know that when I put it in my mouth, the Matrix is telling my brain... that it is juicy, and delicious. After nine years, you know what I realize? 
+>
+> Ignorance is bliss.
 >
 > \- Then we have a deal?
 >
