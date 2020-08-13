@@ -8,11 +8,9 @@ image_webp = ""
 title = "The Supermarket Society "
 
 +++
-I was talking to a friend today about the pressure between being relaxed and doing seemingly non-productive activities and the many things in life that she wants to achieve or have. She feels like she should make more effort towards the wants and desires. I had to wonder...
+I was talking to a friend today about the pressure between living in a  relaxed manner (doing seemingly non-productive activities like going for walks and meeting with friends) and pursuing the many things in life that she wants to achieve. This is what crossed my mind...
 
-Sure, we all want stuff, but the question is...do we really want it, or is it coming from societal "values" or parental desires?
-
-That's when it hit me. We live in a society similar to a supermarket:
+Sure, we all want stuff, but the question is...do we really want it, or is it coming from societal "values" or parental desires? And that's when it hit me. We live in a society similar to a supermarket:
 
 1. it offers way too much choice ("Blueberries in the winter? No problem!" | "Single mom and employee of the month? Why not?")
 2. some of the choices are framed as "superior" to others ("Fame and fortune always trump working with your hands in the dirt.")
