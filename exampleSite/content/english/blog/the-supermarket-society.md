@@ -11,7 +11,7 @@ I was talking to a friend today. Her words made me think of a funny metaphor. Sh
 
 We all want stuff, but a question arises: do we really want it, or is it about societal "values" or parental desires? The gap between what society is and what it could be makes me feel like we live in a supermarket:
 
-1. it offers way too much choice and we end up buying too much ("Blueberries in the winter? No problem!" | "Single mom and employee of the month? Why not?")
+1. it offers too much choice and we end up buying too much ("Blueberries in the winter? No problem!" | "Single mom and employee of the month? Why not?")
 2. some of the choices are framed as "superior" to others ("Fame and fortune always trump working with your hands in the dirt.")
 3. some of the choices are so devoid of real value that they leave you in a worse state than you were in before you "bought" them. (Get married young, have kids early." | "Place many of your unfulfilled needs upon their shouders.")
 
