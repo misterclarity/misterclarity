@@ -25,8 +25,6 @@ We often walk through the societal supermarket due to its convenience. It's the 
 >
 > \- Then we have a deal?
 >
-> \- I don't want to remember _nothing_. Nothing. You understand?
->
-> And I wanna be rich... you know, someone important. Like an actor.
+> \- I don't want to remember _nothing_. Nothing. You understand? And I wanna be rich... you know, someone important. Like an actor.
 >
 > "
