@@ -15,7 +15,7 @@ We all want stuff, but a question arises: do we really want it, or is it about s
 2. some choices are framed as "superior" to others ("Fame and fortune always trump working with your hands in the dirt.")
 3. many of the choices are so devoid of real value that they leave you in a worse state than you were in before you "bought" them. (Get married young, have kids early." | "Place many of your unfulfilled needs upon their shouders.")
 
-We often walk through the societal supermarket due to its convenience. It's the biggest, most comfortable, and closest to shop at. Will the food be of high quality and good for you? You might be allergic to gluten (9 - 5 job). Could you find something that's better if you go to the local farmer (away from the comfort zone)? Might even get the same amount of nutrients from half the amount of  food (spiritual practice versus societal wins). Should you give up convenience for the benefit of a more meaningful personal happiness? If not, there is a risk of becoming a non-person:
+We often walk through the societal supermarket due to its convenience. It's the biggest, most comfortable, and closest to shop at. Will the food be of high quality and good for you? You might be allergic to gluten (9 - 5 job). Could you find something that's better if you go to the local farmer (away from the comfort zone)? Might even get the same amount of nutrients from half the amount of  food (spiritual practice versus societal achievements). Should you give up convenience for the benefit of a more meaningful personal happiness? If not, there is a risk of becoming a non-person:
 
 > _"_
 >
