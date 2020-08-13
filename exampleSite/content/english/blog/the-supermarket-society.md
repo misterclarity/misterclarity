@@ -14,6 +14,8 @@ Sure, we all want stuff, but the question is...do we really want it, or is it co
 
 1. it offers way too much choice ("Blueberries in the winter? No problem!" | "Single mom and employee of the month? Why not?")
 2. some of the choices are framed as "superior" to others ("Fame and fortune always trump working with your hands in the dirt.")
-3. Many of the choices are so devoid of real value that they leave you in a worse state than you were in before you "bought" it. (Get married young, have kids while you're healthy, place all your unfulfilled needs upon their shouders.")
+3. Many of the choices are so devoid of real value that they leave you in a worse state than you were in before you "bought" it. (Get married young, have kids while you're healthy. | Place many your unfulfilled needs upon their shouders.")
+
+We often walk through the societal supermarket due to increased convenience. It's the biggest, most comfortable, closest to shop at. Will the food be of high quality and good for you? Sometimes not. Might you get better quality by going a bit further to the local farmer perhaps? 
 
 > _"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." Viktor Frankl_
