@@ -7,7 +7,7 @@ image_webp = ""
 title = "The Supermarket Society "
 
 +++
-I was talking to a friend today about the pressure between living in a  relaxed manner (doing seemingly non-productive activities like going for walks and meeting with friends) and pursuing the many things in life that she wants to achieve. This is what crossed my mind...
+I was talking to a friend today. She mentioned struggling with  the pressure between living in a  relaxed manner (doing seemingly non-productive activities like going for walks and meeting with friends) and pursuing the many things in life that she wants to achieve. This is what crossed my mind...
 
 We all want stuff, but a question arises: do we really want it, or is it about societal "values" or parental desires? The gap between what society is and what it could be makes me feel like we live in a supermarket:
 
