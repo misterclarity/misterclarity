@@ -3,19 +3,6 @@ pricing:
   enable: true
   title: The pricing
   pricing_table:
-  - name: Personal Development
-    price: 50€
-    unit: hour
-    services:
-    - First session is free
-    - Gain clarity
-    - Create a plan of action
-    - Use focus to achieve goals
-    - Maintain accountability
-    - Coaching Journal (+10€)
-    button:
-      label: Book now
-      link: https://calendly.com/misterclarity/60min
   - name: Digital Challenges
     price: 75€
     unit: hour
