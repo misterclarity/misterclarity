@@ -4,7 +4,7 @@ date = 2020-08-13T20:52:12Z
 description = "coaching"
 image = "/images/supermarket.jpg"
 image_webp = ""
-title = "The Supermarket Society "
+title = "Supermarket Society"
 
 +++
 I was talking to a friend today. Her words made me think of a funny metaphor. She mentioned struggling with the pressure between living in a  relaxed manner (doing seemingly non-productive activities like going for walks and meeting with friends) and pursuing the many things in life that she wants to achieve. This is what crossed my mind...
