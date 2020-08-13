@@ -2,7 +2,6 @@
 author = "Vlad-Emil Petrea"
 date = 2020-08-13T20:52:12Z
 description = "coaching"
-draft = true
 image = "/images/supermarket.jpg"
 image_webp = ""
 title = "The Supermarket Society "
