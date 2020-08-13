@@ -3,7 +3,7 @@ author = "Vlad-Emil Petrea"
 date = 2020-08-15T15:52:12Z
 description = "coaching"
 draft = true
-image = "/images/what-is-coaching.jpg"
+image = "/images/supermarket.jpg"
 image_webp = ""
 title = "The Supermarket Society "
 
