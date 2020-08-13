@@ -18,4 +18,20 @@ Sure, we all want stuff, but the question is...do we really want it, or is it co
 
 We often walk through the societal supermarket due to its convenience. It's the biggest, most comfortable, and closest to shop at. Will the food be of high quality and good for you? You might be allergic to gluten (9 - 17 job). Could we find something that's better for us if we go to the local farmer (away from our comfort zone)? Get the same nutrients from half the amount of  food (spiritual practice versus societal wins. Should we give up convenience for the benefit of a more meaningful personal happiness? Always.
 
-> _"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." Viktor Frankl_
+> _"_
+>
+> \- You know, I know this steak doesn't exist. I know that when
+>
+> I put it in my mouth, the Matrix is telling my brain... that
+>
+> it is juicy, and delicious. After nine years, you know what I realize?Ignorance is bliss.
+>
+> \- Then we have a deal?
+>
+> \- I don't want to remember _nothing_. Nothing. You understand?
+>
+> And I wanna be rich... you know, someone important. Like an
+>
+> actor.
+>
+> **"**
