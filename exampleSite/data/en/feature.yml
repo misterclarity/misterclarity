@@ -5,7 +5,7 @@ feature:
   image_webp: images/herome.webp
   title: 'I am a Transformational Coach. Here is what that means:'
   content: 'I am a trusted ally during your journey to becoming who you are. My focus
-    is to help you balance your interaction with the challenges of the digital era. '
+    is to help you balance your interaction with challenges of the digital era. '
   feature_item:
   - title: Honest, Open, Authentic
     icon: ti-user
