@@ -5,7 +5,7 @@ cta:
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: ' "Now, voyager, sail forth, to seek and find." - Walt Whitman'
   content: Often in life, we are just one step away from becoming a better person
-    and living a better life. Let's take that step together.
+    and living a better life. Let's take that step together!
   button:
     enable: true
     label: Take the first step
