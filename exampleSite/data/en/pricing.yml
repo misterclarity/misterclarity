@@ -4,7 +4,7 @@ pricing:
   title: The pricing
   pricing_table:
   - name: Digital Challenges
-    price: 75€
+    price: 70€
     unit: hour
     services:
     - 50% off until the end of summer!
