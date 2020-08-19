@@ -16,7 +16,7 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
-  - name: Never Mind
+  - name: Mind Mastery
     price: 100€
     unit: hour
     services:
