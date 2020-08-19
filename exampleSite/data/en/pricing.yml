@@ -3,7 +3,7 @@ pricing:
   enable: true
   title: The pricing
   pricing_table:
-  - name: Digital Challenges
+  - name: Digital Mastery
     price: 70€
     unit: hour
     services:
