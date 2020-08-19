@@ -29,7 +29,7 @@ pricing:
     button:
       label: Book now
       link: https://calendly.com/misterclarity/60min
-  - name: Knowing Yourself
+  - name: As You Are
     price: 150€
     unit: hour
     services:
