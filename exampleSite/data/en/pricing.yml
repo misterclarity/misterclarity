@@ -29,7 +29,7 @@ pricing:
     button:
       label: Book now
       link: https://calendly.com/misterclarity/60min
-  - name: As You Are
+  - name: Life Alchemy
     price: 150€
     unit: hour
     services:
