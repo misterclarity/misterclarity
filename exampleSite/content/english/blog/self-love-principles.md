@@ -32,4 +32,4 @@ title = "Self-Love Principles (Food)"
 
 11. Consistently having delicious and balanced meals is a form of self-love.
 
-> _"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." Viktor Frankl_
+> _"_The preparation of good food is merely another expression of art_."_ Dione Lucas
