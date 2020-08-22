@@ -29,6 +29,6 @@ title = "Self-Love Principles (Food)"
 
 10\. Fruit sugar is the best choice, but if fruits are not available, self-baked deserts are the best alternative.
 
-1. Consistently having delicious and balanced meals is a form of self-love.
+11. Consistently having delicious and balanced meals is a form of self-love.
 
 > _"The preparation of good food is merely another expression of art_..." Dione Lucas
