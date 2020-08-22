@@ -5,7 +5,7 @@ description = "coaching"
 draft = true
 image = "/images/what-is-coaching.jpg"
 image_webp = ""
-title = "Self-Love Principles"
+title = "Self-Love Principles (Food)"
 
 +++
 **Healthy Food**
