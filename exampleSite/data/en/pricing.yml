@@ -5,7 +5,7 @@ pricing:
   pricing_table:
   - name: Digital Mastery
     price: 70€
-    unit: hour
+    unit: session
     services:
     - 50% off until the end of summer!
     - Gain courage beyond all screens
@@ -18,7 +18,7 @@ pricing:
       label: Book now
   - name: Mental Mastery
     price: 100€
-    unit: hour
+    unit: session
     services:
     - 50% off until the end of summer!
     - Yoga & breathwork for grounding
