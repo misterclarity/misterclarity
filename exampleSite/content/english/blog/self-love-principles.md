@@ -7,7 +7,7 @@ image_webp = ""
 title = "Self-Love Principles (Food)"
 
 +++
-**Healthy Food**
+**Principles to eat by**
 
 1\. Food has a purpose. Beyond that purpose its value quickly diminishes to the point of becoming toxic, addictive, or burdensome.
 
@@ -29,6 +29,6 @@ title = "Self-Love Principles (Food)"
 
 10\. Fruit sugar is the best choice, but if fruits are not available, self-baked deserts are the best alternative.
 
-11. Consistently having delicious and balanced meals is a form of self-love.
+1. Consistently having delicious and balanced meals is a form of self-love.
 
-> _"_The preparation of good food is merely another expression of art_..."_ Dione Lucas
+> _"The preparation of good food is merely another expression of art_..." Dione Lucas
