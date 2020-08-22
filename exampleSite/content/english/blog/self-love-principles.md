@@ -8,7 +8,7 @@ image_webp = ""
 title = "Self-Love Principles"
 
 +++
-**Healthy Food Principles**
+**Healthy Food**
 
 1\. Food has a purpose. Beyond that purpose its value quickly diminishes to the point of becoming toxic, addictive, or burdensome.
 
