@@ -18,7 +18,7 @@ title = "Self-Love Principles (Food)"
 
 4\. Food has added value when self-prepared. The ritual before a meal can be as important as the meal itself.
 
-5\. Food is best enjoyed in peace. Ideally, no electronics should be in use, nor kept on the table. Reading is best done after rather than during a meal. Soothing music in the background can be a good choice.
+5\. Food is best enjoyed in peace. Ideally, no electronics should be in use, nor kept on the table. Reading is best done after, rather than during, a meal. Soothing music in the background can be a good choice.
 
 6\. Whenever possible, meals should be eaten warm. Not hot, and not cold from the fridge. Room temperature is acceptable, though not ideal.
 
@@ -30,6 +30,6 @@ title = "Self-Love Principles (Food)"
 
 10\. Fruit sugar is the best choice, but if fruits are not available, self-baked deserts are the best alternative.
 
-11\. Having delicious and balanced meals is a form of self-love.
+11. Consistently having delicious and balanced meals is a form of self-love.
 
 > _"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." Viktor Frankl_
