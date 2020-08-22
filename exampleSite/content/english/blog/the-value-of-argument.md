@@ -3,7 +3,7 @@ author = "Vlad-Emil Petrea"
 date = 2020-08-22T12:00:00Z
 description = "coaching"
 draft = true
-image = "/images/what-is-coaching.jpg"
+image = "/images/thunderstorms.jpg"
 image_webp = ""
 title = "The value of argument"
 
