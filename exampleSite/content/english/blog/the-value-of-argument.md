@@ -1,7 +1,7 @@
 +++
 author = "Vlad-Emil Petrea"
 date = 2020-08-22T12:00:00Z
-description = "coaching"
+description = "thunderstorm perspective"
 image = "/images/thunderstorms.jpg"
 image_webp = ""
 title = "The value of argument"
