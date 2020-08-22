@@ -3,7 +3,7 @@ author = "Vlad-Emil Petrea"
 date = 2020-08-22T15:52:12Z
 description = "coaching"
 draft = true
-image = "/images/what-is-coaching.jpg"
+image = "/images/food.jpg"
 image_webp = ""
 title = "Self-Love Principles (Food)"
 
