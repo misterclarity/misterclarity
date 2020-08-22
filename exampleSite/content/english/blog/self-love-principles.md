@@ -32,4 +32,4 @@ title = "Self-Love Principles (Food)"
 
 11. Consistently having delicious and balanced meals is a form of self-love.
 
-> _"_The preparation of good food is merely another expression of art_."_ Dione Lucas
+> _"_The preparation of good food is merely another expression of art_..."_ Dione Lucas
