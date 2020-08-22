@@ -8,8 +8,28 @@ image_webp = ""
 title = "Self-Love Principles"
 
 +++
-During a 1-on-1 coaching session we create a safe space for sharing thoughts, feelings, and emotions. Once a clear goal is identified, the coaching session uses conversation and active listening to uncover your hidden resources, increase your confidence, and achieve clarity. You will be amazed by how much stronger, more able, and more resourceful you actually are!
+**Healthy Food Principles**
 
-Coaching offers something society often fails to do. It recognizes the nature of life present inside each of us and brings it into optimal alignment. Once alignment is even remotely achieved, one's life becomes more fluid, resources become available, and awareness is gained. Such awareness makes free will possible, and with that ability, there is no limit to what you can achieve.
+1\. Food has a purpose. Beyond that purpose its value quickly diminishes to the point of becoming toxic, addictive, or burdensome.
+
+2\. Water can also be part of a meal. If desired, taking sips of room temperature water with a meal can aid digestion. An entire glass might do the opposite.
+
+3\. Meals should be balanced from a nutritional point of view. Vegetables and fresh ingredients should always be the top priority.
+
+4\. Food has added value when self-prepared. The ritual before a meal can be as important as the meal itself.
+
+5\. Food is best enjoyed in peace. Ideally, no electronics should be in use, nor kept on the table. Soothing music in the background can be a good choice.
+
+6\. Whenever possible, meals should be eaten warm. Not hot, and not cold from the fridge. Room temperature is acceptable, though not ideal.
+
+7\. Meals should be enjoyed in an upright seated posture. Eating while lying in bed, lounging, or standing is best avoided.
+
+8\. Stress impairs digestion. Anchor the beginning of a meal by breathing in and out deeply through the nose. Expressing one’s gratefulness for the food as well as for the body’s effort in the upcoming digestion calms the mind and prepares the body for receiving the food.
+
+9\. Keeping a food diary containing the meal time, the amount and type of food can be useful and fun. One’s well-being can be traced to the food we eat.
+
+10\. Fruit sugar is the best choice, but if fruits are not available, self-baked deserts are the best alternative.
+
+11\. Having delicious and balanced meals is a form of self-love.
 
 > _"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." Viktor Frankl_
