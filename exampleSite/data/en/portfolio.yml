@@ -4,7 +4,7 @@ portfolio:
   title: Coaching Resources
   portfolio_item:
   - name: Love (click here to watch)
-    image: ''
+    image: "/images/love.jpg"
     image_webp: ''
     categories:
     - Perspectives
