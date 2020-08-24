@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
+  - name: Overcoming bad inner voices
+    image: ''
+    image_webp: ''
+    categories:
+    - Guides
+    content: ''
+    link: https://youtu.be/gGuZVuUBeiQ
   - name: 20' Guided Meditation (click here to watch)
     image: "/images/meditation20.jpg"
     image_webp: ''
