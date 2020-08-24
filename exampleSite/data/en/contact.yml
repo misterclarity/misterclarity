@@ -3,7 +3,7 @@ contact:
   enable: true
   title: Contact Me
   subtitle: '"It is not the answer that enlightens, but the question." - Eugene Ionesco'
-  content: Feel free to call me or write me an email. I will get back to you as soon
+  content: Feel free to call, text, or write an email. I will get back to you as soon
     as possible.
   contact_list:
   - icon: ti-location-pin
