@@ -3,8 +3,8 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
-  - name: When the going gets tough (click here)
-    image: ''
+  - name: One for the road (click here)
+    image: "/images/mixtape.png"
     image_webp: ''
     categories:
     - Guides
