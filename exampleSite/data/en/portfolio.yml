@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
-  - name: Overcoming bad inner voices
+  - name: Overcoming bad inner voices (click here to watch)
     image: ''
     image_webp: "/images/badinnervoices.png"
     categories:
