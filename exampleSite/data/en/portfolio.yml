@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: Love (click here to watch)
     image: "/images/love.jpg"
-    image_webp: ''
+    image_webp: "/images/love.jpg"
     categories:
     - Perspectives
     content: Will Smith talks about his perspective on creating a loving environment.
