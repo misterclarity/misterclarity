@@ -6,7 +6,8 @@ portfolio:
   - name: How to love (click here to watch)
     image: ''
     image_webp: ''
-    categories: ''
+    categories:
+    - Perspectives
     content: Will Smith talks about his perspective on creating a loving environment.
     link: https://youtu.be/9tVkWYv484Y
   - name: Overcoming bad inner voices (click here to watch)
