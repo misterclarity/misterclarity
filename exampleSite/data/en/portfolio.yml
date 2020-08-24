@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
+  - name: When the going gets tough
+    image: ''
+    image_webp: ''
+    categories:
+    - Guides
+    content: ''
+    link: https://www.coachpedia.net/mixtape
   - name: Love (click here to watch)
     image: "/images/love.jpg"
     image_webp: "/images/love.jpg"
