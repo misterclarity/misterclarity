@@ -10,8 +10,8 @@ portfolio:
     content: Will Smith talks about his perspective on creating a loving environment.
     link: https://youtu.be/9tVkWYv484Y
   - name: Overcoming bad inner voices (click here to watch)
-    image: ''
-    image_webp: "/images/badinnervoices.png"
+    image: "/images/badinnervoices.png"
+    image_webp: ''
     categories:
     - Guides
     content: Overcoming bad inner voices
