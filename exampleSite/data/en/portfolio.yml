@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
-  - name: One for the road (click here)
+  - name: Getting back on track (click here)
     image: "/images/mixtape.png"
     image_webp: ''
     categories:
