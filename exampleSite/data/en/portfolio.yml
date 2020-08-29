@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
-  - name: More than gold
+  - name: More than gold (click here to read)
     image: "/images/morethangold.jpg"
     image_webp: ''
     categories:
