@@ -5,7 +5,7 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Carmen Diaz
-    image: "/images/carmendiaz.jpg"
+    image: "/images/carmen.png"
     image_webp: ''
     date: '"Vlad is a very intuitive coach."'
     content: I gained a much deeper level of understanding as he skilfully managed
