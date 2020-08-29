@@ -20,7 +20,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "testimonial"
+name = "testimonials"
 weight = 7
 [[menu.main]]
 URL = "portfolio"
