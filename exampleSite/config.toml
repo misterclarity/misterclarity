@@ -20,10 +20,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "testimonial"
-name = "Testimonials"
-weight = "8"
-[[menu.main]]
 URL = "contact"
 name = "contact"
 weight = "6"
@@ -47,6 +43,10 @@ weight = 2
 URL = "about"
 name = "about"
 weight = 1
+[[menu.main]]
+URL = "testimonial"
+name = "Testimonials"
+weight = "8"
 [params]
 author = "Digital Walk"
 biglogo = "images/big-logo.png"
