@@ -28,6 +28,10 @@ URL = "blog"
 name = "blog"
 weight = "6"
 [[menu.main]]
+URL = "testimonials"
+name = "testimonial"
+weight = "5"
+[[menu.main]]
 URL = "pricing"
 name = "pricing"
 weight = "4"
@@ -43,10 +47,6 @@ weight = 2
 URL = "about"
 name = "about"
 weight = 1
-[[menu.main]]
-URL = "testimonials"
-name = "testimonial"
-weight = "5"
 [params]
 author = "Digital Walk"
 biglogo = "images/big-logo.png"
