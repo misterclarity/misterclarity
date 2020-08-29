@@ -20,24 +20,21 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "testimonial"
-weight = 7
-[[menu.main]]
-URL = "portfolio"
-name = "resources"
-weight = 3
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 4
+URL = "contact"
+name = "contact"
+weight = "6"
 [[menu.main]]
 URL = "blog"
 name = "blog"
-weight = 5
+weight = "5"
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 6
+URL = "pricing"
+name = "pricing"
+weight = "4"
+[[menu.main]]
+URL = "portfolio"
+name = "resources"
+weight = "3"
 [[menu.main]]
 URL = "services"
 name = "services"
@@ -46,6 +43,10 @@ weight = 2
 URL = "about"
 name = "about"
 weight = 1
+[[menu.main]]
+URL = "testimonials"
+name = "testimonials"
+weight = "8"
 [params]
 author = "Digital Walk"
 biglogo = "images/big-logo.png"
