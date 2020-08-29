@@ -3,8 +3,8 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
-  - name: More shiny than gold
-    image: ''
+  - name: More than gold
+    image: "/images/morethangold.jpg"
     image_webp: ''
     categories:
     - Perspectives
