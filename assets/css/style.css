@@ -1130,6 +1130,7 @@ a:hover {
 .client-comment p {
   color: #afbac4;
   font-size: 18px;
+  text-align: justify;
 }
 
 .client-thumb img {
