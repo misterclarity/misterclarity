@@ -1,11 +1,11 @@
 ---
 testimonial:
-  enable: false
+  enable: true
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Carmen Diaz
-    image: ''
+    image: "/images/carmendiaz.jpg"
     image_webp: ''
     date: Aug 28, 2020
     content: Vlad is a very intuitive coach. I gained a much deeper level of understanding
