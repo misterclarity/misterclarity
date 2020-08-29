@@ -22,7 +22,7 @@ portfolio:
     image_webp: "/images/love.jpg"
     categories:
     - Perspectives
-    content: Will Smith talks about his perspective on creating a loving environment.
+    content: ''
     link: https://youtu.be/9tVkWYv484Y
   - name: Overcoming bad inner voices (click here to watch)
     image: "/images/badinnervoices.png"
