@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
+  - name: More shiny than gold
+    image: ''
+    image_webp: ''
+    categories:
+    - Perspectives
+    content: ''
+    link: https://www.theschooloflife.com/thebookoflife/the-concept-of-voluntary-poverty/
   - name: Getting back on track (click here)
     image: "/images/mixtape.png"
     image_webp: ''
