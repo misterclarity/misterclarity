@@ -45,7 +45,7 @@ name = "about"
 weight = 1
 [[menu.main]]
 URL = "testimonial"
-name = "Testimonials"
+name = "testimonials"
 weight = "8"
 [params]
 author = "Digital Walk"
