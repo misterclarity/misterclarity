@@ -4,18 +4,14 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: Jonathon Andrew
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Vlad is just this guy, you know?
-  - name: Mark Dinn
-    image: images/client/client-2.jpg
-    image_webp: images/client/client-2.webp
-    date: Dec 26, 2018
-    content: Who?
-  - name: Lemos Kail
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: I have never heard of him!
+  - name: Carmen Diaz
+    image: ''
+    image_webp: ''
+    date: Aug 28, 2020
+    content: Vlad is a very intuitive coach. I gained a much deeper level of understanding
+      as he skilfully managed to take me to look at certain areas I was avoiding due
+      to past pain. It was an emotional journey of self-discovery to walk past the
+      stories in my head and see the truth. I had an amazing aha! moment in which
+      I knew with clarity what was the next step for me to take to improve my situation.
+      I warmly recommend Vlad to anybody who is ready to challenge their beliefs/fears
+      and see the truth to change his/her life.
