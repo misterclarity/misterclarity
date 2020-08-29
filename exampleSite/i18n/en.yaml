@@ -1,6 +1,4 @@
 ---
-- id: testimonial
-  translation: Testimonials
 - id: blogTitle
   translation: Latest Posts
 - id: readMore
@@ -19,6 +17,8 @@
   translation: About
 - id: services
   translation: My Promise
+- id: testimonial
+  translation: Testimonial
 - id: resources
   translation: Resources
 - id: pricing
