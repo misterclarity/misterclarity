@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Take the first step
-    link: https://misterclarity.com/#services
+    link: "#services"
