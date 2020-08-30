@@ -4,6 +4,16 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: Maryia, Berlin
+    image: ''
+    image_webp: ''
+    date: '"Vlad is a great listener..."'
+    content: Vlad is a great listener and asks very insightful questions which prompt
+      you to see the problem / situation in a different light. He helped me to get
+      a new perspective on things which I could not unpick for years. And this empowered
+      me to make choices instead of feeling stuck. I would recommend you to work with
+      Vlad if you feel stuck in certain areas of your life and you are looking to
+      gain crystal clarity on the next steps.
   - name: Carmen Diaz
     image: "/images/carmen.png"
     image_webp: ''
