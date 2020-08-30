@@ -5,7 +5,7 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Maryia, Berlin
-    image: ''
+    image: "/images/maryia.jpg"
     image_webp: ''
     date: '"Vlad is a great listener..."'
     content: Vlad is a great listener and asks very insightful questions which prompt
