@@ -8,5 +8,5 @@ banner:
   content: ''
   button:
     enable: true
-    label: Take the first step
+    label: Explore how
     link: "#services"
