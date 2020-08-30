@@ -49,7 +49,7 @@ name = "about"
 weight = 1
 [params]
 author = "Digital Walk"
-biglogo = "images/big-logo.png"
+biglogo = ""
 description = "Built with love!"
 google_analytics_id = "UA-173554268-1"
 logo = "images/logo.png"
