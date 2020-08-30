@@ -28,12 +28,12 @@ URL = "blog"
 name = "blog"
 weight = "6"
 [[menu.main]]
-URL = "testimonials"
-name = "testimonial"
-weight = "5"
-[[menu.main]]
 URL = "pricing"
 name = "pricing"
+weight = "5"
+[[menu.main]]
+URL = "testimonials"
+name = "testimonial"
 weight = "4"
 [[menu.main]]
 URL = "portfolio"
