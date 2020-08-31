@@ -30,7 +30,7 @@ pricing:
       label: Book now
       link: https://calendly.com/misterclarity/60min
   - name: Flow Mastery
-    price: 150€
+    price: 130€
     unit: session
     services:
     - 50% off until the end of summer!
