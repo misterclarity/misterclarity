@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/herome.jpg
   image_webp: images/herome.webp
-  title: 'I am a Personal Coach. Here is what that means:'
+  title: 'I am a playful Personal Coach. Here is what that means:'
   content: 'I am a trusted ally on your life''s journey. My focus is to help you master
     the challenges of the digital era. '
   feature_item:
