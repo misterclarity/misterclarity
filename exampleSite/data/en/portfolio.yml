@@ -3,8 +3,8 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
-  - name: To Yoga or not to Yoga
-    image: ''
+  - name: To Yoga or not to Yoga (click here to read)
+    image: "/images/yoga.jpg"
     image_webp: ''
     categories:
     - Perspectives
