@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Coaching Resources
   portfolio_item:
+  - name: To Yoga or not to Yoga
+    image: ''
+    image_webp: ''
+    categories:
+    - Perspectives
+    content: ''
+    link: https://youtu.be/_8kV4FHSdNA
   - name: More than gold (click here to read)
     image: "/images/morethangold.jpg"
     image_webp: ''
