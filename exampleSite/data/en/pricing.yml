@@ -17,8 +17,8 @@ pricing:
       link: https://calendly.com/misterclarity/60min
       label: Book now
   - name: Mental Mastery
-    price: 100€
-    unit: session
+    price: 1400€
+    unit: 14 sessions
     services:
     - 50% off until the end of summer!
     - Yoga & breathwork for grounding
