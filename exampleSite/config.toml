@@ -28,7 +28,7 @@ URL = "blog"
 name = "blog"
 weight = "6"
 [[menu.main]]
-URL = "programmes"
+URL = "pricing"
 name = "programmes"
 weight = "5"
 [[menu.main]]
