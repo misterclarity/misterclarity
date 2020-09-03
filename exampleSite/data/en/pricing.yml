@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: The pricing
+  title: The programmes
   pricing_table:
   - name: Digital Mastery
     price: 70€
