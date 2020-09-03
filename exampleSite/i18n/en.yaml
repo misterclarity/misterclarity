@@ -21,8 +21,8 @@
   translation: Testimonials
 - id: resources
   translation: Resources
-- id: pricing
-  translation: Pricing
+- id: programmes
+  translation: Programmes
 - id: blog
   translation: Blog
 - id: contact
