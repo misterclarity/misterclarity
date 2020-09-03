@@ -4,8 +4,8 @@ pricing:
   title: The programmes
   pricing_table:
   - name: Digital Mastery
-    price: 70€
-    unit: session
+    price: 700€
+    unit: 10 sessions
     services:
     - 50% off until the end of summer!
     - Gain courage beyond all screens
