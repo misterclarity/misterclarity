@@ -3,6 +3,12 @@ pricing:
   enable: true
   title: The programmes
   pricing_table:
+  - name: Meaningful conversations
+    price: free
+    unit: ''
+    services:
+    - Any problem you want to unpick
+    button: ''
   - name: Digital Mastery
     price: 700€
     unit: 10 sessions
