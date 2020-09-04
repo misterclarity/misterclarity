@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: The programmes
+  title: The paths
   pricing_table:
   - name: Meaningful conversations
     price: free
