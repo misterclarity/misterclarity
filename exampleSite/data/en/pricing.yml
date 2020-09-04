@@ -5,7 +5,7 @@ pricing:
   pricing_table:
   - name: Meaningful conversations
     price: free
-    unit: ''
+    unit: session
     services:
     - Any problem you want to unpick
     button: ''
