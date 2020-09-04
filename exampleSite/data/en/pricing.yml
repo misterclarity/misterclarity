@@ -3,14 +3,6 @@ pricing:
   enable: true
   title: The paths
   pricing_table:
-  - name: Meaningful conversations
-    price: free
-    unit: 3 sessions
-    services:
-    - Any topic is welcome
-    button:
-      link: https://calendly.com/misterclarity/60min
-      label: Let's talk
   - name: Digital Mastery
     price: 700€
     unit: 10 sessions
@@ -50,3 +42,11 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
+  - name: Meaningful conversations
+    price: free
+    unit: 3 sessions
+    services:
+    - Any topic is welcome
+    button:
+      link: https://calendly.com/misterclarity/60min
+      label: Let's talk
