@@ -5,7 +5,7 @@ pricing:
   pricing_table:
   - name: Meaningful conversations
     price: free
-    unit: session
+    unit: 3 sessions
     services:
     - Any topic is welcome
     button:
