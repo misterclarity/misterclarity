@@ -8,7 +8,9 @@ pricing:
     unit: session
     services:
     - Any topic is welcome
-    button: ''
+    button:
+      link: https://calendly.com/misterclarity/60min
+      label: Let's talk
   - name: Digital Mastery
     price: 700€
     unit: 10 sessions
