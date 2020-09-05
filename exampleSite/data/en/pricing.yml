@@ -42,11 +42,3 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/60min
       label: Book now
-  - name: Meaningful conversations
-    price: free
-    unit: 3 sessions
-    services:
-    - Any topic is welcome
-    button:
-      link: https://calendly.com/misterclarity/60min
-      label: Let's talk
