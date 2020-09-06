@@ -4,8 +4,8 @@ feature:
   image: images/herome.jpg
   image_webp: images/herome.webp
   title: 'I am a playful Animal Nature Coach. Here is what that means:'
-  content: I help you (re)connect to your roots. You can consider me a wise and trusted
-    ally on your life's journey. My focus is to help you master the alienating challenges
+  content: I help you (re)connect to your roots. Consider me a wise and trusted ally
+    on your life's journey. My focus is to help you master the alienating challenges
     of the digital era.
   feature_item:
   - title: Honest, Open, Authentic
