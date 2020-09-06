@@ -4,7 +4,7 @@ pricing:
   title: The paths
   pricing_table:
   - name: Digital Mastery
-    price: Investment
+    price: ''
     unit: 10 weeks
     services:
     - 50% off for Covid-19 victims
@@ -17,7 +17,7 @@ pricing:
       link: https://calendly.com/misterclarity/60min
       label: Let's do this!
   - name: Mental Mastery
-    price: Investment
+    price: ''
     unit: 14 weeks
     services:
     - 50% off for Covid-19 victims
