@@ -9,7 +9,7 @@ title = "Self-Love Principles (Food)"
 +++
 **Principles to eat by:**
 
- 1. Food has a purpose. Beyond that purpose (eating too much) its value quickly diminishes to the point of becoming toxic, addictive, or burdensome. Having too little food is also harmful.
+ 1. Food has a purpose. Beyond that purpose (eating too much) its value quickly diminishes to the point of becoming toxic, addictive, or burdensome. Having too little food can also be harmful.
  2. Water can also be part of a meal. If desired, taking sips of water with a meal can aid digestion. Drinking an entire glass however might do the opposite.
  3. Meals should be balanced from a nutritional point of view. Vegetables and fresh ingredients should always be the top priority.
  4. Food has added value when self-prepared. The ritual before a meal can be as important as the meal itself.
