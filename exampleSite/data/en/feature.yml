@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/herome.jpg
   image_webp: images/herome.webp
-  title: 'Hi, I''m Vlad! I''m a playful Animal Nature Coach. Here is what that means:'
+  title: 'Hi, I''m Vlad! I am a playful Animal Nature Coach. Here is what that means:'
   content: I can help you (re)connect with your roots. Consider me a wise and trusted
     ally on your life's journey. My focus is to help you master the alienating challenges
     of the digital era.
