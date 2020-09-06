@@ -11,7 +11,7 @@ title = "Self-Love Principles (Food)"
 
  1. Food has a purpose. Beyond that purpose (eating too much) its value quickly diminishes to the point of becoming toxic, addictive, or burdensome. Having too little food can also be harmful.
  2. Water can also be part of a meal. If desired, taking sips of water with a meal can aid digestion. Drinking an entire glass however might do the opposite.
- 3. Meals should be balanced from a nutritional point of view. Vegetables and fresh ingredients should always be the top priority.
+ 3. Great meals are balanced from a nutritional point of view. Vegetables and fresh ingredients should always be the top priority.
  4. Food has added value when self-prepared. The ritual before a meal can be as important as the meal itself.
  5. Food is best enjoyed in peace. Ideally, no electronics should be in use, nor kept on the table. Reading is best done after, rather than during, a meal. Soothing music in the background can be a good choice.
  6. Whenever possible, meals should be eaten warm. Not hot, and not cold from the fridge. Room temperature is acceptable, though not ideal.
