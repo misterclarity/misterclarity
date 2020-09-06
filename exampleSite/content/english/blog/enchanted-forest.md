@@ -3,7 +3,7 @@ author = "Vlad-Emil Petrea"
 date = 2020-09-06T14:00:00Z
 description = "coaching"
 draft = true
-image = ""
+image = "/images/forest.jpg"
 image_webp = ""
 title = "What coaching feels like for me"
 
