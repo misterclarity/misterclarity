@@ -8,5 +8,5 @@ banner:
   content: ''
   button:
     enable: true
-    label: Take the first step
-    link: "#services"
+    label: How, Mister Clarity, Sir?
+    link: "#feature"
