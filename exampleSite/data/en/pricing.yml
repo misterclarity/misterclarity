@@ -17,7 +17,7 @@ pricing:
       link: https://calendly.com/misterclarity/60min
       label: Let's do this!
   - name: Mental Mastery
-    price: 10 sessions
+    price: ''
     unit: 14 weeks
     services:
     - 50% off for Covid-19 victims
