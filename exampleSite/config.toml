@@ -1,4 +1,4 @@
-baseURL = "https://misterclarity.com"
+baseURL = "https://boring-hamilton-b4f70c.netlify.app/"
 disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
