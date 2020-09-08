@@ -3,7 +3,7 @@ disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "misterclarity"
 title = "Mr. Clarity | Personal Coach"
 [Languages.en]
 contentDir = "content/english"
