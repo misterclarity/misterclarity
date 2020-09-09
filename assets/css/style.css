@@ -2386,9 +2386,11 @@ div.service-block {/*
   transition: all .4s;*/
   box-shadow: none;
   border: none;
-  display: flex;
   flex-direction: row-reverse;
   padding: 0;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
 }
 
 .service-text {
