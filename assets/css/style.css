@@ -2452,6 +2452,10 @@ nav.navbar {
     min-height: auto !important;
     background: none !important;
   }
+
+  section#portfolio {
+    display: none !important;
+  }
   
 }
 @media screen and (max-width: 320px){
