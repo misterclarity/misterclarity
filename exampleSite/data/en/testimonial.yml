@@ -4,6 +4,16 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: Adriana, Hamburg
+    image: "/images/adriana.jpg"
+    image_webp: ''
+    date: '".,.amazing at piecing together what you’re telling him."'
+    content: Vlad is amazing at piecing together what you’re telling him. He listens
+      fully immersed, never forgets a thing and points out the red thread holding
+      together one’s stories by asking the most insightful questions. He helped me
+      connect with a side of myself by holding the space for me to give voice to that
+      part. I enjoy his style because it balances out the inquisitive nature of coaching
+      with playful elements that led me to insightful AHA! moments.
   - name: Maryia, Berlin
     image: "/images/maryia.jpeg"
     image_webp: ''
