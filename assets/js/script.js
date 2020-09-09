@@ -133,4 +133,25 @@ jQuery(function ($) {
 		counter();
 	});
 
+
+	/* ========================================================================= */
+	/*	onscroll navigation
+	/* ========================================================================= */
+	$(window).scroll(function() {
+        if($(document).scrollTop() > 50){
+			console.log("test");
+            $('.navigation').addClass('onscroll');
+        }else{
+            $('.navigation').removeClass('onscroll');
+        }
+    });
+
+    if($(document).scrollTop() > 50){
+        $('.navigation').addClass('onscroll');
+    }else{
+        $('.navigation').removeClass('onscroll');
+    }
+
 });
+
+

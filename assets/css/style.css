@@ -2284,6 +2284,9 @@ figcaption {
 
 /*# sourceMappingURL=maps/style.css.map */
 
+/* ========================================================================= */
+/*	Hero section
+/* =========================================================================  */
 .rw-wrapper{
 	position: relative;
 	margin: 0px auto 0 auto;
@@ -2307,7 +2310,7 @@ figcaption {
 	text-shadow: 1px 1px 1px #474542c9;
 }
 .rw-sentence span{
-	color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
   font-weight: normal;
 }
 .rw-words{
@@ -2320,17 +2323,18 @@ figcaption {
 	overflow: hidden;
 	-webkit-animation: rotateWord 9s linear infinite 0s;
 	-ms-animation: rotateWord 9s linear infinite 0s;
-	animation: rotateWord 9s linear infinite 0s;
+  animation: rotateWord 9s linear infinite 0s;
+  color: #FF9F1C; 
 }
 .rw-words-1 span:nth-child(2) { 
     -webkit-animation-delay: 3s; 
 	-ms-animation-delay: 3s; 
-	animation-delay: 3s; 
+  animation-delay: 3s; 
 }
 .rw-words-1 span:nth-child(3) { 
     -webkit-animation-delay: 6s; 
 	-ms-animation-delay: 6s; 
-	animation-delay: 6s; 
+  animation-delay: 6s; 
 }
 
 @-webkit-keyframes rotateWord {
@@ -2361,14 +2365,58 @@ figcaption {
     100% { opacity: 0; }
 }
 .display-mobile {
-  display: none;
+  display: none !important;
 }
+
 .mb {
   margin-bottom: 0.3em !important;
 }
 
 #feature div.vlad-image {
   background-position: 78% 100% !important;
+}
+
+
+/* ========================================================================= */
+/*	Service block
+/* =========================================================================  */
+div.service-block {
+  border: 1px solid rgba(236,239,241,.07);
+  box-shadow: 8px 8px 0px 0px rgba(44, 44, 44, 0.418) !important;
+  transition: all .4s;
+  cursor: pointer;
+}
+
+/* ========================================================================= */
+/*	Navigation
+/* =========================================================================  */
+nav.navbar {
+  padding: 2rem 1rem;
+  transition: all .3s;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+.navigation {
+  background: none !important; 
+}
+
+.navigation.onscroll {
+  background: #1d2024 !important;
+}
+
+.navigation.onscroll nav.navbar {
+  padding: .5rem 1rem;
+}
+
+.navbar-brand {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.navigation.onscroll .navbar-brand {
+  visibility: visible;
+  opacity: 1;
 }
 
 
@@ -2386,7 +2434,7 @@ figcaption {
     width: 100%;
   }
   .display-mobile {
-    display: block;
+    display: block !important;
   }
   .hero-area .block {
     text-align: center !important;
