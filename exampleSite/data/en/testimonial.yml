@@ -5,7 +5,7 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Adriana, Hamburg
-    image: ''
+    image: "/images/adriana.jpg"
     image_webp: ''
     date: Vlad is amazing at piecing together what you’re telling him.
     content: Vlad is amazing at piecing together what you’re telling him. He listens
