@@ -2404,12 +2404,21 @@ nav.navbar {
   background: none !important; 
 }
 
+#navigation a {
+  font-size: 1.5rem !important;
+}
+
+.nav-shown .navbar-brand {
+  visibility: visible;
+  opacity: 1;
+}
+
 .navigation.onscroll {
   background: #1d2024 !important;
 }
 
 .navigation.onscroll nav.navbar {
-  padding: .5rem 1rem;
+  padding: .6rem 1rem;
 }
 
 .navbar-brand {
@@ -2460,7 +2469,41 @@ nav.navbar {
   section#portfolio {
     display: none !important;
   }
-  
+
+  #navigation {
+    text-align: center;
+    opacity: 0;
+    transition: none;
+    display: none;
+  }
+
+  .nav-shown .navbar {
+    background: #1d2024!important;
+  }
+
+  #navigation.show {
+    margin-top: -56px;
+    height: 100vh;
+    display: flex;
+    opacity: 1;
+  }
+
+  .navigation .container {
+    padding: 0 !important;
+  }
+
+  body.nav-shown {
+      overflow: hidden !important;
+  }
+
+  .navbar-brand,.navbar-toggler {
+    z-index: 1000;
+  }
+
+  .navbar-nav {
+    margin: 0 auto !important;
+  }
+
 }
 @media screen and (max-width: 320px){
 	.rw-sentence { font-size: 9px; }

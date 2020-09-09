@@ -150,6 +150,22 @@ jQuery(function ($) {
         $('.navigation').addClass('onscroll');
     }else{
         $('.navigation').removeClass('onscroll');
+	}
+	
+	//add class nav-shown to body when mobile nav is displayed
+	$(".navbar-toggler").click(function(){
+		if($("#navigation").hasClass("show") == false) {
+			$("body").addClass("nav-shown");
+		}else {
+			$("body").removeClass("nav-shown");
+		}
+	});
+
+	if($(document).width() < 768) {
+        $('#navigation a').on('click', function(){
+			$('.navbar-collapse').collapse('hide');
+			$("body").removeClass("nav-shown");
+        });
     }
 
 });
