@@ -2384,7 +2384,6 @@ div.service-block {
   border: 1px solid rgba(236,239,241,.07);
   box-shadow: 8px 8px 0px 0px rgba(44, 44, 44, 0.418) !important;
   transition: all .4s;
-  cursor: pointer;
 }
 
 /* ========================================================================= */
