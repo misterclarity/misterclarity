@@ -4,26 +4,26 @@ service:
   title: My Promise
   service_item:
   - name: Openness
-    icon: fa fa-coffee fa-md fa-4x
+    icon: fa fa-coffee fa-md fa-3x
     content: Connection happens when the basic requirements are present. Openness,
       patience, deep listening, empathy.
   - name: Clarity
-    icon: fa fa-compass fa-lg fa-3x
+    icon: fa fa-compass fa-md fa-3x
     content: Achieving clarity is a common takeaway from a coaching session. Clarity
       of thought, of emotion, of self.
   - name: Imagination
-    icon: fa fa-photo fa-lg fa-3x
+    icon: fa fa-photo fa-md fa-3x
     content: Using the power of one's imagination is a great way to understand situations
       and overcome challenges.
   - name: Centering
-    icon: fa fa-heart-o fa-lg fa-3x
+    icon: fa fa-heart-o fa-md fa-3x
     content: Moving into a place of calmness and composure, especially when dealing
       with a difficult or complex situation.
   - name: Listening
-    icon: fa fa-headphones fa-lg fa-3x
+    icon: fa fa-headphones fa-md fa-3x
     content: Deep listening is an integral part of coaching, and the benefits range
       from feeling valued all the way to feeling smarter.
   - name: Development
-    icon: fa fa-leaf fa-lg fa-3x
+    icon: fa fa-leaf fa-md fa-3x
     content: Moving step-by-step into the unknown will reveal confidence and resources
       you never knew you have.

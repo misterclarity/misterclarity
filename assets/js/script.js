@@ -139,7 +139,6 @@ jQuery(function ($) {
 	/* ========================================================================= */
 	$(window).scroll(function() {
         if($(document).scrollTop() > 50){
-			console.log("test");
             $('.navigation').addClass('onscroll');
         }else{
             $('.navigation').removeClass('onscroll');

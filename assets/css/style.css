@@ -2398,10 +2398,14 @@ div.service-block {/*
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding: 0 10px !important;
+  max-width: 73% !important;
 }
 
 .service-icon {
+  max-width: 27% !important;
   margin-bottom: 0 !important;
+  padding: 0 10px !important;
 }
 
 .inner {
