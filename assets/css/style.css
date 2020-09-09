@@ -2380,14 +2380,68 @@ figcaption {
 /* ========================================================================= */
 /*	Service block
 /* =========================================================================  */
-div.service-block {
+div.service-block {/*
   border: 1px solid rgba(236,239,241,.07);
   box-shadow: 8px 8px 1px 0px rgba(44, 44, 44, 0.418) !important;
-  transition: all .4s;
+  transition: all .4s;*/
+  box-shadow: none;
+  border: none;
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 0;
 }
 
-#services article:nth-of-type(2) .service-block {
-  background: green !important;
+.service-text {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.service-icon {
+  margin-bottom: 0 !important;
+}
+
+.inner {
+  background: green;
+  height: 0;
+  width: 100%;
+  padding-top:100%;
+  position: relative;
+  overflow: hidden;
+
+}
+
+.flexinner {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#services article:nth-of-type(2n) .service-block .service-text {
+  /*background: green !important;*/
+  text-align: left;
+}
+
+#services article:nth-of-type(2n) .service-block {
+  flex-direction: row !important;
+}
+
+#portfolio {
+  background: #292f369f;
+}
+
+#counter:before {
+  background: none !important;
+}
+
+#pricing {
+  background: #292f369f;
 }
  
 /* ========================================================================= */
@@ -2405,7 +2459,7 @@ nav.navbar {
 }
 
 #navigation a {
-  font-size: 1.5rem !important;
+  font-size: 1rem !important;
 }
 
 .nav-shown .navbar-brand {
@@ -2475,6 +2529,10 @@ nav.navbar {
     opacity: 0;
     transition: none;
     display: none;
+  }
+
+  #navigation a {
+    font-size: 1.5rem !important;
   }
 
   .nav-shown .navbar {
