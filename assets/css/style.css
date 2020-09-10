@@ -2494,7 +2494,7 @@ nav.navbar {
 /*check breakpoint*/
 @media screen and (max-width: 768px){
   .service-icon i {
-    font-size: 30px !important;
+    font-size: 35px !important;
   }
   .rw-sentence { font-size: 3rem !important; }
   .rw-words{
