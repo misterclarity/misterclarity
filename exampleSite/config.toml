@@ -32,10 +32,6 @@ URL = "portfolio"
 name = "resources"
 weight = 3
 [[menu.main]]
-URL = "testimonials"
-name = "testimonials"
-weight = 4
-[[menu.main]]
 URL = "pricing"
 name = "paths"
 weight = 5
