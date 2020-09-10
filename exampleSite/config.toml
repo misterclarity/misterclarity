@@ -25,19 +25,19 @@ name = "about"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "services"
+name = "service"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "resources"
+name = "portfolio"
 weight = 3
 [[menu.main]]
 URL = "testimonial"
-name = "testimonials"
+name = "testimonial"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "paths"
+name = "pricing"
 weight = 5
 [[menu.main]]
 URL = "blog"

@@ -20,15 +20,22 @@
 					<li class="nav-item"><a class="nav-link" href="#body">{{ .Site.Params.home }}</a></li>
 					{{ if .IsHome }}
 					{{ range .Site.Menus.main }}
-					{{ $name := .URL }}
-					{{ with $h := index $data $name }}{{ $t := index $h $name }}{{ $p:= $t.hide_on_mobile }}{{end}}
-					<li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ i18n .Name }}</a></li>
+					{{ $name := .Name }}
+					{{ $test := "" }}
+					{{ with $h := index $data $name }}{{ $t := index $h $name }}{{ if $t.hide_on_mobile }}
+					{{ $test = "hideonmobile" }}
+					{{end}}{{end}}
+					<li class="nav-item  {{$test}}"><a class="nav-link" href="#{{ .URL }}">{{ i18n .Name }}</a></li>
 					{{ end }}
 
 					{{ else }}
-
 					{{ range .Site.Menus.main }}
-					<li class="nav-item"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}#{{ .URL }}">{{ i18n .Name }}</a>
+					{{ $name := .Name }}
+					{{ $test := "" }}
+					{{ with $h := index $data $name }}{{ $t := index $h $name }}{{ if $t.hide_on_mobile }}
+					{{ $test = "hideonmobile" }}
+					{{end}}{{end}}
+					<li class="nav-item {{$test}}"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}#{{ .URL }}">{{ i18n .Name }}</a>
 					</li>
 					{{ end }}
 					{{ end }}
