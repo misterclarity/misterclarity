@@ -2409,7 +2409,7 @@ div.service-block {/*
 }
 
 .inner {
-  background: green;
+  background: #21a008;
   height: 0;
   width: 100%;
   padding-top:100%;
@@ -2491,8 +2491,11 @@ nav.navbar {
   opacity: 1;
 }
 
-
+/*check breakpoint*/
 @media screen and (max-width: 768px){
+  .service-icon i {
+    font-size: 30px !important;
+  }
   .rw-sentence { font-size: 3rem !important; }
   .rw-words{
     display: inline;
@@ -2554,6 +2557,8 @@ nav.navbar {
 
   .navigation .container {
     padding: 0 !important;
+    max-width: 100% !important;
+
   }
 
   body.nav-shown {
