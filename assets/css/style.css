@@ -2493,6 +2493,10 @@ nav.navbar {
 
 /*check breakpoint*/
 @media screen and (max-width: 768px){
+  .hideonmobile {
+    display: none !important;
+  }
+
   .service-icon i {
     font-size: 35px !important;
   }
