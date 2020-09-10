@@ -2494,6 +2494,17 @@ nav.navbar {
   opacity: 1;
 }
 
+.post-block img.img-fluid.lozad {
+  height: 250px !important;
+  width: 100%;
+  object-fit: cover !important;
+}
+
+img.img-fluid.lozad {
+  object-fit: cover !important;
+  height: 150px !important;
+}
+
 @media screen and (max-width: 993px) {
   
   #navigation {
