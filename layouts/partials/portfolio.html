@@ -3,7 +3,11 @@
 {{ if $data.portfolio.portfolio.enable }}
 {{ with $data.portfolio.portfolio }}
 {{"<!-- Portfolio Section -->" | safeHTML}}
-<section class="portfolio section" id="portfolio">
+{{ $var := "" }}
+{{ if .hide_on_mobile }}
+    {{ $var = "hideonmobile" }}
+{{ end }}
+<section class="portfolio section {{ $var }}" id="portfolio">
 	<div class="container">
 		<div class="row ">
 			<div class="col-xl-12">

@@ -3,7 +3,11 @@
 {{ if $data.service.service.enable}}
 {{ with $data.service.service}}
 {{"<!-- service -->" | safeHTML }}
-<section id="services" class="bg-one section">
+{{ $var := "" }}
+{{ if .hide_on_mobile }}
+    {{ $var = "hideonmobile" }}
+{{ end }}
+<section id="services" class="bg-one section {{ $var }}">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">

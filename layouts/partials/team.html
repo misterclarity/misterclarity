@@ -3,7 +3,11 @@
 {{ if $data.team.team.enable }}
 {{ with $data.team.team }}
 {{"<!-- Start Our Team -->" | safeHTML}}
-<section id="team" class="section">
+{{ $var := "" }}
+{{ if .hide_on_mobile }}
+    {{ $var = "hideonmobile" }}
+{{ end }}
+<section id="team" class="section {{ $var }}">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-12">

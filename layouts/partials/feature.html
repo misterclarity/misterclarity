@@ -3,7 +3,11 @@
 {{ if $data.feature.feature.enable }}
 {{ with $data.feature.feature }}
 {{"<!-- feature -->" | safeHTML}}
-<section class="section section-bg about-2 padding-0" id="feature">
+{{ $var := "" }}
+{{ if .hide_on_mobile }}
+    {{ $var = "hideonmobile" }}
+{{ end }}
+<section class="section section-bg about-2 padding-0 {{ $var }}" id="feature">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-6 padding-0 vlad-image" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 460px;">
