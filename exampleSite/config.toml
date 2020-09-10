@@ -34,15 +34,15 @@ weight = 3
 [[menu.main]]
 URL = "pricing"
 name = "paths"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "blog"
-weight = 6
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "contact"
-weight = 7
+weight = 6
 [params]
 author = "Digital Walk"
 biglogo = "images/logo.png"
