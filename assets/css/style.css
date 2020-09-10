@@ -2442,10 +2442,6 @@ div.service-block {/*
   background: #292f369f;
 }
 
-#counter:before {
-  background: none !important;
-}
-
 #pricing {
   background: #292f369f;
 }
@@ -2489,6 +2485,49 @@ nav.navbar {
 .navigation.onscroll .navbar-brand {
   visibility: visible;
   opacity: 1;
+}
+
+@media screen and (max-width: 993px) {
+  
+  #navigation {
+    text-align: center;
+    opacity: 0;
+    transition: none;
+    display: none;
+  }
+
+  #navigation a {
+    font-size: 1.5rem !important;
+  }
+
+  .nav-shown .navbar {
+    background: #1d2024!important;
+  }
+
+  #navigation.show {
+    margin-top: -56px;
+    height: 100vh;
+    display: flex;
+    opacity: 1;
+  }
+
+  .navigation .container {
+    padding: 0 !important;
+    max-width: 100% !important;
+
+  }
+
+  body.nav-shown {
+      overflow: hidden !important;
+  }
+
+  .navbar-brand,.navbar-toggler {
+    z-index: 1000;
+  }
+
+  .navbar-nav {
+    margin: 0 auto !important;
+  }
 }
 
 /*check breakpoint*/
@@ -2536,47 +2575,6 @@ nav.navbar {
   section#portfolio {
     display: none !important;
   }
-
-  #navigation {
-    text-align: center;
-    opacity: 0;
-    transition: none;
-    display: none;
-  }
-
-  #navigation a {
-    font-size: 1.5rem !important;
-  }
-
-  .nav-shown .navbar {
-    background: #1d2024!important;
-  }
-
-  #navigation.show {
-    margin-top: -56px;
-    height: 100vh;
-    display: flex;
-    opacity: 1;
-  }
-
-  .navigation .container {
-    padding: 0 !important;
-    max-width: 100% !important;
-
-  }
-
-  body.nav-shown {
-      overflow: hidden !important;
-  }
-
-  .navbar-brand,.navbar-toggler {
-    z-index: 1000;
-  }
-
-  .navbar-nav {
-    margin: 0 auto !important;
-  }
-
 }
 @media screen and (max-width: 320px){
 	.rw-sentence { font-size: 9px; }
