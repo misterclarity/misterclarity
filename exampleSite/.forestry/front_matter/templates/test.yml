@@ -2,6 +2,9 @@
 label: test
 hide_body: true
 fields:
+- name: hide_on_mobile
+  type: boolean
+  label: Hide on mobile
 - type: field_group
   name: testimonial
   label: testimonial
