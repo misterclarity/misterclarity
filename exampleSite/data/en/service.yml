@@ -1,6 +1,7 @@
 ---
 service:
   enable: true
+  hide_on_mobile: false
   title: My Promise
   service_item:
   - name: Openness

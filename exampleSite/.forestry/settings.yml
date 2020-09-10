@@ -49,13 +49,6 @@ sections:
   label: Homepage
   create: all
   match: "**/*"
-  fields: 
-    - type: boolean
-      name: hide_on_mobile
-      label: Hide on mobile
-      description: test
-      default: false
-      hidden: false
 - type: directory
   path: exampleSite/i18n
   label: i18n

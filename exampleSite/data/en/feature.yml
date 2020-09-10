@@ -1,6 +1,7 @@
 ---
 feature:
   enable: true
+  hide_on_mobile: false
   image: images/herome.jpg
   image_webp: images/herome.webp
   title: 'Hi, I''m Vlad! I am a playful Animal Nature Coach. Here is what that means:'

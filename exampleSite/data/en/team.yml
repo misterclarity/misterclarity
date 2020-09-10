@@ -1,6 +1,7 @@
 ---
 team:
   enable: false
+  hide_on_mobile: false
   title: Our Team
   team_member:
   - name: Abul Mal Muhit
