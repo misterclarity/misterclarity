@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  hide_on_mobile: false
+  hide_on_mobile: true
   title: About You
   about_item:
   - icon: ti-ruler-pencil
