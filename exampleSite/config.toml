@@ -8,7 +8,6 @@ title = "Mr. Clarity | Personal Coach"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Digital Walk.](https://apex.oracle.com/pls/apex/f?p=133899) All Rights Reserved"
-home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -20,29 +19,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+URL = "body"
+name = "banner"
+weight = 1
+[[menu.main]]
 URL = "about"
 name = "about"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "services"
 name = "service"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "portfolio"
-weight = 3
+weight = 4
 [[menu.main]]
 URL = "testimonial"
 name = "testimonial"
-weight = 4
+weight = 5
 [[menu.main]]
 URL = "pricing"
 name = "pricing"
-weight = 5
+weight = 6
 [[menu.main]]
 URL = "blog"
 name = "blog"
-weight = 6
+weight = 7
 [[menu.main]]
 URL = "contact"
 name = "contact"
