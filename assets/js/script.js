@@ -70,19 +70,13 @@ jQuery(function ($) {
 	/*	animation scroll js
 	/* ========================================================================= */
 
-	var html_body = $('html, body');
-	$('nav a, .page-scroll').on('click', function () { //use page-scroll class in any HTML tag for scrolling
-		if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
-			var target = $(this.hash);
-			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-			if (target.length) {
-				html_body.animate({
-					scrollTop: target.offset().top - 50
-				}, 1500, 'easeInOutExpo');
-				return false;
-			}
-		}
+	jQuery(document).ready(function($) {
+		$("nav a, .page-scroll").click(function(event){     
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top-50}, 500);
+		});
 	});
+	
 
 	// easeInOutExpo Declaration
 	jQuery.extend(jQuery.easing, {
