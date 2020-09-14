@@ -35,17 +35,21 @@ jQuery(function ($) {
 	$( window ).resize(function() {
 		if($(document).width() > 993) { 
 			var maxWidth = 0;
+			var sum = 0;
+			var amount = 0;
 			var widestSpan = null;
 			var $element;
 			$(".rw-words span").each(function(){
-			$element = $(this);
-			if($element.width() > maxWidth){
-				maxWidth = $element.width();
-				widestSpan = $element; 
-			}
+				$element = $(this);
+				sum += $element.width();
+				amount ++;
+				if($element.width() > maxWidth){
+					maxWidth = $element.width();
+					widestSpan = $element; 
+				}
 			});	
 			
-			$(".first").css("margin-left",-maxWidth);
+			$(".first").css("margin-left",-(sum/amount));
 		} else {
 			$(".first").css("margin-left","0");
 		}
