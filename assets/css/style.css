@@ -2337,7 +2337,7 @@ figcaption {
 .rw-words-1 span:nth-child(2) { 
     -webkit-animation-delay: 3s; 
 	-ms-animation-delay: 3s; 
-  animation-delay: 3s; 
+  animation-delay: 4s; 
 }
 .rw-words-1 span:nth-child(3) { 
     -webkit-animation-delay: 6s; 
