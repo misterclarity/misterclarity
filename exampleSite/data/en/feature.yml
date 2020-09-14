@@ -4,10 +4,10 @@ feature:
   image: images/herome.jpg
   image_webp: images/herome.webp
   title: 'Hi, I''m Vlad! I am a playful Animal Nature Coach. Here is what that means:'
-  content: 'I help you master the sometimes alienating challenges of the digital era.
-    Think of me as a wise and trusted ally on your life''s journey whose focus is
-    to help you connect with your "bare necessities" through aligning body, emotions,
-    and sleep. '
+  content: 'I help you master the alienating challenges of the digital era. Think
+    of me as a wise and trusted ally on your life''s journey whose focus is to help
+    you connect with your "bare necessities" through aligning body, emotions, and
+    sleep. '
   feature_item:
   - title: Honest, Open, Authentic
     icon: ti-user
