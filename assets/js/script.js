@@ -69,20 +69,22 @@ jQuery(function ($) {
 	/* ========================================================================= */
 	/*	animation scroll js
 	/* ========================================================================= */
-
-	var html_body = $('html, body');
-	$('nav a, .page-scroll').on('click', function () { //use page-scroll class in any HTML tag for scrolling
-		if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
+	$(function() {
+		$('nav a, .page-scroll').click(function() {
+		  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
 			var target = $(this.hash);
-			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+			target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+			console.log(target)
+			console.log(target.offset().top-50)
 			if (target.length) {
-				html_body.animate({
-					scrollTop: target.offset().top - 50
-				}, 1500, 'easeInOutExpo');
-				return false;
+			  $('html,body').animate({
+				scrollTop: target.offset().top-50
+			  }, 1000);
+			  return false;
 			}
-		}
-	});
+		  }
+		});
+	  });
 
 	// easeInOutExpo Declaration
 	jQuery.extend(jQuery.easing, {
@@ -133,4 +135,40 @@ jQuery(function ($) {
 		counter();
 	});
 
+
+	/* ========================================================================= */
+	/*	onscroll navigation
+	/* ========================================================================= */
+	$(window).scroll(function() {
+        if($(document).scrollTop() > 50){
+            $('.navigation').addClass('onscroll');
+        }else{
+            $('.navigation').removeClass('onscroll');
+        }
+    });
+
+    if($(document).scrollTop() > 50){
+        $('.navigation').addClass('onscroll');
+    }else{
+        $('.navigation').removeClass('onscroll');
+	}
+	
+	//add class nav-shown to body when mobile nav is displayed
+	$(".navbar-toggler").click(function(){
+		if($("#navigation").hasClass("show") == false) {
+			$("body").addClass("nav-shown");
+		}else {
+			$("body").removeClass("nav-shown");
+		}
+	});
+
+	if($(document).width() < 768) {
+        $('#navigation a').on('click', function(){
+			$('.navbar-collapse').collapse('hide');
+			$("body").removeClass("nav-shown");
+        });
+    }
+
 });
+
+

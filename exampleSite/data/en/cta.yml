@@ -1,6 +1,7 @@
 ---
 cta:
   enable: true
+  hide_on_mobile: false
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: ' "Now, voyager, sail forth, to seek and find." - Walt Whitman'

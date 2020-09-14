@@ -3,12 +3,11 @@ disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "misterclarity"
 title = "Mr. Clarity | Personal Coach"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Digital Walk.](https://apex.oracle.com/pls/apex/f?p=133899) All Rights Reserved"
-home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -20,33 +19,37 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = "7"
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = "6"
-[[menu.main]]
-URL = "pricing"
-name = "paths"
-weight = "5"
-[[menu.main]]
-URL = "testimonials"
-name = "testimonial"
-weight = "4"
-[[menu.main]]
-URL = "portfolio"
-name = "resources"
-weight = "3"
-[[menu.main]]
-URL = "services"
-name = "services"
-weight = 2
+URL = "body"
+name = "banner"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "about"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "services"
+name = "service"
+weight = 3
+[[menu.main]]
+URL = "portfolio"
+name = "portfolio"
+weight = 4
+[[menu.main]]
+URL = "testimonial"
+name = "testimonial"
+weight = 5
+[[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = 6
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 7
+[[menu.main]]
+URL = "contact"
+name = "contact"
+
 [params]
 author = "Digital Walk"
 biglogo = "images/logo.png"

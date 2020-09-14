@@ -1,6 +1,7 @@
 ---
 pricing:
   enable: true
+  hide_on_mobile: false
   title: The paths
   pricing_table:
   - name: Digital Mastery

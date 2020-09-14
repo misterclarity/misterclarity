@@ -3,7 +3,11 @@
 {{ if $data.skill.skill.enable }}
 {{ with $data.skill.skill }}
 {{"<!-- Skills -->" | safeHTML }}
-<section id="skills" class="parallax-section section section-bg overly">
+{{ $var := "" }}
+{{ if .hide_on_mobile }}
+    {{ $var = "hideonmobile" }}
+{{ end }}
+<section id="skills" class="parallax-section section section-bg overly {{ $var }}">
 	<div class="container">
 		<div class="row">
 			{{"<!-- section title -->" | safeHTML }}
