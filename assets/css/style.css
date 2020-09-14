@@ -2302,7 +2302,7 @@ figcaption {
 }
 
 .hero-area .block {
-  text-align: left !important;
+  text-align: center !important;
   width: 65% !important;
 }
 
@@ -2313,7 +2313,7 @@ figcaption {
 
 .rw-sentence{
 	margin: 0;
-  text-align: left !important;
+  text-align: center !important;
 	text-shadow: 1px 1px 1px #474542c9;
 }
 .rw-sentence span{
@@ -2325,7 +2325,8 @@ figcaption {
 	text-indent: 10px;
 }
 .rw-words-1 span{
-	position: absolute;
+  position: absolute;
+  width: max-content;
 	opacity: 0;
 	overflow: hidden;
 	-webkit-animation: rotateWord 9s linear infinite 0s;
@@ -2506,6 +2507,24 @@ img.img-fluid.lozad {
 }
 
 @media screen and (max-width: 993px) {
+  .first {
+    position: relative;
+    right: 0;
+  }
+  .display-mobile {
+    display: block !important;
+  }
+  .rw-words{
+    display: inline;
+    text-indent: 0;
+  }
+  .rw-sentence {
+    text-align: center !important;
+  }
+  .rw-sentence span {
+    left: 0;
+    width: 100%;
+  }
   
   #navigation {
     text-align: center;
@@ -2569,9 +2588,7 @@ img.img-fluid.lozad {
     left: 0;
     width: 100%;
   }
-  .display-mobile {
-    display: block !important;
-  }
+
   .hero-area .block {
     text-align: center !important;
     width: 95% !important;
