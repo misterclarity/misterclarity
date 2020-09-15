@@ -41,3 +41,5 @@ fields:
       - type: text
         name: label
         label: label
+pages:
+- exampleSite/data/en/pricing.yml
