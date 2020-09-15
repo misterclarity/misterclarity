@@ -19,20 +19,16 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "body"
-name = "banner"
-weight = 1
-[[menu.main]]
 URL = "about"
 name = "about"
 weight = 2
 [[menu.main]]
 URL = "services"
-name = "service"
+name = "services"
 weight = 3
 [[menu.main]]
 URL = "portfolio"
-name = "portfolio"
+name = "resources"
 weight = 4
 [[menu.main]]
 URL = "testimonial"
@@ -40,7 +36,7 @@ name = "testimonial"
 weight = 5
 [[menu.main]]
 URL = "pricing"
-name = "pricing"
+name = "paths"
 weight = 6
 [[menu.main]]
 URL = "blog"
