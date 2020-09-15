@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   hide_on_mobile: true
   title: Coaching Resources
   portfolio_item:
