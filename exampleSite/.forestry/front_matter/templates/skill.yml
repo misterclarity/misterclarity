@@ -34,3 +34,5 @@ fields:
     - type: text
       name: percent
       label: percent
+pages:
+- exampleSite/data/en/skill.yml
