@@ -1,0 +1,44 @@
+---
+label: banner
+hide_body: true
+fields:
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: boolean
+    name: hide_on_mobile
+    label: hide_on_mobile
+  - type: file
+    name: bg_image_webp
+    label: bg_image_webp
+  - type: file
+    name: bg_image
+    label: bg_image
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: content
+    label: content
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+pages:
+- exampleSite/data/en/banner.yml

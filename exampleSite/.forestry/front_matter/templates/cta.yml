@@ -1,0 +1,41 @@
+---
+label: cta
+hide_body: true
+fields:
+- type: field_group
+  name: cta
+  label: cta
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - name: hide_on_mobile
+    type: boolean
+    label: Hide on mobile
+  - type: file
+    name: bg_image
+    label: bg_image
+  - type: file
+    name: bg_image_webp
+    label: bg_image_webp
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: content
+    label: content
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+pages:
+- exampleSite/data/en/cta.yml

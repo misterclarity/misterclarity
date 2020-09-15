@@ -9,3 +9,4 @@ cta:
     enable: true
     label: Let's take that step together.
     link: https://calendly.com/misterclarity/60min
+  hide_on_mobile: false

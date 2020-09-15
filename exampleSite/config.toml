@@ -19,10 +19,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "body"
-name = "banner"
-weight = 1
-[[menu.main]]
 URL = "about"
 name = "about"
 weight = 2

@@ -1,0 +1,38 @@
+---
+label: skill
+hide_body: true
+fields:
+- type: field_group
+  name: skill
+  label: skill
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: boolean
+    name: hide_on_mobile
+    label: hide_on_mobile
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: image
+    label: image
+  - type: field_group_list
+    name: skill_item
+    label: skill_item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: percent
+      label: percent
+pages:
+- exampleSite/data/en/skill.yml

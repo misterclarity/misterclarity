@@ -1,0 +1,48 @@
+---
+label: team
+hide_body: true
+fields:
+- type: field_group
+  name: team
+  label: team
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: boolean
+    name: hide_on_mobile
+    label: hide_on_mobile
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: team_member
+    label: team_member
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: file
+      name: image_webp
+      label: image_webp
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: designation
+      label: designation
+    - type: textarea
+      name: content
+      label: content
+    - type: field_group_list
+      name: social
+      label: social
+      fields:
+      - type: text
+        name: icon
+        label: icon
+      - type: text
+        name: link
+        label: link
+pages:
+- exampleSite/data/en/team.yml

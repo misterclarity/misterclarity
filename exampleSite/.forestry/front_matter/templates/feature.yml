@@ -1,0 +1,41 @@
+---
+label: feature
+hide_body: true
+fields:
+- type: field_group
+  name: feature
+  label: feature
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - name: hide_on_mobile
+    type: boolean
+    label: Hide on mobile
+  - type: file
+    name: image
+    label: image
+  - type: file
+    name: image_webp
+    label: image_webp
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: feature_item
+    label: feature_item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: icon
+      label: icon
+    - type: textarea
+      name: content
+      label: content
+pages:
+- exampleSite/data/en/feature.yml

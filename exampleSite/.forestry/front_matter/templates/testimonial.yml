@@ -1,0 +1,41 @@
+---
+label: testimonial
+hide_body: true
+fields:
+- type: field_group
+  name: testimonial
+  label: testimonial
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - name: hide_on_mobile
+    type: boolean
+    label: Hide on mobile
+  - type: file
+    name: bg_image
+    label: bg_image
+  - type: file
+    name: bg_image_webp
+    label: bg_image_webp
+  - type: field_group_list
+    name: testimonial_item
+    label: testimonial_item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: image
+      label: image
+    - type: text
+      name: image_webp
+      label: image_webp
+    - type: text
+      name: date
+      label: date
+    - type: textarea
+      name: content
+      label: content
+pages:
+- exampleSite/data/en/testimonial.yml

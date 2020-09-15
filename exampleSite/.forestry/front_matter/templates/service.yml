@@ -1,0 +1,32 @@
+---
+label: service
+hide_body: true
+fields:
+- type: field_group
+  name: service
+  label: service
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - name: hide_on_mobile
+    type: boolean
+    label: Hide on mobile
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: service_item
+    label: service_item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: icon
+      label: icon
+    - type: textarea
+      name: content
+      label: content
+pages:
+- exampleSite/data/en/service.yml
