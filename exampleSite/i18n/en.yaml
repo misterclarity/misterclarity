@@ -15,13 +15,13 @@
   translation: All
 - id: about
   translation: About
-- id: services
+- id: service
   translation: My Promise
 - id: testimonial
   translation: Testimonials
-- id: resources
+- id: portfolio
   translation: Resources
-- id: paths
+- id: pricing
   translation: Paths
 - id: blog
   translation: Blog

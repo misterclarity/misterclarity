@@ -2605,11 +2605,7 @@ img.img-fluid.lozad {
   #feature div.vlad-image  {
     min-height: auto !important;
     background: none !important;
-  }
-
-  section#portfolio {
-    display: none !important;
-  }
+  } 
 }
 @media screen and (max-width: 320px){
 	.rw-sentence { font-size: 9px; }
