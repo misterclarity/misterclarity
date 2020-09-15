@@ -9,6 +9,9 @@ fields:
   - type: boolean
     name: enable
     label: enable
+  - name: hide_on_mobile
+    type: boolean
+    label: Hide on mobile
   - type: file
     name: bg_image
     label: bg_image
@@ -34,6 +37,3 @@ fields:
     - type: textarea
       name: content
       label: content
-  - name: hide_on_mobile
-    type: boolean
-    label: Hide on mobile
