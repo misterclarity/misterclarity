@@ -1,7 +1,6 @@
 ---
 about:
   enable: true
-  hide_on_mobile: false
   title: About You
   about_item:
   - icon: ti-ruler-pencil
@@ -11,7 +10,7 @@ about:
   - icon: ti-cup
     title: You are Resourceful
     content: Your subconscious is full of hidden resources, ideas, and solutions.
-      Coaching helps you discover them.
+      Coaching helps you discover and use them.
   - icon: ti-world
     title: You are Whole
     content: What if there is nothing wrong with you? Integrate all the critical voices
