@@ -1,12 +1,11 @@
 ---
 cta:
   enable: true
-  hide_on_mobile: false
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: ' "Now, voyager, sail forth, to seek and find." - Walt Whitman'
-  content: Often in life we are just one step away from living a better life.
+  content: Often in life we are just ONE STEP away from living a better life.
   button:
     enable: true
-    label: Let's take that step together
+    label: Let's take that step together.
     link: https://calendly.com/misterclarity/60min
