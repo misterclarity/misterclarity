@@ -27,3 +27,4 @@ service:
     icon: fa fa-leaf fa-lg fa-3x
     content: Moving step-by-step into the unknown will reveal confidence and resources
       you never knew you have.
+  hide_on_mobile: false
