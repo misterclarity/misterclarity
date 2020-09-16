@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "misterclarity"
-title = "Mr. Clarity | Personal Coach"
+title = "Mr. Clarity | Animal Nature Coach"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Digital Walk.](https://apex.oracle.com/pls/apex/f?p=133899) All Rights Reserved"
@@ -45,7 +45,6 @@ weight = 7
 [[menu.main]]
 URL = "contact"
 name = "contact"
-
 [params]
 author = "Digital Walk"
 biglogo = "images/logo.png"
