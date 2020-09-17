@@ -1,4 +1,4 @@
-baseURL = "https://misterclarity.com"
+baseURL = "https://spiritsplay.com"
 disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
@@ -45,7 +45,6 @@ weight = 7
 [[menu.main]]
 URL = "contact"
 name = "contact"
-
 [params]
 author = "Digital Walk"
 biglogo = "images/logo.png"
