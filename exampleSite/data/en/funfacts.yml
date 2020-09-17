@@ -1,7 +1,7 @@
 ---
 funfacts:
   enable: true
-  hide_on_mobile: false
+  hide_on_mobile: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
