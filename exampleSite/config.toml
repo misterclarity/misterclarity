@@ -46,7 +46,7 @@ weight = 7
 URL = "contact"
 name = "contact"
 [params]
-author = "Digital Walk"
+author = "Coachpedia"
 biglogo = "images/logo.png"
 description = "Born to be wild!"
 google_analytics_id = "UA-173554268-1"
