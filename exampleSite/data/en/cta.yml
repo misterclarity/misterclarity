@@ -3,9 +3,8 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: "“To deny our own impulses is to deny the very thing that makes us human.”
-    - Bertrand Russell"
-  content: Often in life we are just ONE STEP away from living a better life.
+  title: "“To deny our own impulses is to deny the very thing that makes us human.”"
+  content: Often in life we are just one impulse away from living a better life.
   button:
     enable: true
     label: Let's take that step together.
