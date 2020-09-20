@@ -3,10 +3,11 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: "“To deny our own impulses is to deny the very thing that makes us human.”"
+  title: "“To deny our own impulses is to deny the very thing that makes us human.”
+    - B. Russell"
   content: Often in life we are just one impulse away from living a better life.
   button:
     enable: true
-    label: Let's take that step together.
+    label: Don't let that impulse go to waste!
     link: https://calendly.com/misterclarity/60min
   hide_on_mobile: false
