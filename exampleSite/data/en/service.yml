@@ -22,7 +22,7 @@ service:
   - name: Listening
     icon: fa fa-headphones fa-lg fa-3x
     content: Deep listening is an integral part of coaching and the benefits range
-      from feeling valued all the way to feeling smarter.
+      from feeling valued all the way to genuinely feeling smarter.
   - name: Development
     icon: fa fa-leaf fa-lg fa-3x
     content: Moving step-by-step into the unknown will reveal confidence and resources
