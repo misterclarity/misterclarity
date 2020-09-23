@@ -9,8 +9,8 @@ service:
       patience, deep listening, empathy.
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
-    content: Achieving clarity is a common takeaway from a coaching session. Clarity
-      of thought, of emotion, of Self.
+    content: Coaching helps wtih embracing reality and the inherent uncertainty of
+      life in order to reach clarity of thought, of emotion, of Self.
   - name: Imagination
     icon: fa fa-photo fa-lg fa-3x
     content: Using the power of one's imagination is a great way to understand situations
