@@ -21,7 +21,7 @@ service:
       with a difficult or complex situation.
   - name: Listening
     icon: fa fa-headphones fa-lg fa-3x
-    content: Deep listening is an integral part of coaching, and the benefits range
+    content: Deep listening is an integral part of coaching and the benefits range
       from feeling valued all the way to feeling smarter.
   - name: Development
     icon: fa fa-leaf fa-lg fa-3x
