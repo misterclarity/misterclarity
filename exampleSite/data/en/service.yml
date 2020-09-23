@@ -9,8 +9,8 @@ service:
       patience, deep listening, empathy.
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
-    content: Coaching,by embracing reality and the inherent uncertainty of life, helps
-      you reach clarity of thought, of emotion, of Self.
+    content: Coaching, by embracing reality and the inherent uncertainty of life,
+      helps you reach clarity of thought, of emotion, of Self.
   - name: Imagination
     icon: fa fa-photo fa-lg fa-3x
     content: Using the power of one's imagination is a great way to understand situations
