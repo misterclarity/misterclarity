@@ -3,6 +3,11 @@ about:
   enable: true
   title: About You
   about_item:
+  - icon: ti-heart
+    title: You are wild
+    content: There is a force of nature inside you, waiting to be unleashed from the
+      shackles of conformity. Gain courage, move meaningfully forward, and achieve
+      timeless happiness.
   - icon: ti-ruler-pencil
     title: You are Creative
     content: Reconnect to your inner child and regain the power of your imagination.
