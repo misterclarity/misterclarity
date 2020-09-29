@@ -4,8 +4,8 @@ cta:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: "“To deny our own impulses is to deny the very thing that makes us human.”"
-  content: You are 30 seconds away from living a better life. Will you take the first
-    step?
+  content: 'You are 30 seconds away from living a better life. What are you waiting
+    for? '
   button:
     enable: true
     label: Get unleashed!
