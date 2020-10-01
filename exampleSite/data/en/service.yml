@@ -13,8 +13,8 @@ service:
       helps you reach clarity of thought, of emotion, of Self.
   - name: Imagination
     icon: fa fa-photo fa-lg fa-3x
-    content: Using the power of one's imagination is a great way to understand situations
-      and overcome challenges.
+    content: Reconnect to your inner child and reclaim the power of your imagination.
+      Once you can imagine it, you can become it.
   - name: Centering
     icon: fa fa-heart-o fa-lg fa-3x
     content: Stepping into a place of calmness and composure, especially when dealing
