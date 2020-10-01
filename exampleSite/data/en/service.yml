@@ -6,7 +6,7 @@ service:
   - name: Authenticity
     icon: fa fa-awesome-face fa-lg fa-3x
     content: Your animal nature is the key to staying true to your Self regardless
-      of circumstances. Satisfaction becomes a feeling you wake with up every day.
+      of circumstances. Satisfaction becomes a feeling you wake up with.
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
     content: Through embracing reality and the inherent uncertainty of life, coaching
