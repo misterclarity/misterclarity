@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Your Gains
+  title: Your Progress
   service_item:
   - name: Authenticity
     icon: fa fa-awesome-face fa-lg fa-3x
