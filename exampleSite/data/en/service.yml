@@ -14,7 +14,7 @@ service:
   - name: Imagination
     icon: fa fa-photo fa-lg fa-3x
     content: Reconnect to your inner child and reclaim the power of your imagination.
-      Once you can imagine it, you will become it.
+      Once you can imagine it, you will become it!
   - name: Centering
     icon: fa fa-heart-o fa-lg fa-3x
     content: Stepping into a place of calmness and composure, especially when dealing
