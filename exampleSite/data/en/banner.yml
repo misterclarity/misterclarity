@@ -10,4 +10,4 @@ banner:
   button:
     enable: true
     label: Are you talking to me?
-    link: "#feature"
+    link: "#about"
