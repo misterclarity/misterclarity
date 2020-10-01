@@ -9,5 +9,5 @@ banner:
   content: ''
   button:
     enable: true
-    label: Says who?!
+    label: Who, me?
     link: "#feature"
