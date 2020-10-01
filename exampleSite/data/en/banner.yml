@@ -9,5 +9,5 @@ banner:
   content: ''
   button:
     enable: true
-    label: Are you talking to me?
+    label: Talking to me?
     link: "#about"
