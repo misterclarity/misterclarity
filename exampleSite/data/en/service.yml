@@ -1,12 +1,12 @@
 ---
 service:
   enable: true
-  title: My Promise
+  title: Your Gains
   service_item:
-  - name: Openness
-    icon: fa fa-coffee fa-lg fa-3x
-    content: Connection happens when the basic requirements are present. Openness,
-      patience, empathy, compassion, and presence.
+  - name: Authenticity
+    icon: fa fa-awesome-face fa-lg fa-3x
+    content: Your animal nature is the key to staying true to your Self regardless
+      of circumstances. Satisfaction becomes a feeling you wake with up every day.
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
     content: Through embracing reality and the inherent uncertainty of life, coaching
