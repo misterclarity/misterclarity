@@ -19,10 +19,10 @@ service:
     icon: fa fa-tree fa-lg fa-3x
     content: Stepping easily into a place of calm and composure, especially when dealing
       with a difficult or complex situation.
-  - name: Listening
+  - name: Intelligence
     icon: fa fa-headphones fa-lg fa-3x
-    content: Deep listening is an integral part of coaching and the benefits range
-      from feeling valued all the way to genuinely feeling smarter.
+    content: Engaging in a space that offers time to think is an investment in your
+      Self that makes you genuinely smarter.
   - name: Confidence
     icon: fa fa-level-up fa-lg fa-3x
     content: Moving step-by-step into the unknown will reveal resources you never
