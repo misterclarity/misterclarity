@@ -20,7 +20,7 @@ service:
     content: Stepping easily into a place of calm and composure, especially when dealing
       with a difficult or complex situation.
   - name: Intelligence
-    icon: fa fa-headphones fa-lg fa-3x
+    icon: fa fa-lightbulb-o fa-lg fa-3x
     content: Engaging in a space that offers time to think is an investment in your
       Self that makes you genuinely smarter.
   - name: Confidence
