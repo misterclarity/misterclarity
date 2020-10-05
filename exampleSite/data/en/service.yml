@@ -12,7 +12,7 @@ service:
     content: Through embracing reality and the inherent uncertainty of life, coaching
       helps you reach clarity of thought, of emotion, of Self.
   - name: Focus
-    icon: fa fa-search-plus fa-lg fa-3x
+    icon: fa fa-bolt fa-lg fa-3x
     content: Reconnecting with your animal nature nurishes and increases your free
       will. Once you can focus your vision and efforts, you become the hero!
   - name: Grounding
