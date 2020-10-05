@@ -21,8 +21,8 @@ service:
       with a difficult or complex situation.
   - name: Intelligence
     icon: fa fa-lightbulb-o fa-lg fa-3x
-    content: Engaging in a space that genuinely offers time to think is an investment
-      in your Self that makes you genuinely smarter.
+    content: Engaging in a space that genuinely offers time to think and make decisions
+      is the optimal environment for your mental capacity.
   - name: Confidence
     icon: fa fa-level-up fa-lg fa-3x
     content: Moving step-by-step into the unknown will reveal resources you never
