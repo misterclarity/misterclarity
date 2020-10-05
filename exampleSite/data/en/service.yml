@@ -17,7 +17,7 @@ service:
       Once you can imagine it, you will become it!
   - name: Grounding
     icon: fa fa-tree-o fa-lg fa-3x
-    content: Stepping into a place of calm and composure, especially when dealing
+    content: Stepping easily into a place of calm and composure, especially when dealing
       with a difficult or complex situation.
   - name: Listening
     icon: fa fa-headphones fa-lg fa-3x
