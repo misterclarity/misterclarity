@@ -13,7 +13,7 @@ service:
       helps you reach clarity of thought, of emotion, of Self.
   - name: Imagination
     icon: fa fa-photo fa-lg fa-3x
-    content: Reconnect to your inner child and reclaim the power of your imagination.
+    content: Reconnecting to your inner child and reclaim the power of your imagination.
       Once you can imagine it, you will become it!
   - name: Grounding
     icon: fa fa-tree fa-lg fa-3x
