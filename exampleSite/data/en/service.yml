@@ -1,30 +1,30 @@
 ---
 service:
   enable: true
-  title: My Promise
+  title: Your Progress
   service_item:
-  - name: Openness
-    icon: fa fa-coffee fa-lg fa-3x
-    content: Connection happens when the basic requirements are present. Openness,
-      patience, deep listening, empathy.
+  - name: Authenticity
+    icon: fa fa-awesome-face fa-lg fa-3x
+    content: Your animal nature is the key to staying true to your Self regardless
+      of circumstances. Satisfaction is a feeling you wake up with.
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
-    content: Achieving clarity is a common takeaway from a coaching session. Clarity
-      of thought, of emotion, of self.
-  - name: Imagination
-    icon: fa fa-photo fa-lg fa-3x
-    content: Using the power of one's imagination is a great way to understand situations
-      and overcome challenges.
-  - name: Centering
-    icon: fa fa-heart-o fa-lg fa-3x
-    content: Stepping into a place of calmness and composure, especially when dealing
-      with a difficult or complex situation.
-  - name: Listening
-    icon: fa fa-headphones fa-lg fa-3x
-    content: Deep listening is an integral part of coaching, and the benefits range
-      from feeling valued all the way to feeling smarter.
-  - name: Development
-    icon: fa fa-leaf fa-lg fa-3x
-    content: Moving step-by-step into the unknown will reveal confidence and resources
-      you never knew you have.
+    content: Through embracing reality you reach clarity of thought, of emotion, and
+      of direction in life.
+  - name: Focus
+    icon: fa fa-bolt fa-lg fa-3x
+    content: Reconnecting with your animal nature nurishes and increases your free
+      will. Once you focus on your vision and efforts, you become the hero!
+  - name: Grounding
+    icon: fa fa-tree fa-lg fa-3x
+    content: Stepping easily into a place of calm and composure, especially when dealing
+      with a tough or complex situation.
+  - name: Intelligence
+    icon: fa fa-lightbulb-o fa-lg fa-3x
+    content: Engaging in a space that genuinely offers time to think and make decisions
+      is the optimal environment for your mental capacity.
+  - name: Confidence
+    icon: fa fa-level-up fa-lg fa-3x
+    content: Moving step-by-step into the unknown will reveal resources you never
+      knew you have.
   hide_on_mobile: false

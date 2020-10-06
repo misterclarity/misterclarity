@@ -4,10 +4,10 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "misterclarity"
-title = "Mr. Clarity | Personal Coach"
+title = "Mr. Clarity | Animal Nature Coach"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Digital Walk.](https://apex.oracle.com/pls/apex/f?p=133899) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Coachpedia.](https://coachpedia.net) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -46,9 +46,9 @@ weight = 7
 URL = "contact"
 name = "contact"
 [params]
-author = "Digital Walk"
+author = "Coachpedia"
 biglogo = "images/logo.png"
-description = "Built with love"
+description = "You were born to be wild!"
 google_analytics_id = "UA-173554268-1"
 logo = "images/logo.png"
 post_share = true
@@ -85,7 +85,7 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"

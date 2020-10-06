@@ -1,4 +1,4 @@
-{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ $data := index site.Data site.Language.Lang }}
 
 {{ if $data.banner.banner.enable }}
 {{ with $data.banner.banner }}
@@ -9,7 +9,7 @@
 {{ end }}
 <section class="hero-area {{ $var }}" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
 	<!-- this image is for trigger this section fallback background image -->
-	<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" src="{{ .bg_image_webp | absURL }}" />
+	<img class="lozad d-none" data-src="{{ .bg_image_webp | absURL }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"/>
 
 	<div class="block">
 		{{ if .icon }}
@@ -39,7 +39,7 @@
 				</div>
 				<br/>
 				</div>
-				<span><b>Become the <b style="color:#FF9F1C;">HERO</b> of your life!</b></span>
+				<span class="test"><b>Become the <b style="color:#FF9F1C;">HERO</b> of your life!</b></span>
 			</h1>
 		</div>
 		<h1 class="rw-sentence-IE">

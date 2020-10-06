@@ -3,16 +3,16 @@ about:
   enable: true
   title: About You
   about_item:
-  - icon: ti-ruler-pencil
-    title: You are Creative
-    content: Reconnect to your inner child and regain the power of your imagination.
-      If you can imagine it, you can become it.
+  - icon: ti-heart
+    title: You are Wild
+    content: There is a force of nature inside you which empowers, moves you forward,
+      and provides timeless happiness.
   - icon: ti-cup
     title: You are Resourceful
     content: Your subconscious is full of hidden resources, ideas, and solutions.
-      Coaching helps you discover and use them.
+      You can discover and use them!
   - icon: ti-world
     title: You are Whole
     content: What if there is nothing wrong with you? Integrate all the critical voices
-      by gaining perspective and a deeper self-awareness.
+      by gaining perspective and a deeper Self-awareness.
   hide_on_mobile: false

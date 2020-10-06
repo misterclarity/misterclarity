@@ -3,10 +3,11 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: ' "Now, voyager, sail forth, to seek and find." - Walt Whitman'
-  content: Often in life we are just ONE STEP away from living a better life.
+  title: "“To deny our own impulses is to deny the very thing that makes us human.”"
+  content: 'You are 30 seconds away from living a better life. What are you waiting
+    for? '
   button:
     enable: true
-    label: Let's take that step together.
+    label: Get unleashed!
     link: https://calendly.com/misterclarity/60min
   hide_on_mobile: false
