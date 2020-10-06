@@ -18,10 +18,6 @@
 	{{ $styles := resources.Get "css/style.css" | minify }}
 	<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
-	{{"<!-- Custom stylesheet - for your changes -->" |safeHTML}}
-	{{ $custom := resources.Get "css/custom.css" | minify }}
-  <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
-
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 	<link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
