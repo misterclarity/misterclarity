@@ -7,7 +7,7 @@
 				{{ if .Site.Params.logo }}
 				<img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
 				{{ else }}
-				{{ .Site.Title }}
+				{{ site.Title }}
 				{{ end }}
 			</a>
 
@@ -45,10 +45,9 @@
 					<li class="nav-item"><a class="nav-link" target="_blank" href="{{ .URL }}">{{ i18n .Name }}</a>
 					</li>
 					{{ end }}
-					
 				</ul>
 				<!-- Language List -->
-				{{- if .Site.IsMultiLingual }}
+				{{- if site.IsMultiLingual }}
 				<select id="select-language" onchange="location = this.value;">
 
 					{{ $siteLanguages := .Site.Languages}}
