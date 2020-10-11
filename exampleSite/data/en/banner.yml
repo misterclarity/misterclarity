@@ -9,5 +9,5 @@ banner:
   content: ''
   button:
     enable: true
-    label: Get started
+    label: GET STARTED
     link: "#about"
