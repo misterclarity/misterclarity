@@ -4,6 +4,15 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: Fartun, Vienna
+    image: ''
+    image_webp: ''
+    date: I warmly recommend to each and everyone...
+    content: 'I really appreciated the coaching sessions with Vlad as I gained so
+      much clarity out of them. He really puts you at ease with his calm demeanour
+      while he helps you address and figure out the issue at hand yourself. I warmly
+      recommend to each and everyone - no matter what life situation they are dealing
+      with - to try out a session with him and thank me later. '
   - name: Marti, Budapest
     image: "/images/marti.jpg"
     image_webp: ''
