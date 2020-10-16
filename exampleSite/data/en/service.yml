@@ -21,8 +21,8 @@ service:
       with a tough or complex situation.
   - name: Intelligence
     icon: fa fa-lightbulb-o fa-lg fa-3x
-    content: Engaging in a space that genuinely offers time to think and make decisions
-      is the optimal environment for your mental capacity.
+    content: Increased mental capacity after engaging in a space that genuinely offers
+      time to think and make your own decisions.
   - name: Confidence
     icon: fa fa-level-up fa-lg fa-3x
     content: Moving step-by-step into the unknown will reveal resources you never
