@@ -9,8 +9,8 @@ service:
       of circumstances. Satisfaction is a feeling you wake up with.
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
-    content: Through embracing reality you reach clarity of thought, of emotion, and
-      of direction in life.
+    content: Embracing and integrating reality provides clarity of thought, of emotion,
+      and of direction in life.
   - name: Focus
     icon: fa fa-bolt fa-lg fa-3x
     content: Reconnecting with your animal nature nurishes and increases your free
