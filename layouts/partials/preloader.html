@@ -2,8 +2,13 @@
 {{ "<!-- preloader start -->" | safeHTML }}
 <div class="preloader">
   {{ with site.Params.preloader.preloader }}
-  <img src="{{ . | absURL }}" alt="preloader">
-  {{ end }}
+  <div class="l-preloader">
+    <div class="l-preloader-spinner">
+      <div class="g-preloader type_4">
+        <div></div>
+      </div>
+    </div>
+  </div>  {{ end }}
 </div>
 {{ "<!-- preloader end -->" | safeHTML }}
 {{ end }}

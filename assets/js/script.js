@@ -3,7 +3,17 @@
 /* ========================================================================= */
 
 $(window).on('load', function () {
-	$('.preloader').fadeOut(100);
+	setTimeout(()=>{
+		$('.l-preloader').addClass("done");
+		$('.preloader').fadeOut(100);	
+	},1000);
+});
+
+$(".cta-btn").click(function(){
+	$(".cta").addClass("show");
+});
+$(".cta-close").click(function(){
+	$(".cta").removeClass("show");
 });
 
 jQuery(function ($) {

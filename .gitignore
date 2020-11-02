@@ -8,3 +8,5 @@ node_modules
 builds
 package-lock.json
 resources
+.scss
+.css.map
