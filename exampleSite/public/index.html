@@ -28,10 +28,7 @@
 
 	<!-- Main Stylesheet -->
 	
-	<link rel="stylesheet" href="https://misterclarity.com/css/style.min.23449a705ddad75fbe841d1d044b1d37019128d3a3d9fc1afb188a12f85c6785a7f6d2c7130f7bbbd0025e114071f4d8.css" integrity="sha384-I0SacF3a11&#43;&#43;hB0dBEsdNwGRKNOj2fwa&#43;xiKEvhcZ4Wn9tLHEw97u9ACXhFAcfTY" media="screen">
-
-  <!-- Custom stylesheet - for your changes -->
-  <link rel="stylesheet" href="/css/custom.css" media="screen">
+	<link rel="stylesheet" href="https://misterclarity.com/css/style.min.css" media="screen">
 
 	<!--Favicon-->
 	<link rel="shortcut icon" href="https://misterclarity.com/images/favicon.png" type="image/x-icon">
@@ -54,7 +51,31 @@
 
 <body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
   <div id="content">
+    <div class="cta">
+    <a class="cta-btn"><i class="ti-plus"></i></a>
+    <div class="popup text-left">
+      <div class="popup-header d-flex justify-space-between">
+        <h5 class="">A great <span class="green">birthday present!!</span></h5>
+        <a class="cta-close ml-auto d-flex align-items-start"><i class="ti-close"></i></a>
+      </div>
+      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt </p>
+      <a class="btn-main text-white cursor-pointer" href="mailto:coach@misterclarity.com"><i class="ti-send"></i>Contact now</a>
+    </div>
+  </div>
     
+<!-- preloader start -->
+<div class="preloader">
+  
+  <div class="l-preloader">
+    <div class="l-preloader-spinner">
+      <div class="g-preloader type_4">
+        <div></div>
+      </div>
+    </div>
+  </div>  
+</div>
+<!-- preloader end -->
+
 
 
 
@@ -62,17 +83,44 @@
 
 
 <!-- Welcome Slider-->
-<section class="hero-area" style='background-image: url("https://misterclarity.com/images/backgrounds/hero-area.webp")'>
+
+
+<section class="hero-area " style='background-image: url("https://misterclarity.com/images/backgrounds/hero-area.webp")'>
 	
-	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/misterclarity.com\/images\/backgrounds\/hero-area.jpg)'" data-src="https://misterclarity.com/images/backgrounds/hero-area.webp" />
+	<img class="lozad d-none" data-src="https://misterclarity.com/images/backgrounds/hero-area.webp" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/misterclarity.com\/images\/backgrounds\/hero-area.jpg)'"/>
 
 	<div class="block">
 		
-		<h1>Go beyond. Become the hero of your own life.</h1>
+		<style>
+			.no-cssanimations .rw-wrapper .rw-sentence span:first-child{
+				opacity: 1;
+			}
+		</style>
+		
+		<div class="rw-wrapper">
+			<h1 class="rw-sentence">
+				<div class="mb">
+				<span class="first"><b>Go beyond</span><br class="display-mobile"/>
+				<div class="rw-words rw-words-1">
+					<span><b>the screen.</b></span>
+					<span><b>the story.</b></span>
+					<span><b>the virtual.</b></span>
+				</div>
+				<br/>
+				</div>
+				<span class="test"><b>Become the <b style="color:#FF9F1C;">HERO</b> of your life!</b></span>
+			</h1>
+		</div>
+		<h1 class="rw-sentence-IE">
+			<span class="mb">Go beyond the screen.</span><br/>
+			<span>Become the <b style="color:#FF9F1C;">HERO</b> of your life!</span>
+		</h1>
+
+
 		<p></p>
 		
 		
-		<a href="#about" class="btn btn-transparent page-scroll">I know a secret!</a>
+		<a href="#about" class="btn btn-transparent page-scroll">GET STARTED</a>
 		
 		
 	</div>
@@ -82,12 +130,14 @@
 
 
 
-<section class="sticky-top navigation">
+
+
+<section class="fixed-top navigation">
 	<div class="container">
 		<nav class="navbar navbar-expand-lg navbar-dark">
-			<a class="navbar-brand p-0" href="/">
+			<a class="navbar-brand p-0" href="#body">
 				
-				<img class="lozad" data-src="https://misterclarity.com/images/logo.png" alt="Mr. Clarity | Animal Nature Coach" height="42">
+				<img class="img-fluid" src="https://misterclarity.com/images/logo.png" alt="Mr. Clarity | Animal Nature Coach">
 				
 			</a>
 
@@ -100,25 +150,48 @@
 					<li class="nav-item"><a class="nav-link" href="#body"></a></li>
 					
 					
-					<li class="nav-item"><a class="nav-link" href="#about">About</a></li>
 					
-					<li class="nav-item"><a class="nav-link" href="#services">My Promise</a></li>
 					
-					<li class="nav-item"><a class="nav-link" href="#portfolio">Resources</a></li>
 					
-					<li class="nav-item"><a class="nav-link" href="#testimonial">Testimonials</a></li>
+					<li class="nav-item  "><a class="nav-link" href="#about">About</a></li>
 					
-					<li class="nav-item"><a class="nav-link" href="#pricing">Paths</a></li>
 					
-					<li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
 					
-					<li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+					
+					<li class="nav-item  "><a class="nav-link" href="#services">My Promise</a></li>
+					
+					
+					
+					
+					
+					
+					<li class="nav-item  hideonmobile"><a class="nav-link" href="#portfolio">Resources</a></li>
+					
+					
+					
+					
+					<li class="nav-item  "><a class="nav-link" href="#testimonial">Testimonials</a></li>
+					
+					
+					
+					
+					<li class="nav-item  "><a class="nav-link" href="#pricing">Paths</a></li>
+					
+					
+					
+					
+					<li class="nav-item  "><a class="nav-link" href="#blog">Blog</a></li>
+					
+					
+					
+					
+					<li class="nav-item  "><a class="nav-link" href="#contact">Contact</a></li>
 					
 
 					
-
 					
 
+					
 				</ul>
 				
 			</div>
@@ -132,7 +205,10 @@
 
 
 <!-- Start About Section -->
-<section class="bg-one about section" id="about">
+
+
+
+<section class="bg-one about section " id="about">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
@@ -169,7 +245,7 @@
 					<!-- Express About Yourself -->
 					<div class="content text-center">
 						<h3>You are Resourceful</h3>
-						<p>Your subconscious is full of hidden resources, ideas, and solutions. You can discover and use them!</p>
+						<p>Your subconscious is full of hidden resources, ideas, and solutions. Discover and use them in your favor!</p>
 					</div>
 				</div>
 			</div>
@@ -201,17 +277,23 @@
 
 
 <!-- feature -->
-<section class="section section-bg about-2 padding-0" id="feature">
+
+
+<section class="section section-bg about-2 padding-0 " id="feature">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-lg-6 padding-0" style="background-image: url('https://misterclarity.com/images/herome.webp'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
-				
-				<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/misterclarity.com\/images\/herome.jpg)'" data-src="https://misterclarity.com/images/herome.webp" />
+			<div class="col-lg-6 padding-0 vlad-image" style="background-image: url('https://misterclarity.com/images/herome.webp'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 460px;">
+			
+			<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/misterclarity.com\/images\/herome.jpg)'" src="https://misterclarity.com/images/herome.webp" />
 			</div>
 			<div class="col-lg-6">
 				<div class="content-block">
-					<h2>Hi, I&rsquo;m Vlad! I am a playful Animal Nature Coach. Here is what that means:</h2>
-					<p>I help you master the alienating challenges of the digital era. Think of me as a wise and trusted ally who aligns body, emotions, and sleep to connect you with your &ldquo;bear necessities&rdquo;. How, you ask? With much love and a few skills:</p>
+					<h2>Hi, I&rsquo;m Vlad! I empower today&rsquo;s leaders to integrate their animal nature and become true heroes. Curious?</h2>
+
+				           Traditionally, a coach helps you improve faster than you would on your own. </br>
+					   But I am no ordinary coach, integrating yoga, dance, mindfulness, breathwork, and astrology.</br> 
+					   Working with me is like playing a game where the ultimate prize is a powerful way of being.</br>
+					   In this game, I play your wise and trusted ally with a brave <span aria-hidden="true" class="fa fa-heart fa-anim-vertical-shake" style="color:#FF0064"></span>  and a special set of skills:</p>
 					<div class="row">
 						
 						<div class="col-lg-6">
@@ -286,7 +368,9 @@
 
 
 <!-- Start Call To Action -->
-<section id="cta" class="call-to-action section-sm bg-1 overly" style='background-image: url("https://misterclarity.com/images/backgrounds/bg-white-wall.webp")'>
+
+
+<section id="cta" class="call-to-action section-sm bg-1 overly " style='background-image: url("https://misterclarity.com/images/backgrounds/bg-white-wall.webp")'>
 	
 	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/misterclarity.com\/images\/backgrounds\/bg-white-wall.jpg)'" data-src="https://misterclarity.com/images/backgrounds/bg-white-wall.webp" />
 	<div class="container">
@@ -296,7 +380,7 @@
 				<p>You are 30 seconds away from living a better life. What are you waiting for?</p>
 				
 				
-				<a href="https://calendly.com/misterclarity/60min" class="btn btn-main page-scroll">Get unleashed!</a>
+				<a href="https://calendly.com/misterclarity/60min" class="btn btn-main">Get unleashed!</a>
 				
 				
 			</div>
@@ -313,7 +397,9 @@
 
 
 <!-- service -->
-<section id="services" class="bg-one section">
+
+
+<section id="services" class="bg-one section ">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
@@ -328,73 +414,109 @@
 
 			
 			<!-- Single Service Item -->
-			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="service-block text-center">
-					<div class="service-icon text-center">
-						<i class="fa fa-awesome-face fa-lg fa-3x"></i>
+			<article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+				<div class="service-block text-center d-flex">
+					<div class="service-icon text-center col-4">
+						<div class="inner">
+							<div class="flexinner">
+								<i class="fa fa-awesome-face fa-lg fa-3x"></i>
+							</div>
+						</div>
 					</div>
+					<div class="service-text col-8">
 					<h3>Authenticity</h3>
 					<p>Your animal nature is the key to staying true to your Self regardless of circumstances. Satisfaction is a feeling you wake up with.</p>
+					</div>
 				</div>
 			</article>
 			<!-- End Single Service Item -->
 			
 			<!-- Single Service Item -->
-			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="service-block text-center">
-					<div class="service-icon text-center">
-						<i class="fa fa-compass fa-lg fa-3x"></i>
+			<article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+				<div class="service-block text-center d-flex">
+					<div class="service-icon text-center col-4">
+						<div class="inner">
+							<div class="flexinner">
+								<i class="fa fa-compass fa-lg fa-3x"></i>
+							</div>
+						</div>
 					</div>
+					<div class="service-text col-8">
 					<h3>Clarity</h3>
-					<p>Through embracing reality you reach clarity of thought, of emotion, and of direction in life.</p>
+					<p>Embracing and integrating reality provides clarity of thought, of emotion, and of direction in life.</p>
+					</div>
 				</div>
 			</article>
 			<!-- End Single Service Item -->
 			
 			<!-- Single Service Item -->
-			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="service-block text-center">
-					<div class="service-icon text-center">
-						<i class="fa fa-bolt fa-lg fa-3x"></i>
+			<article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+				<div class="service-block text-center d-flex">
+					<div class="service-icon text-center col-4">
+						<div class="inner">
+							<div class="flexinner">
+								<i class="fa fa-bolt fa-lg fa-3x"></i>
+							</div>
+						</div>
 					</div>
+					<div class="service-text col-8">
 					<h3>Focus</h3>
-					<p>Reconnecting with your animal nature nurishes and increases your free will. Once you focus on your vision and efforts, you become the hero!</p>
+					<p>Reconnecting with your animal nature validates and increases your free will. Once you focus on your vision and efforts, you become the hero!</p>
+					</div>
 				</div>
 			</article>
 			<!-- End Single Service Item -->
 			
 			<!-- Single Service Item -->
-			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="service-block text-center">
-					<div class="service-icon text-center">
-						<i class="fa fa-tree fa-lg fa-3x"></i>
+			<article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+				<div class="service-block text-center d-flex">
+					<div class="service-icon text-center col-4">
+						<div class="inner">
+							<div class="flexinner">
+								<i class="fa fa-tree fa-lg fa-3x"></i>
+							</div>
+						</div>
 					</div>
+					<div class="service-text col-8">
 					<h3>Grounding</h3>
 					<p>Stepping easily into a place of calm and composure, especially when dealing with a tough or complex situation.</p>
+					</div>
 				</div>
 			</article>
 			<!-- End Single Service Item -->
 			
 			<!-- Single Service Item -->
-			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="service-block text-center">
-					<div class="service-icon text-center">
-						<i class="fa fa-lightbulb-o fa-lg fa-3x"></i>
+			<article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+				<div class="service-block text-center d-flex">
+					<div class="service-icon text-center col-4">
+						<div class="inner">
+							<div class="flexinner">
+								<i class="fa fa-lightbulb-o fa-lg fa-3x"></i>
+							</div>
+						</div>
 					</div>
+					<div class="service-text col-8">
 					<h3>Intelligence</h3>
-					<p>Engaging in a space that genuinely offers time to think and make decisions is the optimal environment for your mental capacity.</p>
+					<p>Increased mental capacity from engaging in a space that genuinely offers time to think and make your own decisions.</p>
+					</div>
 				</div>
 			</article>
 			<!-- End Single Service Item -->
 			
 			<!-- Single Service Item -->
-			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="service-block text-center">
-					<div class="service-icon text-center">
-						<i class="fa fa-level-up fa-lg fa-3x"></i>
+			<article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+				<div class="service-block text-center d-flex">
+					<div class="service-icon text-center col-4">
+						<div class="inner">
+							<div class="flexinner">
+								<i class="fa fa-level-up fa-lg fa-3x"></i>
+							</div>
+						</div>
 					</div>
+					<div class="service-text col-8">
 					<h3>Confidence</h3>
 					<p>Moving step-by-step into the unknown will reveal resources you never knew you have.</p>
+					</div>
 				</div>
 			</article>
 			<!-- End Single Service Item -->
@@ -417,7 +539,11 @@
 
 
 <!-- Portfolio Section -->
-<section class="portfolio section" id="portfolio">
+
+
+    
+
+<section class="portfolio section hideonmobile" id="portfolio">
 	<div class="container">
 		<div class="row ">
 			<div class="col-xl-12">
@@ -499,7 +625,7 @@
 		<div class="row shuffle-wrapper justify-content-center">
 			<!-- portfolio item -->
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;perspectives&quot;]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/yoga.jpg'" alt="To Yoga or not to Yoga (click here to read)">
@@ -518,7 +644,7 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;perspectives&quot;]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/morethangold.jpg'" alt="More than gold (click here to read)">
@@ -537,10 +663,10 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;guides&quot;]">
 				<div class="portfolio-block mb-4">
-					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/mixtape.png'" alt="Getting back on track (click here to access)">
+					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/mixtape.png'" alt="Pit stop (click here to access)">
 					<div class="caption">
 						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/mixtape.png"
 							data-lightbox="image-1">
@@ -548,7 +674,7 @@
 						</a>
 						<h4 class="mt-3">
 							
-							<a href="https://www.coachpedia.net/mixtape">Getting back on track (click here to access)</a>
+							<a href="https://www.coachpedia.net/mixtape">Pit stop (click here to access)</a>
 							
 						</h4>
 						<p></p>
@@ -556,7 +682,7 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;perspectives&quot;]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="https://misterclarity.com/images/love.jpg" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/love.jpg'" alt="Love (click here to watch)">
@@ -575,7 +701,7 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;guides&quot;]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/badinnervoices.png'" alt="Overcoming bad inner voices (click here to watch)">
@@ -594,7 +720,7 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;guides&quot;]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/meditation20.jpg'" alt="20&#39; guided meditation (click here to watch)">
@@ -613,7 +739,7 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;guides&quot;]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/walk.jpg'" alt="Levels of consciousness (click here to watch)">
@@ -632,7 +758,7 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;perspectives&quot;]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/surrender.jpg'" alt="The power of surrender (click here to watch)">
@@ -651,10 +777,10 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;guides&quot;]">
 				<div class="portfolio-block mb-4">
-					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/meditation.jpg'" alt="10&#39; guided meditation (click here to watch)">
+					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/meditation.jpg'" alt="Joy time with yourself (click here to watch)">
 					<div class="caption">
 						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/meditation.jpg"
 							data-lightbox="image-1">
@@ -662,7 +788,7 @@
 						</a>
 						<h4 class="mt-3">
 							
-							<a href="https://youtu.be/JH9fuOl893Q">10&#39; guided meditation (click here to watch)</a>
+							<a href="https://youtu.be/9Euz0cUpyPI">Joy time with yourself (click here to watch)</a>
 							
 						</h4>
 						<p></p>
@@ -670,7 +796,7 @@
 				</div>
 			</div>
 			
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[&quot;interviews&quot;]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/natureoflife.jpg'" alt="The nature of life (click here to watch)">
@@ -702,7 +828,11 @@
 
 
 <!-- Start Counter Section -->
-<section id="counter" class="parallax-section bg-1 section overly" style='background-image: url("https://misterclarity.com/images/backgrounds/bg-white-wall.webp")'>
+
+
+    
+
+<section id="counter" class="parallax-section bg-1 section overly hideonmobile" style='background-image: url("https://misterclarity.com/images/backgrounds/bg-white-wall.webp")'>
 	
 	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/misterclarity.com\/images\/backgrounds\/bg-white-wall.jpg)'" data-src="https://misterclarity.com/images/backgrounds/bg-white-wall.webp" />
 	<div class="container">
@@ -757,19 +887,161 @@
 
 
 
+<!-- Start Testimonial -->
+
+
+<section id="testimonial" class="testimonial overly section bg-2 "
+	style='background-image: url("https://misterclarity.com/images/backgrounds/bg-testimonial.webp")'>
+	
+	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/misterclarity.com\/images\/backgrounds\/bg-testimonial.jpg)'" data-src="https://misterclarity.com/images/backgrounds/bg-testimonial.webp" />
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-12">
+				<!-- testimonial wrapper -->
+				<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
+					
+					<!-- testimonial single -->
+					<div class="item text-center">
+
+						<!-- client photo -->
+						<div class="client-thumb">
+							<img class="img-fluid lozad" data-src="https://misterclarity.com/images/fartun.png" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/fartun.png'" alt="Fartun, Vienna">
+						</div>
+
+						<!-- client info -->
+						<div class="client-info">
+							<div class="client-meta">
+								<h3>Fartun, Vienna</h3>
+								<h5 style="color:#FF9F1C;font-style: italic">&#34;...try out a session with him and thank me later.&#34;</h5><br>
+							</div>
+							<div class="client-comment">
+								<p>I really appreciated the coaching sessions with Vlad as I gained so much clarity out of them. He really puts you at ease with his calm demeanour while he helps you address and figure out the issue at hand yourself. I warmly recommend to each and everyone - no matter what life situation they are dealing with - to try out a session with him and thank me later.</p>
+							</div>
+						</div>
+					</div>
+					<!-- /testimonial single -->
+					
+					<!-- testimonial single -->
+					<div class="item text-center">
+
+						<!-- client photo -->
+						<div class="client-thumb">
+							<img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/marti.jpg'" alt="Marti, Budapest">
+						</div>
+
+						<!-- client info -->
+						<div class="client-info">
+							<div class="client-meta">
+								<h3>Marti, Budapest</h3>
+								<h5 style="color:#FF9F1C;font-style: italic">&#34;I did not feel lost anymore, but empowered.&#34;</h5><br>
+							</div>
+							<div class="client-comment">
+								<p>Based on our discussion and thanks to the meaningful questions Vlad raised I decided to pursue my goal about blogging. He comforted me the whole time making sure that I did not feel lost anymore, but empowered. Vlad&rsquo;s observations helped me realize some of my misbeliefs and overcome them - all this in a patient, thoughtful manner.</p>
+							</div>
+						</div>
+					</div>
+					<!-- /testimonial single -->
+					
+					<!-- testimonial single -->
+					<div class="item text-center">
+
+						<!-- client photo -->
+						<div class="client-thumb">
+							<img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/adriana.jpg'" alt="Adriana, Hamburg">
+						</div>
+
+						<!-- client info -->
+						<div class="client-info">
+							<div class="client-meta">
+								<h3>Adriana, Hamburg</h3>
+								<h5 style="color:#FF9F1C;font-style: italic">&#34;Amazing at piecing together what you’re telling him.&#34;</h5><br>
+							</div>
+							<div class="client-comment">
+								<p>Vlad is amazing at piecing together what you’re telling him. He listens fully immersed, never forgets a thing and points out the red thread holding together one’s stories by asking the most insightful questions. He helped me connect with a side of myself by holding the space for me to give voice to that part. I enjoy his style because it balances out the inquisitive nature of coaching with playful elements that led me to insightful AHA! moments.</p>
+							</div>
+						</div>
+					</div>
+					<!-- /testimonial single -->
+					
+					<!-- testimonial single -->
+					<div class="item text-center">
+
+						<!-- client photo -->
+						<div class="client-thumb">
+							<img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/maryia.jpeg'" alt="Maryia, Berlin">
+						</div>
+
+						<!-- client info -->
+						<div class="client-info">
+							<div class="client-meta">
+								<h3>Maryia, Berlin</h3>
+								<h5 style="color:#FF9F1C;font-style: italic">&#34;A great listener.&#34;</h5><br>
+							</div>
+							<div class="client-comment">
+								<p>Vlad is a great listener and asks very insightful questions which prompt you to see the problem / situation in a different light. He helped me to get a new perspective on things which I could not unpick for years. And this empowered me to make choices instead of feeling stuck. I would recommend you to work with Vlad if you feel stuck in certain areas of your life and you are looking to gain crystal clarity on the next steps.</p>
+							</div>
+						</div>
+					</div>
+					<!-- /testimonial single -->
+					
+					<!-- testimonial single -->
+					<div class="item text-center">
+
+						<!-- client photo -->
+						<div class="client-thumb">
+							<img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/carmen.png'" alt="Carmen, London">
+						</div>
+
+						<!-- client info -->
+						<div class="client-info">
+							<div class="client-meta">
+								<h3>Carmen, London</h3>
+								<h5 style="color:#FF9F1C;font-style: italic">&#34;A very intuitive coach.&#34;</h5><br>
+							</div>
+							<div class="client-comment">
+								<p>I gained a much deeper level of understanding as he skillfully managed to take me to look at certain areas I was avoiding due to past pain. It was an emotional journey of self-discovery to walk past the stories in my head and see the truth. I had an amazing aha! moment in which I knew with clarity what was the next step for me to take to improve my situation. I warmly recommend Vlad to anybody who is ready to challenge their beliefs/fears and see the truth to change his/her life.</p>
+							</div>
+						</div>
+					</div>
+					<!-- /testimonial single -->
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- /testimonial -->
+
+
+
+
+
+
+
+
 <!-- Start Pricing section -->
-<section id="pricing" class="pricing section">
+
+
+<section id="pricing" class="pricing section ">
   <div class="container">
     <div class="row justify-content-center">
 
       <!-- section title -->
-      <div class="col-lg-12">
+      <div class="col-lg-12 text-center">
         <div class="title text-center wow fadeInDown" data-wow-duration="500ms">
 					<h2> The <span class="color">
-              paths </span></h2>
-          <div class="border-meghna"></div>
-        </div>
+						 paths </span></h2>
+		
+        	<p> Below you can get a feeling for my bespoke coaching plans. <br>
+		However, I love having meaningful conversations, so just <a href="#contact" style="color:#FF9F1C;" class="page-scroll">reach out to me</a> no matter the topic.<br>
+		</p>   
+		
+		<div class="border-meghna"></div>
+		   
+	</div>	  
+
       </div>
+
       <!-- /section title -->
 
       
@@ -796,7 +1068,7 @@
             
             <li>Social media &amp; entertainment</li>
             
-            <li>Coaching Journal</li>
+            <li>Coaching journal</li>
             
           </ul>
 
@@ -831,7 +1103,7 @@
             
             <li>Increase your self-confidence</li>
             
-            <li>Coaching Journal</li>
+            <li>Coaching journal</li>
             
           </ul>
 
@@ -866,7 +1138,7 @@
             
             <li>Awaken your inner Daemon</li>
             
-            <li>Coaching Journal</li>
+            <li>Coaching journal</li>
             
           </ul>
 
@@ -882,115 +1154,6 @@
   </div>
 </section>
 <!-- /pricing -->
-
-
-
-
-
-
-
-
-<!-- Start Testimonial -->
-<section id="testimonial" class="testimonial overly section bg-2"
-	style='background-image: url("https://misterclarity.com/images/backgrounds/bg-testimonial.webp")'>
-	
-	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/misterclarity.com\/images\/backgrounds\/bg-testimonial.jpg)'" data-src="https://misterclarity.com/images/backgrounds/bg-testimonial.webp" />
-	<div class="container">
-		<div class="row">
-			<div class="col-xl-12">
-				<!-- testimonial wrapper -->
-				<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
-					
-					<!-- testimonial single -->
-					<div class="item text-center">
-
-						<!-- client photo -->
-						<div class="client-thumb">
-							<img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/marti.jpg'" alt="Marti, Budapest">
-						</div>
-
-						<!-- client info -->
-						<div class="client-info">
-							<div class="client-meta">
-								<h3>Marti, Budapest</h3>
-								<span>&#34;I did not feel lost anymore, but empowered.&#34;</span>
-							</div>
-							<div class="client-comment">
-								<p>Based on our discussion and thanks to the meaningful questions Vlad raised I decided to pursue my goal about blogging. He comforted me the whole time making sure that I did not feel lost anymore, but empowered. Vlad&rsquo;s observations helped me realize some of my misbeliefs and overcome them - all this in a patient, thoughtful manner.</p>
-							</div>
-						</div>
-					</div>
-					<!-- /testimonial single -->
-					
-					<!-- testimonial single -->
-					<div class="item text-center">
-
-						<!-- client photo -->
-						<div class="client-thumb">
-							<img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/adriana.jpg'" alt="Adriana, Hamburg">
-						</div>
-
-						<!-- client info -->
-						<div class="client-info">
-							<div class="client-meta">
-								<h3>Adriana, Hamburg</h3>
-								<span>&#34;Amazing at piecing together what you’re telling him.&#34;</span>
-							</div>
-							<div class="client-comment">
-								<p>Vlad is amazing at piecing together what you’re telling him. He listens fully immersed, never forgets a thing and points out the red thread holding together one’s stories by asking the most insightful questions. He helped me connect with a side of myself by holding the space for me to give voice to that part. I enjoy his style because it balances out the inquisitive nature of coaching with playful elements that led me to insightful AHA! moments.</p>
-							</div>
-						</div>
-					</div>
-					<!-- /testimonial single -->
-					
-					<!-- testimonial single -->
-					<div class="item text-center">
-
-						<!-- client photo -->
-						<div class="client-thumb">
-							<img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/maryia.jpeg'" alt="Maryia, Berlin">
-						</div>
-
-						<!-- client info -->
-						<div class="client-info">
-							<div class="client-meta">
-								<h3>Maryia, Berlin</h3>
-								<span>&#34;A great listener.&#34;</span>
-							</div>
-							<div class="client-comment">
-								<p>Vlad is a great listener and asks very insightful questions which prompt you to see the problem / situation in a different light. He helped me to get a new perspective on things which I could not unpick for years. And this empowered me to make choices instead of feeling stuck. I would recommend you to work with Vlad if you feel stuck in certain areas of your life and you are looking to gain crystal clarity on the next steps.</p>
-							</div>
-						</div>
-					</div>
-					<!-- /testimonial single -->
-					
-					<!-- testimonial single -->
-					<div class="item text-center">
-
-						<!-- client photo -->
-						<div class="client-thumb">
-							<img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/carmen.png'" alt="Carmen, London">
-						</div>
-
-						<!-- client info -->
-						<div class="client-info">
-							<div class="client-meta">
-								<h3>Carmen, London</h3>
-								<span>&#34;A very intuitive coach.&#34;</span>
-							</div>
-							<div class="client-comment">
-								<p>I gained a much deeper level of understanding as he skillfully managed to take me to look at certain areas I was avoiding due to past pain. It was an emotional journey of self-discovery to walk past the stories in my head and see the truth. I had an amazing aha! moment in which I knew with clarity what was the next step for me to take to improve my situation. I warmly recommend Vlad to anybody who is ready to challenge their beliefs/fears and see the truth to change his/her life.</p>
-							</div>
-						</div>
-					</div>
-					<!-- /testimonial single -->
-					
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- /testimonial -->
 
 
 
@@ -1057,6 +1220,51 @@
 </article>
 
 			
+			<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+  <div class="post-block">
+    <div class="media-wrapper">
+      <img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/supermarket.jpg'">
+    </div>
+
+    <div class="content">
+      <h3><a href="https://misterclarity.com/blog/the-supermarket-society/">Supermarket Society</a></h3>
+      <p>I was talking to a friend today. Her words made me think of a surprising metaphor.</p>
+      <a class="btn btn-transparent" href="https://misterclarity.com/blog/the-supermarket-society/">Read more</a>
+    </div>
+  </div>
+</article>
+
+			
+			<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+  <div class="post-block">
+    <div class="media-wrapper">
+      <img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/presence.jpg'">
+    </div>
+
+    <div class="content">
+      <h3><a href="https://misterclarity.com/blog/presence/">Presence</a></h3>
+      <p>What comes to mind when you see or hear the word presence? Is it related to the mind?</p>
+      <a class="btn btn-transparent" href="https://misterclarity.com/blog/presence/">Read more</a>
+    </div>
+  </div>
+</article>
+
+			
+			<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+  <div class="post-block">
+    <div class="media-wrapper">
+      <img class="img-fluid lozad" data-src="https://misterclarity.com" onerror="this.onerror=null;this.src='https:\/\/misterclarity.com\/images\/theexpert.jpg'">
+    </div>
+
+    <div class="content">
+      <h3><a href="https://misterclarity.com/blog/the-expert/">The expert</a></h3>
+      <p>A coaching session is said to have no expert. I tend to disagree with this principle.</p>
+      <a class="btn btn-transparent" href="https://misterclarity.com/blog/the-expert/">Read more</a>
+    </div>
+  </div>
+</article>
+
+			
 
 			<div class="all-post text-center col-lg-12">
 				<a class="btn btn-main" href="https://misterclarity.com/blog">View All Posts</a>
@@ -1072,7 +1280,9 @@
 
 
 <!-- Start Contact Us -->
-<section id="contact" class="contact-us section-bg">
+
+
+<section id="contact" class="contact-us section-bg ">
 	<div class="container pb-5">
 		<div class="row">
 			<div class="col-lg-12">
@@ -1088,7 +1298,7 @@
 			<!-- Contact Details -->
 			<div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
 				<h3>&ldquo;It is not the answer that enlightens, but the question.&rdquo; - Eugene Ionesco</h3>
-				<p> Feel free to call, text, or write an email. I will get back to you as soon as possible. </p>
+				<p> Feel free to call, text, or write an email. I will get back to you faster than fake news! </p>
 
 				
 				<div class="contact-details">
@@ -1116,7 +1326,7 @@
 			
 			
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<form id="contact-form" class="form-meghna" method="post" action="POST" role="form">
+				<form id="contact-form" class="form-meghna" method="post" action="POST" role="form" data-netlify="true">
 					<div class="form-group">
 						<input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
 					</div>
@@ -1129,6 +1339,10 @@
 					<div class="form-group">
 						<textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
 					</div>
+					<div class="field">
+						<div data-netlify-recaptcha="true"></div>
+					</div>
+					
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="Submit">Submit</button>
@@ -1141,6 +1355,7 @@
 	</div>
 </section>
 <!-- /contact -->
+
 
 
 
@@ -1169,8 +1384,8 @@
 
 				<!-- copyright -->
 				<div class="copyright text-center">
-					<a href="https://misterclarity.com/">
-						<img src="https://misterclarity.com/images/logo.png" alt="Mr. Clarity | Animal Nature Coach" height="42" />
+					<a href="#body">
+						<img src="https://misterclarity.com/images/logo.png" alt="Mr. Clarity | Animal Nature Coach" />
 					</a>
 					<br>
 					<p>Copyright © 2020 <a href="https://coachpedia.net">Coachpedia.</a> All Rights Reserved</p>
@@ -1203,7 +1418,9 @@
 
 <!-- Main Script -->
 
-<script src="https://misterclarity.com/js/script.min.882f95f2ea1a162fe7cb4bbb2ebc13a32b588315fc6a9b9f41e8b9b2945ee6b50c0007105cec0ef8810e2ee7094e90ce.js" integrity="sha384-iC&#43;V8uoaFi/ny0u7LrwToytYgxX8apufQei5spRe5rUMAAcQXOwO&#43;IEOLucJTpDO"></script>
+<script src="https://misterclarity.com/js/script.min.83785915873c42838f75945d8763e0a82c803077958ffab058ae8f98b3bc7c01146f0f0fa2bf3536195a761895a493bc.js" integrity="sha384-g3hZFYc8QoOPdZRdh2PgqCyAMHeVj/qwWK6PmLO8fAEUbw8Por81NhladhiVpJO8"></script>
+
+
 </body>
 
 </html>
