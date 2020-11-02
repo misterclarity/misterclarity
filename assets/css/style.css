@@ -2615,7 +2615,6 @@ nav.navbar {
 img.img-fluid.lozad {
   -o-object-fit: cover !important;
      object-fit: cover !important;
-  height: 150px !important;
 }
 
 @media screen and (max-width: 993px) {
