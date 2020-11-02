@@ -2892,6 +2892,7 @@ img.img-fluid.lozad {
   bottom: 0;
   right: 0;
   width: 350px;
+  max-width: 90vw;
   height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
@@ -2938,5 +2939,18 @@ img.img-fluid.lozad {
   z-index: 100;
   position: relative;
   opacity: 0;
+}
+
+@media (max-width: 769px) {
+  .cta {
+    right: 1em;
+  }
+  .cta .popup {
+    position: fixed;
+    bottom: 1.5em;
+    width: unset;
+    width: calc("100% - 2em");
+    max-width: 100%;
+  }
 }
 /*# sourceMappingURL=style.css.map */
