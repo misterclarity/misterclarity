@@ -2948,8 +2948,8 @@ img.img-fluid.lozad {
   .cta .popup {
     position: fixed;
     bottom: 1.5em;
-    width: unset;
-    width: calc("100% - 2em");
+    right: 1em;
+    width: calc(100% - 2em) !important;
     max-width: 100%;
   }
 }
