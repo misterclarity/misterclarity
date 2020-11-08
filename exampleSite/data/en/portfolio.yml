@@ -20,7 +20,7 @@ portfolio:
     link: https://www.theschooloflife.com/thebookoflife/the-concept-of-voluntary-poverty/
   - name: Pit stop (click here to access)
     image: "/images/mixtape.png"
-    image_webp: ''
+    image_webp: "/images/mixtape.webp"
     categories:
     - Guides
     content: ''
