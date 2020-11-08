@@ -34,7 +34,7 @@ testimonial:
       with playful elements that led me to insightful AHA! moments.
   - name: Maryia, Berlin
     image: "/images/maryia.jpeg"
-    image_webp: ''
+    image_webp: "/images/maryia.webp"
     date: '"A great listener."'
     content: Vlad is a great listener and asks very insightful questions which prompt
       you to see the problem / situation in a different light. He helped me to get
