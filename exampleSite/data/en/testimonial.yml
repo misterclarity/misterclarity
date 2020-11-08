@@ -15,7 +15,7 @@ testimonial:
       with - to try out a session with him and thank me later. '
   - name: Marti, Budapest
     image: "/images/marti.jpg"
-    image_webp: ''
+    image_webp: "/images/marti.webp"
     date: '"I did not feel lost anymore, but empowered."'
     content: Based on our discussion and thanks to the meaningful questions Vlad raised
       I decided to pursue my goal about blogging. He comforted me the whole time making
