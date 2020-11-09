@@ -5,7 +5,7 @@ portfolio:
   title: Coaching Resources
   portfolio_item:
   - name: Meet your needs (click here to listen)
-    image: ''
+    image: "/images/needs.jpg"
     image_webp: ''
     categories:
     - Perspectives
