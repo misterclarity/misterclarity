@@ -7,8 +7,9 @@ portfolio:
   - name: The role of sleep (click here to read)
     image: "/images/sleep.jpg"
     image_webp: ''
-    categories: []
-    content: The role of sleep
+    categories:
+    - Guides
+    content: ''
     link: https://www.theschooloflife.com/thebookoflife/the-role-of-sleep-in-mental-health/
   - name: To Yoga or not to Yoga (click here to read)
     image: "/images/yoga.jpg"
