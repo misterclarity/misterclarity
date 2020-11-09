@@ -4,6 +4,13 @@ portfolio:
   hide_on_mobile: true
   title: Coaching Resources
   portfolio_item:
+  - name: Healthy connections (click here to listen)
+    image: ''
+    image_webp: ''
+    categories:
+    - Perspectives
+    content: ''
+    link: https://youtu.be/f7P8wusL1Z0
   - name: The role of sleep (click here to read)
     image: "/images/sleep.jpg"
     image_webp: ''
