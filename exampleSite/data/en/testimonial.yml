@@ -5,7 +5,7 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Madawi, Saudi Arabia
-    image: ''
+    image: "/images/logo.png"
     image_webp: ''
     date: '"Thank you for [...] reminding me of things that I‘ve forgotten."'
     content: |-
