@@ -4,7 +4,7 @@ pricing:
   hide_on_mobile: false
   title: The paths
   pricing_table:
-  - name: Perspective
+  - name: Balance
     price: ''
     unit: 10 weeks
     services:
