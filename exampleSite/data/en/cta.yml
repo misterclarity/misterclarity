@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: ''
+  bg_image_webp: ''
   title: "“To deny our own impulses is to deny the very thing that makes us human.”"
   content: You are 30 seconds away from living a better life. First 3 sessions are
     free. If you are highly motivated, that is all you need!
