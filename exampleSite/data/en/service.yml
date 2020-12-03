@@ -21,7 +21,7 @@ service:
       with a tough or complex situation.
   - name: Intelligence
     icon: fa fa-lightbulb-o fa-lg fa-3x
-    content: Increased mental capacity from engaging in a space that genuinely offers
+    content: Increased mental capacity from operating in a space that genuinely offers
       time to think and make your own decisions.
   - name: Confidence
     icon: fa fa-level-up fa-lg fa-3x
