@@ -19,7 +19,7 @@ pricing:
       label: Let's do this!
   - name: Peace
     price: ''
-    unit: 14 weeks
+    unit: 3 months
     services:
     - Improve grounding and sleep
     - Overcome anxiety & mental chatter
