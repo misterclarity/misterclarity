@@ -1,6 +1,6 @@
 ---
 about:
-  enable: true
+  enable: false
   title: About You
   about_item:
   - icon: ti-heart
