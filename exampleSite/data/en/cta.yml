@@ -4,8 +4,7 @@ cta:
   bg_image: ''
   bg_image_webp: ''
   title: "“To deny our own impulses is to deny the very thing that makes us human.”"
-  content: You are 30 seconds away from living a better life. First 3 sessions are
-    free. If you are highly motivated, that is all you need!
+  content: You are 30 seconds away from living a better life.
   button:
     enable: true
     label: Get unleashed!
