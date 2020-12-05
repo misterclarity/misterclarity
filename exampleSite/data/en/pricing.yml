@@ -6,7 +6,7 @@ pricing:
   pricing_table:
   - name: Integration
     price: ''
-    unit: 10 weeks
+    unit: ''
     services:
     - Rite of passage
     - Gain courage beyond all screens
