@@ -2,7 +2,6 @@
 author = "Vlad-Emil Petrea"
 date = 2020-12-07T21:00:00Z
 description = "self-love affirmations"
-draft = true
 image = "/images/affirmations.jpg"
 image_webp = ""
 title = "Self-love Principles (Affirmations)"
