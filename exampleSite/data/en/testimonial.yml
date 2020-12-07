@@ -4,7 +4,7 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: Cynthia, Indonesia
+  - name: Cynthia, Bali
     image: "/images/cynthia.jpeg"
     image_webp: ''
     date: '"Vlad is caring, insightful, and truly helpful."'
