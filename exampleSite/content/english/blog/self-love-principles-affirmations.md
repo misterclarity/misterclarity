@@ -3,11 +3,38 @@ author = "Vlad-Emil Petrea"
 date = 2020-08-22T12:00:00Z
 description = "thunderstorm perspective"
 draft = true
-image = "/images/thunderstorms.jpg"
+image = "/images/affirmations.jpg"
 image_webp = ""
 title = "Self-love Principles (Affirmations)"
 
 +++
-Imagine a thunderstorm. Lighting bolts illuminating the dark clouds. Booming thunder restoring perspective. Rain washing away the debris. Once it is over, a smell of fresh air emanates from the ground and surrounds you. Every inhale seems to bring extra energy, and the animals previously hidden come out of their hiding. Congratulations, you've just experienced an "argument". A thunderstorm is nature's way of balancing out pent up energy that's become stagnant. Similarly, in our relationships we need an argument from time to time to wash away the debris that gathers up between two people in a relationship. So go ahead, fight things out with a partner, friend, or colleague while keeping in mind the clarity and restored perspective that follows. It helps to let go of any negative emotions that come up during the argument in order to get the most out of your "thunderstorms". Happy rainy day!
+We tend to live life in the lofty realm of the mind. Society encourages this through an emphasis on comparison, achievement, and milestones. We are often churning through ideas, situations, or emotions until they feel acceptable enough to be allowed entry into our hearts. A great inner tension is created by over-analysis and many will admit to being overthinkers. 
 
-> _"Do not think of knocking out another person's brains because he differs in opinion from you. It would be as rational to knock yourself on the head because you differ from yourself ten years ago._" Horace Mann
+On the other hand, there are many things we theoretically know, but tend to practically forget during our lifetime. We can benefit from a kind habitual reminder of tried and true principles instead of drowning in the ever new input enabled by our latest technology. 
+
+These are 2 good reasons why moments of mental silence or mental bypass become highly valuable in our daily routine.
+
+One way to achieve an activation beyond the mind is through affirmations, mantras, or chanting. Their repetitive and pre-determined nature manage to bypass the analytical mind and go straight to the heart. The more regularly we repeat them, the more effective they become. Here are a few affirmations that you can use as an example for creating your own, or to integrate into your existing routine. I have found that taking a deep breath between saying each one helps enhance their effect.  
+
+1\. I choose to be gentle and kind to all beings including myself.
+
+2\. In this moment I release thoughts of worry to remain present.
+
+3\. I have faith in the innate goodness of people.
+
+4\. I calm my nervous system by taking deep breaths.
+
+5\. When challenges arrive I stay anchored in hope.
+
+6\. I have a big heart and that's wonderful thing.
+
+7\. My strength comes from my ability to dream of a better future.
+
+8\. I am never alone and I reach out to others when I need support.
+
+9\. My thoughts, words, and actions are all grounded in love.
+
+10\. I accept that others may dislike me or even be mad at me.
+
+“When the heart speaks, the mind finds it indecent to object.”  
+― **Milan Kundera**
