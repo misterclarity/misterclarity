@@ -4,6 +4,18 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: Cynthia, Indonesia
+    image: "/images/logo.png"
+    image_webp: "/images/logo.png"
+    date: I sincerely recommend for anyone feeling lost or stuck in their life!
+    content: Vlad is a superb listener, which in my experience, is a rare found. Too
+      many times in our daily life we met people who listen to reply and not to actually
+      understand. Now Vlad is not like that. He has a way to make you feel comfortable
+      to open up and by the end of your sentence, he always comes up with smart, thought-provoking
+      responses that help you to reflect on your problems and focus on the light at
+      the end of the tunnel. Vlad is caring, insightful, and truly helpful. Every
+      coaching session with him is a time well spent, which I sincerely recommend
+      for anyone feeling lost or stuck in their life!
   - name: Madawi, Saudi Arabia
     image: "/images/logo.png"
     image_webp: ''
