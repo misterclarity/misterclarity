@@ -4,7 +4,7 @@ date = 2020-12-07T21:00:00Z
 description = "self-love affirmations"
 image = "/images/affirmations.jpg"
 image_webp = ""
-title = "Self-love Principles (Affirmations)"
+title = "Self-Love Principles (Affirmations)"
 
 +++
 We tend to live life in the lofty realm of the mind. Society encourages this through an emphasis on comparison, achievement, and milestones. We are often churning through ideas, situations, or emotions until they feel acceptable enough to be allowed entry into our hearts. A great inner tension is created by over-analysis and many will admit to being overthinkers. 
