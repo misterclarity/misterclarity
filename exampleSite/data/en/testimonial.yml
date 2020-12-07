@@ -6,7 +6,7 @@ testimonial:
   testimonial_item:
   - name: Cynthia, Indonesia
     image: "/images/logo.png"
-    image_webp: "/images/logo.png"
+    image_webp: ''
     date: '"Vlad is caring, insightful, and truly helpful."'
     content: Vlad is a superb listener, which in my experience, is a rare find. Too
       many times in our daily life we met people who listen to reply and not to actually
