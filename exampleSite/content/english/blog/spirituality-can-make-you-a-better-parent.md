@@ -8,8 +8,6 @@ image_webp = ""
 title = "Spirituality can make you a better parent"
 
 +++
-During a 1-on-1 coaching session we create a safe space for sharing thoughts, feelings, and emotions. Once a clear goal is identified, the coaching session uses conversation and active listening to uncover your hidden resources, increase your confidence, and achieve clarity. You will be amazed by how much stronger, more able, and more resourceful you actually are!
-
-Coaching offers something society often fails to do. It recognizes the nature of life present inside each of us and brings it into optimal alignment. Once alignment is even remotely achieved, one's life becomes more fluid, resources become available, and awareness is gained. Such awareness makes free will possible, and with that ability, there is no limit to what you can achieve.
+Recognizing that we are part of something bigger than ourselves and that our actions account for mostly 80% of the outcome, with 20% coming from without, allows us to take our fears less seriously and avoid risking to do harm when we actually mean well. For example, worrying so much that we only communicate the bad things our child does. Thinking that if we do not address it, it will bcome a big problem, that the kid will become a failure, etc. And so we end up looking for problems to address, and forget to praise, support, and love. We forget to communicate the positive. And the kid ends up feeling that he/she is never good enough, and struggling to find the confidence necessary to take risks, or relate deeply, for fear that the situation will return, and only a part of them will be addressed by the ensuing relationship. 
 
 > _"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." Viktor Frankl_
