@@ -2,7 +2,7 @@
 author = "Vlad-Emil Petrea"
 date = 2020-07-10T15:52:12Z
 description = "coaching"
-image = "/images/what-is-coaching.jpg"
+image = ""
 image_webp = ""
 title = "Spirituality can make you a better parent"
 
