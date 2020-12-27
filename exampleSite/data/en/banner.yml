@@ -10,4 +10,4 @@ banner:
   button:
     enable: true
     label: GET STARTED
-    link: "#about"
+    link: "#feature"
