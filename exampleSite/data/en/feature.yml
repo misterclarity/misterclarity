@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: "/images/img_5512.JPG"
-  image_webp: ''
+  image: "/images/herome.jpg"
+  image_webp: "/images/herome.webp"
   title: I help you escape convention, so you can LOVE.YOUR.LIFE.
   content: 'I help you master the alienating challenges of the digital era. Think
     of me as a wise and trusted ally who aligns body, emotions, and sleep to connect
