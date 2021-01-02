@@ -3,7 +3,7 @@ feature:
   enable: true
   image: "/images/herome.jpg"
   image_webp: "/images/herome.webp"
-  title: I'm Vlad. My mission is to help you break free from the past.
+  title: Hey, I'm Vlad! I am here to help you break free from the past.
   content: I help you master the alienating challenges of the digital era.
   feature_item:
   - title: Honest, Open, Authentic
