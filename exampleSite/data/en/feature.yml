@@ -3,7 +3,7 @@ feature:
   enable: true
   image: "/images/herome.jpg"
   image_webp: "/images/herome.webp"
-  title: I help you release your shackles so you can achieve your highest potential.
+  title: I help you break free from limitations so you can achieve your highest potential.
   content: I help you master the alienating challenges of the digital era.
   feature_item:
   - title: Honest, Open, Authentic
