@@ -1,10 +1,10 @@
 ---
-label: cta
+label: cta2
 hide_body: true
 fields:
 - type: field_group
-  name: cta
-  label: cta
+  name: cta2
+  label: cta2
   fields:
   - type: boolean
     name: enable
@@ -38,4 +38,4 @@ fields:
       name: link
       label: link
 pages:
-- exampleSite/data/en/cta.yml
+- exampleSite/data/en/cta2.yml
