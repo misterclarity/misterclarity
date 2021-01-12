@@ -18,7 +18,7 @@ service:
   - name: Grounding
     icon: fa fa-tree fa-lg fa-3x
     content: Stepping easily into a place of calm and composure, especially when dealing
-      with a tough or complex situation.
+      with a tough or complex situation. Staying anchored in hope.
   - name: Intelligence
     icon: fa fa-lightbulb-o fa-lg fa-3x
     content: Increased mental capacity from operating in a space that genuinely offers
