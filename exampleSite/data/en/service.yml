@@ -25,6 +25,6 @@ service:
       acceptance.
   - name: Confidence
     icon: fa fa-level-up fa-lg fa-3x
-    content: Moving into the unknown reveals resources you always knew you have, but
+    content: Integrating the past reveals resources you always knew you have, but
       could not access.
   hide_on_mobile: false
