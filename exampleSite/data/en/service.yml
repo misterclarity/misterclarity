@@ -5,8 +5,8 @@ service:
   service_item:
   - name: Authenticity
     icon: fa fa-awesome-face fa-lg fa-3x
-    content: Your human nature is the key to staying true to your Self regardless
-      of circumstances. Satisfaction is a feeling you wake up with.
+    content: Your true nature is the key to fulfillment, regardless of circumstances.
+      Gratefulness to be alive is a feeling you wake up with.
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
     content: Embracing and integrating reality provides clarity of thought, of emotion,
