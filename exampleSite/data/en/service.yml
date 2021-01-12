@@ -14,7 +14,7 @@ service:
   - name: Focus
     icon: fa fa-bolt fa-lg fa-3x
     content: Realigning with your highest potential validates and increases your free
-      will. By focusing on your vision, you gain momentum!
+      will. Focusing on your vision grants momentum.
   - name: Grounding
     icon: fa fa-tree fa-lg fa-3x
     content: Stepping into a place of calm and composure, especially when dealing
