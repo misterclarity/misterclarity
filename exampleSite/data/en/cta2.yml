@@ -1,0 +1,12 @@
+---
+cta:
+  enable: true
+  bg_image: ''
+  bg_image_webp: ''
+  title: "Coaching is a relationship."
+  content: Let's see if we have the right connection during a free introductory call.
+  button:
+    enable: true
+    label: Schedule now
+    link: https://calendly.com/misterclarity/60min
+  hide_on_mobile: false
