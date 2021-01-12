@@ -19,6 +19,6 @@ feature:
     content: You decide the topics, I provide the impetus!
   - title: Collaborative & Intuitive
     icon: ti-thought
-    content: I am fully present in the conversation, either through active listening,
-      asking clarifying questions, or noticing potential incongruencies.
+    content: I am fully present in the conversation through deep listening, asking
+      clarifying questions, and noticing potential incongruencies.
   hide_on_mobile: false
