@@ -4,7 +4,7 @@ feature:
   image: "/images/herome.jpg"
   image_webp: "/images/herome.webp"
   title: I help you break free from limitations so you can achieve your highest potential.
-  content: I help you master the alienating challenges of the digital era.
+  content: ''
   feature_item:
   - title: Honest, Open, Authentic
     icon: ti-user
@@ -14,10 +14,9 @@ feature:
     icon: ti-thumb-up
     content: I take the time to celebrate with you every one of your achieved successes
       and "Aha!" moments.
-  - title: Person-centered
+  - title: Person-centered & Inspiring
     icon: ti-move
-    content: The coaching session moves at your own pace, and I follow the topics
-      decided by you.
+    content: You decide the topics, I provide the impetus!
   - title: Collaborative & Intuitive
     icon: ti-thought
     content: I am fully present in the conversation, either through active listening,
