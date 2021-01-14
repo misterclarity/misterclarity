@@ -2,9 +2,8 @@
 author = "Vlad-Emil Petrea"
 date = 2020-07-10T15:52:12Z
 description = "coaching"
-draft = true
 image = "/images/soul.jpg"
-image_webp = ""
+image_webp = "/images/soul.webp"
 title = "You've got soul"
 
 +++
