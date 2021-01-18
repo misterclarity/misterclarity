@@ -4,8 +4,8 @@ portfolio:
   hide_on_mobile: true
   title: Coaching Resources
   portfolio_item:
-  - name: Own your essence, master your identity (click here to watch)
-    image: ''
+  - name: The identity's journey (click here to watch)
+    image: "/images/mirror.jpg"
     image_webp: ''
     categories:
     - Perspectives
