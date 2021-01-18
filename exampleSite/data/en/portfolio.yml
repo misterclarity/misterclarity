@@ -4,6 +4,13 @@ portfolio:
   hide_on_mobile: true
   title: Coaching Resources
   portfolio_item:
+  - name: Own your essence, master your identity (click here to watch)
+    image: ''
+    image_webp: ''
+    categories:
+    - Perspectives
+    content: ''
+    link: https://youtu.be/rd3yeX1-SaM?t=3
   - name: Meeting our needs (click here to listen)
     image: "/images/needs.jpg"
     image_webp: ''
