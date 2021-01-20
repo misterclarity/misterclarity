@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: "/images/herome.jpg"
-  image_webp: "/images/herome.webp"
+  image: "/images/bike.jpg"
+  image_webp: "/images/bike.webp"
   title: I help you break free from limitations so you can access your highest potential.
   content: ''
   feature_item:
