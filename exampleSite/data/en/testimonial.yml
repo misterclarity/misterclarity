@@ -1,8 +1,8 @@
 ---
 testimonial:
   enable: true
-  bg_image: images/backgrounds/bg-testimonial.jpg
-  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  bg_image: "/images/testimonialsbikes.jpg"
+  bg_image_webp: "/images/testimonialsbikes.webp"
   testimonial_item:
   - name: Cynthia, Bali
     image: "/images/cynthia.jpeg"
