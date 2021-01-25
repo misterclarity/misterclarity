@@ -2,8 +2,8 @@
 banner:
   enable: true
   hide_on_mobile: false
-  bg_image_webp: ''
-  bg_image: "/images/banner2.jpg"
+  bg_image_webp: "/images/adventure.webp"
+  bg_image: "/images/adventure.jpg"
   icon: ''
   title: Go beyond. Become the hero of your own life.
   content: ''
