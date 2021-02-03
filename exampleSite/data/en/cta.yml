@@ -7,6 +7,6 @@ cta:
   content: I am here to help you own your life. Will you?
   button:
     enable: true
-    label: Get unleashed!
-    link: https://calendly.com/misterclarity/60min
+    label: Book the first consultation
+    link: https://calendly.com/misterclarity/30min
   hide_on_mobile: false

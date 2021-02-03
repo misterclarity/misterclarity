@@ -19,5 +19,5 @@ cta2:
   content: Find out if we have the right connection during a free introductory call.
   button:
     enable: true
-    label: Schedule call
-    link: https://calendly.com/misterclarity/60min
+    label: Schedule first consultation
+    link: https://calendly.com/misterclarity/30min
