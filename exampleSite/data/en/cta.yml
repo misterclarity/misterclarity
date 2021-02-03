@@ -7,6 +7,6 @@ cta:
   content: I am here to help you own your life. Will you?
   button:
     enable: true
-    label: Book the first consultation
+    label: Book a Consultation
     link: https://calendly.com/misterclarity/30min
   hide_on_mobile: false
