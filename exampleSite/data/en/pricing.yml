@@ -29,7 +29,7 @@ pricing:
     - Coaching journal
     button:
       label: Let's do this!
-      link: https://calendly.com/misterclarity/60min
+      link: https://calendly.com/misterclarity/30min
   - name: Spirituality
     price: ''
     unit: 4 months
@@ -41,5 +41,5 @@ pricing:
     - Awaken your inner Daemon
     - Coaching journal
     button:
-      link: https://calendly.com/misterclarity/60min
+      link: https://calendly.com/misterclarity/30min
       label: Let's do this!
