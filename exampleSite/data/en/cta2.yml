@@ -19,5 +19,5 @@ cta2:
   content: Find out if we have the right connection during a free introductory call.
   button:
     enable: true
-    label: Schedule first consultation
+    label: Book a Consultation
     link: https://calendly.com/misterclarity/30min
