@@ -9,6 +9,8 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 /*=== MEDIA QUERY ===*/
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
+    overflow-y: auto;
     background-color: #353b43;
     color: #ffffff;
   }
@@ -2781,4 +2783,14 @@ html {
         position: relative;
         opacity: 0;
     }
+}
+
+// change bg color of first call2action section - "To deny own imp..."
+section#cta {
+  //background: violet;
+}
+
+// change bg color of second call2action section - "Coaching is a relation..."
+section#cta2 {
+  //background: red;
 }
