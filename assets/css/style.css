@@ -9,6 +9,7 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
+  scroll-behavior: smooth;
   background-color: #353b43;
   color: #ffffff;
 }
@@ -2369,7 +2370,7 @@ figcaption {
   font-weight: normal;
 }
 
-.{
+.rw-words {
   display: inline;
   text-indent: 10px;
 }
@@ -2383,7 +2384,7 @@ figcaption {
   overflow: hidden;
   -webkit-animation: rotateWord 12s linear infinite 0s;
   animation: rotateWord 12s linear infinite 0s;
-  color: #ffffff;
+  color: #FF9F1C;
 }
 
 .rw-words-1 span:nth-child(2) {
@@ -2615,6 +2616,7 @@ nav.navbar {
 img.img-fluid.lozad {
   -o-object-fit: cover !important;
      object-fit: cover !important;
+  height: 150px !important;
 }
 
 @media screen and (max-width: 993px) {
@@ -2891,7 +2893,6 @@ img.img-fluid.lozad {
   bottom: 0;
   right: 0;
   width: 350px;
-  max-width: 90vw;
   height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
@@ -2938,18 +2939,5 @@ img.img-fluid.lozad {
   z-index: 100;
   position: relative;
   opacity: 0;
-}
-
-@media (max-width: 769px) {
-  .cta {
-    right: 1em;
-  }
-  .cta .popup {
-    position: fixed;
-    bottom: 1.5em;
-    right: 1em;
-    width: calc(100% - 2em) !important;
-    max-width: 100%;
-  }
 }
 /*# sourceMappingURL=style.css.map */
