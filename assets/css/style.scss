@@ -2406,7 +2406,8 @@ html {
   }
   
   .service-text {
-    text-align: right;
+    text-align: center;
+    margin-top: 1em;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -2415,12 +2416,17 @@ html {
   }
   
   .service-icon {
-    max-width: 27% !important;
+    max-width: 35% !important;
     margin-bottom: 0 !important;
     padding: 0 10px !important;
+
+    i {
+      font-size: 80px !important;
+    }
   }
   
   .inner {
+    border-radius: 50%;
     background: #21a008;
     height: 0;
     width: 100%;
@@ -2440,14 +2446,10 @@ html {
     justify-content: center;
     align-items: center;
   }
+
   
-  #services article:nth-of-type(2n) .service-block .service-text {
-    /*background: green !important;*/
-    text-align: left;
-  }
-  
-  #services article:nth-of-type(2n) .service-block {
-    flex-direction: row !important;
+  #services article .service-block {
+    flex-direction: column !important;
   }
   
   #portfolio {

@@ -2500,7 +2500,8 @@ div.service-block {
 }
 
 .service-text {
-  text-align: right;
+  text-align: center;
+  margin-top: 1em;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2516,12 +2517,17 @@ div.service-block {
 }
 
 .service-icon {
-  max-width: 27% !important;
+  max-width: 35% !important;
   margin-bottom: 0 !important;
   padding: 0 10px !important;
 }
 
+.service-icon i {
+  font-size: 80px !important;
+}
+
 .inner {
+  border-radius: 50%;
   background: #21a008;
   height: 0;
   width: 100%;
@@ -2547,16 +2553,11 @@ div.service-block {
           align-items: center;
 }
 
-#services article:nth-of-type(2n) .service-block .service-text {
-  /*background: green !important;*/
-  text-align: left;
-}
-
-#services article:nth-of-type(2n) .service-block {
-  -webkit-box-orient: horizontal !important;
+#services article .service-block {
+  -webkit-box-orient: vertical !important;
   -webkit-box-direction: normal !important;
-      -ms-flex-direction: row !important;
-          flex-direction: row !important;
+      -ms-flex-direction: column !important;
+          flex-direction: column !important;
 }
 
 #portfolio {

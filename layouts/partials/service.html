@@ -22,16 +22,16 @@
 
 			{{ range .service_item}}
 			{{"<!-- Single Service Item -->" | safeHTML }}
-			<article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+			<article class="col-lg-4 col-md-4 col-12 wow fadeInUp" data-wow-duration="500ms">
 				<div class="service-block text-center d-flex">
-					<div class="service-icon text-center col-4">
+					<div class="service-icon text-center col-12">
 						<div class="inner">
 							<div class="flexinner">
 								<i class="{{ .icon }}"></i>
 							</div>
 						</div>
 					</div>
-					<div class="service-text col-8">
+					<div class="service-text col-12">
 					<h3>{{ .name | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>
 					</div>
