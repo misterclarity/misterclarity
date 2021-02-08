@@ -2894,7 +2894,8 @@ img.img-fluid.lozad {
   color: #000000;
   bottom: 0;
   right: 0;
-  width: 350px;
+  max-width: 350px;
+  width: calc(100vw - 4em);
   height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
