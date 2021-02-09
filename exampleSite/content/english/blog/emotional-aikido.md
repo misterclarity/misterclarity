@@ -5,9 +5,11 @@ description = "coaching"
 draft = true
 image = "/images/soul.jpg"
 image_webp = "/images/soul.webp"
-title = "Emotional Aikido"
+title = "Control"
 
 +++
-Imagine a presence so pure that merely coming close to it brings you to tears of awe.  A being that needs connection and nurturing in return for lifelong support and fulfillment. Vulnerable, but not helpless. A being so powerful that its manifestation during a crysis can seem like magic. It does not belong to you, yet it is uniquely connected to you for life. It is a delicate bond that you share and the connection it needs from you is a small price to pay for the wealth it provides. Does this sound familiar? Have you already met your Soul?
+It's a good thing nobody has ultimate control. If anyone did, and they would decide to start using that control over others, or over situations in order to get ahead of others, the world balance would be under threat.
+
+Communism and equality: people are not actually equal, regardless of the political system. Equality in politics or in coaching is contextual. Politically, the context needs to offer equal basic rights for that which is truly similar, namely that we are all human. Any expectation beyond that basic rights equality, for example the equality of outcome, is an illusion and a misappropriation.  
 
 > “Whatever satisfies the soul is truth.” _Walt Whitman_
