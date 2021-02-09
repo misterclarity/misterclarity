@@ -954,6 +954,16 @@ html {
     border-top: 1px solid rgba(236, 239, 241, 0.07);
     margin-bottom: 40px;
     box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
+    transition: all .4s ease-in-out;
+    cursor: default;
+    .flexinner {
+      transition: all .4s ease-in-out;
+    }
+    &:hover {
+      .service-icon .flexinner {
+        background: #ff9f1c;
+      }
+    }
   }
   
   .service-block .service-icon {
@@ -2795,4 +2805,22 @@ section#cta {
 // change bg color of second call2action section - "Coaching is a relation..."
 section#cta2 {
   //background: red;
+}
+
+// testimonial slider arrows
+.slide-arrow {
+  background: none;
+  border:none;
+  color: #fff;
+  outline: none;
+  i {
+    font-size: 25px;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+
+div#testimonials {
+  display:flex;
 }

@@ -998,6 +998,18 @@ a:hover {
   margin-bottom: 40px;
   -webkit-box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
           box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  cursor: default;
+}
+
+.service-block .flexinner {
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.service-block:hover .service-icon .flexinner {
+  background: #ff9f1c;
 }
 
 .service-block .service-icon {
@@ -2942,5 +2954,26 @@ img.img-fluid.lozad {
   z-index: 100;
   position: relative;
   opacity: 0;
+}
+
+.slide-arrow {
+  background: none;
+  border: none;
+  color: #fff;
+  outline: none;
+}
+
+.slide-arrow i {
+  font-size: 25px;
+}
+
+.slide-arrow:focus {
+  outline: none;
+}
+
+div#testimonials {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 /*# sourceMappingURL=style.css.map */
