@@ -2528,7 +2528,7 @@ div.service-block {
 }
 
 .service-icon {
-  max-width: 35% !important;
+  width: 130px;
   margin-bottom: 0 !important;
   padding: 0 10px !important;
 }
@@ -2693,8 +2693,11 @@ img.img-fluid.lozad {
   .hideonmobile {
     display: none !important;
   }
+  .service-icon {
+    width: 100px;
+  }
   .service-icon i {
-    font-size: 35px !important;
+    font-size: 60px !important;
   }
   .rw-sentence {
     font-size: 3rem !important;

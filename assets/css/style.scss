@@ -2425,7 +2425,7 @@ html {
   }
   
   .service-icon {
-    max-width: 35% !important;
+    width: 130px;
     margin-bottom: 0 !important;
     padding: 0 10px !important;
 
@@ -2587,9 +2587,13 @@ html {
       display: none !important;
     }
   
-    .service-icon i {
-      font-size: 35px !important;
+    .service-icon {
+      width: 100px;
+      i {
+        font-size: 60px !important;
+      }  
     }
+
     .rw-sentence { font-size: 3rem !important; }
     .rw-words{
       display: inline;
