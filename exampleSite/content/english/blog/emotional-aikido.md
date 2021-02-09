@@ -3,8 +3,8 @@ author = "Vlad-Emil Petrea"
 date = 2021-02-09T21:00:00Z
 description = "coaching"
 draft = true
-image = "/images/soul.jpg"
-image_webp = "/images/soul.webp"
+image = ""
+image_webp = ""
 title = "Control"
 
 +++
