@@ -1,6 +1,6 @@
 +++
 author = "Vlad-Emil Petrea"
-date = 2021-01-14T10:33:12Z
+date = 2021-02-09T21:00:00Z
 description = "coaching"
 draft = true
 image = "/images/soul.jpg"
