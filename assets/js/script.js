@@ -118,7 +118,10 @@ jQuery(function ($) {
 
 	$("#testimonials").slick({
 		infinite: true,
-		arrows: false,
+		lazyLoad: 'ondemand',
+		arrows: true,
+		prevArrow: '<button class="slide-arrow prev-arrow"><i class="fa fa-chevron-left"></i></button>',
+		nextArrow: '<button class="slide-arrow next-arrow"><i class="fa fa-chevron-right"></i></button>',	
 		autoplay: true,
 		autoplaySpeed: 4000
 	});
@@ -127,7 +130,7 @@ jQuery(function ($) {
 	/*	animation scroll js
 	/* ========================================================================= */
 	$(function() {
-		$('nav a, .page-scroll').click(function() {
+		$('nav a, .page-scroll, footer a[href="#body"').click(function() {
 		  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
 			var target = $(this.hash);
 			target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
@@ -225,7 +228,6 @@ jQuery(function ($) {
 			$("body").removeClass("nav-shown");
         });
     }
-
 });
 
 

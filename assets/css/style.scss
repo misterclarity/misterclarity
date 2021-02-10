@@ -8,6 +8,9 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
+    font-display: swap;
+    overflow-x: hidden;
+    overflow-y: auto;
     background-color: #353b43;
     color: #ffffff;
   }
@@ -951,6 +954,16 @@ html {
     border-top: 1px solid rgba(236, 239, 241, 0.07);
     margin-bottom: 40px;
     box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
+    transition: all .4s ease-in-out;
+    cursor: default;
+    .flexinner {
+      transition: all .4s ease-in-out;
+    }
+    &:hover {
+      .service-icon .flexinner {
+        background: #ff9f1c;
+      }
+    }
   }
   
   .service-block .service-icon {
@@ -2402,21 +2415,27 @@ html {
   }
   
   .service-text {
-    text-align: right;
+    text-align: center;
+    margin-top: 1em;
     display: flex;
     flex-direction: column;
     justify-content: center;
     padding: 0 10px !important;
-    max-width: 73% !important;
+    max-width: 100% !important;
   }
   
   .service-icon {
-    max-width: 27% !important;
+    width: 130px;
     margin-bottom: 0 !important;
     padding: 0 10px !important;
+
+    i {
+      font-size: 80px !important;
+    }
   }
   
   .inner {
+    border-radius: 50%;
     background: #21a008;
     height: 0;
     width: 100%;
@@ -2436,14 +2455,10 @@ html {
     justify-content: center;
     align-items: center;
   }
+
   
-  #services article:nth-of-type(2n) .service-block .service-text {
-    /*background: green !important;*/
-    text-align: left;
-  }
-  
-  #services article:nth-of-type(2n) .service-block {
-    flex-direction: row !important;
+  #services article .service-block {
+    flex-direction: column !important;
   }
   
   #portfolio {
@@ -2503,7 +2518,6 @@ html {
   
   img.img-fluid.lozad {
     object-fit: cover !important;
-    height: 150px !important;
   }
   
   @media screen and (max-width: 993px) {
@@ -2573,9 +2587,13 @@ html {
       display: none !important;
     }
   
-    .service-icon i {
-      font-size: 35px !important;
+    .service-icon {
+      width: 100px;
+      i {
+        font-size: 60px !important;
+      }  
     }
+
     .rw-sentence { font-size: 3rem !important; }
     .rw-words{
       display: inline;
@@ -2734,7 +2752,8 @@ html {
         color: #000000;
         bottom: 0;
         right: 0;
-        width: 350px;
+        max-width: 350px;
+        width: calc(100vw - 4em);
         height: max-content;
         background: #fff;    
         box-sizing: border-box;
@@ -2780,4 +2799,32 @@ html {
         position: relative;
         opacity: 0;
     }
+}
+
+// change bg color of first call2action section - "To deny own imp..."
+section#cta {
+  //background: violet;
+}
+
+// change bg color of second call2action section - "Coaching is a relation..."
+section#cta2 {
+  //background: red;
+}
+
+// testimonial slider arrows
+.slide-arrow {
+  background: none;
+  border:none;
+  color: #fff;
+  outline: none;
+  i {
+    font-size: 25px;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+
+div#testimonials {
+  display:flex;
 }
