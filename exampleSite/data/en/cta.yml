@@ -3,8 +3,8 @@ cta:
   enable: true
   bg_image: ''
   bg_image_webp: ''
-  title: "“To deny our own impulses is to deny the very thing that makes us human.”"
-  content: I am here to help you master your life. Will you?
+  title: I am here to help you master your life. Will you?
+  content: ''
   button:
     enable: true
     label: Book a Consultation
