@@ -7,6 +7,6 @@ cta:
   content: ''
   button:
     enable: true
-    label: Book a Consultation
+    label: Get in touch
     link: https://calendly.com/misterclarity/30min
   hide_on_mobile: false
