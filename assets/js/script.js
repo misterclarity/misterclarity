@@ -227,7 +227,6 @@ jQuery(function ($) {
 			$("body").removeClass("nav-shown");
         });
     }
-
 });
 
 
