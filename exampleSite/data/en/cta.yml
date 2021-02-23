@@ -3,8 +3,8 @@ cta:
   enable: true
   bg_image: ''
   bg_image_webp: ''
-  title: I am here to help you master your life. Will you?
-  content: ''
+  title: Change is inevitable.
+  content: Will you flow, or resist?
   button:
     enable: true
     label: Get in touch
