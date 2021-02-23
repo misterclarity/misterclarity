@@ -4,13 +4,13 @@ pricing:
   hide_on_mobile: false
   title: The paths
   pricing_table:
-  - name: Integration
+  - name: Awareness
     price: ''
     unit: 2 months
     services:
     - '"There is no spoon"'
-    - Achieve balance
-    - Integrate addiction
+    - Expand consciousness
+    - Integrate projections
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
