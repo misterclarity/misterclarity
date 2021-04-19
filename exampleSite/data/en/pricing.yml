@@ -4,7 +4,7 @@ pricing:
   hide_on_mobile: false
   title: The paths
   pricing_table:
-  - name: Awareness
+  - name: Aware
     price: ''
     unit: 2 months
     services:
@@ -14,7 +14,7 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-  - name: Peace
+  - name: Calm
     price: ''
     unit: 3 months
     services:
@@ -24,13 +24,13 @@ pricing:
     button:
       label: More info
       link: https://calendly.com/misterclarity/30min
-  - name: Spirituality
+  - name: Proficient
     price: ''
     unit: 4 months
     services:
     - Integrate the ego
     - Develop a meditative state
-    - Find your optimal life perspective
+    - Find your optimal perspective
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
