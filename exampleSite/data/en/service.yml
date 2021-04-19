@@ -10,7 +10,7 @@ service:
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
     content: Embracing and integrating reality provides direction in life. Decisions
-      are quick, and getting back on track is effortless.
+      are quick and getting back on track is effortless.
   - name: Focus
     icon: fa fa-bolt fa-lg fa-3x
     content: Realigning with your highest potential validates and increases your free
