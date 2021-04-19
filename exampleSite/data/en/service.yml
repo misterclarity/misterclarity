@@ -21,8 +21,7 @@ service:
       with a tough or complex situation. Staying anchored in hope.
   - name: Intelligence
     icon: fa fa-lightbulb-o fa-lg fa-3x
-    content: Speeding up your mental capacity by operating from a place of genuine
-      acceptance.
+    content: Enhancing your mental capacity by operating from a place of genuine acceptance.
   - name: Confidence
     icon: fa fa-level-up fa-lg fa-3x
     content: Integrating the past reveals resources you always knew you have, but
