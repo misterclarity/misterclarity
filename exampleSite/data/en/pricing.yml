@@ -24,9 +24,9 @@ pricing:
     button:
       label: More info
       link: https://calendly.com/misterclarity/30min
-  - name: Proficient
+  - name: Fulfilled
     price: ''
-    unit: 4 months
+    unit: 6 months
     services:
     - Integrate the ego
     - Develop a meditative state
