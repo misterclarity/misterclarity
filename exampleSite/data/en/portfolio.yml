@@ -2,7 +2,7 @@
 portfolio:
   enable: true
   hide_on_mobile: true
-  title: Transformation Resources
+  title: External Resources
   portfolio_item:
   - name: Identity's journey (click here to watch)
     image: "/images/mirror.jpg"
