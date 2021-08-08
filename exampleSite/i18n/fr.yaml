@@ -1,5 +1,6 @@
+---
 - id: blogTitle
-  translation: Dernier message
+  translation: Ultimul articol
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
