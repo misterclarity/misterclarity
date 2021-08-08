@@ -1,5 +1,5 @@
 baseURL = "https://misterclarity.com"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
