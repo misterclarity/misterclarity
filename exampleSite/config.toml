@@ -13,7 +13,7 @@ languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/ro"
-copyright = "copyright et copie; 2020 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
+copyright = "Copyright &copy; 2020 [Coachpedia.](https://coachpedia.net) All Rights Reserved"
 home = "Acasă"
 languageCode = "ro-ro"
 languageName = "Ro"
