@@ -14,10 +14,10 @@ weight = 1
 [Languages.fr]
 contentDir = "content/ro"
 copyright = "copyright et copie; 2020 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+home = "Acasă"
+languageCode = "ro-ro"
+languageName = "Ro"
+weight = "2"
 [[menu.main]]
 URL = "feature"
 name = "feature"
