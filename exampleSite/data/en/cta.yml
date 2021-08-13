@@ -4,7 +4,8 @@ cta:
   bg_image: ''
   bg_image_webp: ''
   title: Growth follows acceptance.
-  content: Find out how I can help you listen and accept yourself during a free consultation.
+  content: Find out how I can help you listen to and accept yourself during a free
+    consultation.
   button:
     enable: true
     label: Get in touch
