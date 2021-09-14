@@ -36,6 +36,7 @@ pricing:
       label: More info
   - name: Chironic wound
     services:
-    - For the astrologically inclined :-)
+    - An exploration of the chironic wound
+    - "For the astrologically inclined \U0001F609"
     button: ''
-    unit: 2 - 3 Months
+    unit: 2 Months
