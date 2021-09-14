@@ -6,11 +6,11 @@ pricing:
   pricing_table:
   - name: Aware
     price: ''
-    unit: 2 months
+    unit: 3 months
     services:
-    - '"There is no spoon"'
-    - Expand consciousness
-    - Integrate projections
+    - Archetypal polarity
+    - Identity landscape
+    - Spaceholding
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
@@ -34,11 +34,3 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-  - name: Chironic wound
-    services:
-    - An exploration of the chironic wound
-    - "For the astrologically inclined \U0001F609"
-    button:
-      link: https://calendly.com/misterclarity/30min
-      label: More info
-    unit: 2 Months
