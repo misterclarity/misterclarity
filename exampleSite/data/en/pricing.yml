@@ -34,3 +34,8 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
+  - name: Chironic wound
+    services:
+    - For the astrologically inclined :-)
+    button: ''
+    unit: 2 - 3 Months

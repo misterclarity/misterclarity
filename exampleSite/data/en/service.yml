@@ -3,7 +3,7 @@ service:
   enable: true
   title: Your Progress
   service_item:
-  - name: Authenticity
+  - name: Motivation
     icon: fa fa-awesome-face fa-lg fa-3x
     content: 'Waking up feeling grateful to be alive. Your true nature is key to fulfillment,
       regardless of circumstances. '
