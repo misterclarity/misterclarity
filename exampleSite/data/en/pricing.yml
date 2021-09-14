@@ -38,5 +38,7 @@ pricing:
     services:
     - An exploration of the chironic wound
     - "For the astrologically inclined \U0001F609"
-    button: ''
+    button:
+      link: https://calendly.com/misterclarity/30min
+      label: More info
     unit: 2 Months
