@@ -6,11 +6,11 @@ pricing:
   pricing_table:
   - name: Aware
     price: ''
-    unit: 3 months
+    unit: 2 months
     services:
-    - Archetypal polarity
-    - Identity landscape
-    - Spaceholding
+    - '"There is no spoon"'
+    - Expand consciousness
+    - Integrate projections
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
@@ -24,7 +24,7 @@ pricing:
     button:
       label: More info
       link: https://calendly.com/misterclarity/30min
-  - name: Fulfilled
+  - name: Enlightened
     price: ''
     unit: 6 months
     services:
@@ -34,3 +34,11 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
+  - name: Healed
+    services:
+    - An exploration of the chironic wound
+    - "For the astrologically inclined \U0001F609"
+    button:
+      link: https://calendly.com/misterclarity/30min
+      label: More info
+    unit: 2 Months
