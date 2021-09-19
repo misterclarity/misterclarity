@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/data/en
+  path: exampleSite/data/en/pricing-examplesite-data-en-pricing-yml
   label: Pricing
   create: documents
   match: pricing.yml
