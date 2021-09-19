@@ -8,7 +8,7 @@ sections:
   path: exampleSite/data/en
   label: Pricing
   create: documents
-  match: pricing.yml
+  match: pricing
 - type: heading
   label: Blog Post
 - type: directory
