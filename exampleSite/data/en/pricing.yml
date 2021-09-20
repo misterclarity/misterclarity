@@ -39,10 +39,11 @@ pricing:
       label: More info
   - name: Healed ✨
     services:
+    - 8 sessions
     - An exploration of the chironic wound
     - "For the astrologically inclined \U0001F609"
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-    unit: 800€
-    price: 8 sessions
+    unit: session
+    price: 120€
