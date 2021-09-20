@@ -5,7 +5,7 @@ pricing:
   title: The paths
   pricing_table:
   - name: Aware
-    price: 8 sessions
+    price: 2 months
     unit: 800€
     services:
     - '"There is no spoon"'
