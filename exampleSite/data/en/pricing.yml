@@ -5,7 +5,7 @@ pricing:
   title: The paths
   pricing_table:
   - name: Aware
-    price: ''
+    price: 100€ weekly sessions
     unit: 2 months
     services:
     - '"There is no spoon"'
@@ -42,3 +42,4 @@ pricing:
       link: https://calendly.com/misterclarity/30min
       label: More info
     unit: 2 Months
+    price: ''
