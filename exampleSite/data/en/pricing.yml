@@ -15,8 +15,8 @@ pricing:
       link: https://calendly.com/misterclarity/30min
       label: More info
   - name: Calm
-    price: ''
-    unit: 4 months
+    price: 16 sessions
+    unit: 1440€
     services:
     - Improve grounding and sleep
     - Overcome anxiety & mental chatter
