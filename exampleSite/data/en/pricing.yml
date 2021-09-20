@@ -18,13 +18,13 @@ pricing:
     price: 4 months
     unit: 1440€
     services:
-    - Improve grounding and sleep
+    - "Improve grounding and sleep \U0001F634"
     - Decrease anxiety & mental chatter
     - Develop self-compassion
     button:
       label: More info
       link: https://calendly.com/misterclarity/30min
-  - name: Enlightened
+  - name: "Enlightened \U0001F970"
     price: 6 months
     unit: 1920€
     services:
