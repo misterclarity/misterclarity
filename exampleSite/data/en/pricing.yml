@@ -4,7 +4,7 @@ pricing:
   hide_on_mobile: false
   title: The paths
   pricing_table:
-  - name: Aware
+  - name: "Aware \U0001F928"
     price: 2 months
     unit: 800€
     services:
