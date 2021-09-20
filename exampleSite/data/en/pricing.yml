@@ -14,7 +14,7 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-  - name: Calm
+  - name: "Calm \U0001F60C"
     price: 4 months
     unit: 1440€
     services:
