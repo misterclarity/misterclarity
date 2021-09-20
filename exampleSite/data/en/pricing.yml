@@ -6,7 +6,7 @@ pricing:
   pricing_table:
   - name: Aware
     price: 100€
-    unit: weekly sessions over 2 months
+    unit: 8 sessions (1h each)
     services:
     - '"There is no spoon"'
     - Expand consciousness
