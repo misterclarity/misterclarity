@@ -5,8 +5,8 @@ pricing:
   title: The paths
   pricing_table:
   - name: Aware
-    price: 800€
-    unit: 8 sessions
+    price: 8 sessions
+    unit: 800€
     services:
     - '"There is no spoon"'
     - Expand consciousness
