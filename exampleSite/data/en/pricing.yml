@@ -27,9 +27,10 @@ pricing:
       label: More info
       link: https://calendly.com/misterclarity/30min
   - name: "Enlightened \U0001F970"
-    price: 24 sessions
-    unit: 1920€
+    price: 80€
+    unit: session
     services:
+    - 24 sessions
     - Integrate the ego
     - "Develop a meditative state \U0001F9D8"
     - Find your vision
