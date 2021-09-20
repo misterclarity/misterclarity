@@ -45,5 +45,5 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-    unit: 1h session
+    unit: session
     price: 120€
