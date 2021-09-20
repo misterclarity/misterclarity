@@ -25,8 +25,8 @@ pricing:
       label: More info
       link: https://calendly.com/misterclarity/30min
   - name: Enlightened
-    price: ''
-    unit: 6 months
+    price: 6 months
+    unit: 1920€
     services:
     - Integrate the ego
     - Develop a meditative state
