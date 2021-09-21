@@ -5,10 +5,9 @@ pricing:
   title: The paths
   pricing_table:
   - name: "Aware \U0001F928"
-    price: 100€
-    unit: session
+    price: 2 months
+    unit: "€800"
     services:
-    - 8 sessions
     - '"There is no spoon."'
     - Expand consciousness
     - "Integrate projections \U0001F93C"
@@ -16,10 +15,9 @@ pricing:
       link: https://calendly.com/misterclarity/30min
       label: More info
   - name: "Calm \U0001F60C"
-    price: 90€
-    unit: session
+    price: 4 months
+    unit: 1440€
     services:
-    - 16 sessions
     - "Improve grounding and sleep \U0001F634"
     - Decrease anxiety & mental chatter
     - Develop self-compassion
@@ -27,10 +25,9 @@ pricing:
       label: More info
       link: https://calendly.com/misterclarity/30min
   - name: "Enlightened \U0001F970"
-    price: 80€
-    unit: session
+    price: 6 months
+    unit: 1920€
     services:
-    - 24 sessions
     - Integrate the ego
     - "Develop a meditative state \U0001F9D8"
     - Find your vision
@@ -39,11 +36,10 @@ pricing:
       label: More info
   - name: Healed ✨
     services:
-    - 8 sessions
     - An exploration of the chironic wound
     - "For the astrologically inclined \U0001F609"
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-    unit: session
-    price: 120€
+    unit: 800€
+    price: 2 Months
