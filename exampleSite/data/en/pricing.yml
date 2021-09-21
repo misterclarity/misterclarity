@@ -16,7 +16,7 @@ pricing:
       label: More info
   - name: "Calm \U0001F60C"
     price: 4 months
-    unit: 1440€
+    unit: "€1440"
     services:
     - "Improve grounding and sleep \U0001F634"
     - Decrease anxiety & mental chatter
@@ -26,7 +26,7 @@ pricing:
       link: https://calendly.com/misterclarity/30min
   - name: "Enlightened \U0001F970"
     price: 6 months
-    unit: 1920€
+    unit: "€1920"
     services:
     - Integrate the ego
     - "Develop a meditative state \U0001F9D8"
@@ -41,5 +41,5 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-    unit: 800€
+    unit: "€800"
     price: 2 Months
