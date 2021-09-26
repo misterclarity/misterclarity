@@ -4,16 +4,6 @@ pricing:
   hide_on_mobile: false
   title: The paths
   pricing_table:
-  - name: Valuable
-    price: "€1000"
-    unit: 2 Months
-    services:
-    - '"Show me the money!"'
-    - An exploration of your natural talents
-    - For the astrologically inclined
-    button:
-      link: ''
-      label: ''
   - name: "Aware \U0001F928"
     price: 2 months
     unit: "€800"
@@ -53,3 +43,13 @@ pricing:
       label: More info
     unit: "€800"
     price: 2 Months
+  - name: "Valuable \U0001F4B6"
+    price: "€1000"
+    unit: 2 Months
+    services:
+    - '"Show me the money!"'
+    - An exploration of your natural talents
+    - For the astrologically inclined
+    button:
+      link: ''
+      label: ''
