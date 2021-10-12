@@ -25,8 +25,8 @@ pricing:
       label: More info
       link: https://calendly.com/misterclarity/30min
   - name: "Equanimous\U0001F970"
-    price: 6 months
-    unit: "€1920"
+    price: 4 months
+    unit: "€1440"
     services:
     - Integrate the ego
     - "Develop a meditative state \U0001F9D8"
