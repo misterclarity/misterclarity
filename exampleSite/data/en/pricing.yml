@@ -54,3 +54,11 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
+  - price: "?"
+    unit: Free
+    services:
+    - Intro to the Law of Nature
+    button:
+      link: ''
+      label: ''
+    name: Liberated
