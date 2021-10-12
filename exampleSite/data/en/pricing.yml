@@ -45,8 +45,8 @@ pricing:
     unit: "€1000"
     price: 2 Months
   - name: "Skilled \U0001F4B6"
-    price: "€1000"
-    unit: 2 Months
+    price: 2 Months
+    unit: "€1000"
     services:
     - '"Show me the money!"'
     - An exploration of your natural talents
