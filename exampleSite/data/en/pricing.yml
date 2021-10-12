@@ -50,7 +50,7 @@ pricing:
     services:
     - '"Show me the money!"'
     - An exploration of your talents
-    - For the astrologically inclined
+    - "For the astrologically inclined \U0001F609"
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
