@@ -42,8 +42,8 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-    unit: 2 Months
-    price: "€1000"
+    unit: "€1000"
+    price: 2 Months
   - name: "Skilled \U0001F4B6"
     price: "€1000"
     unit: 2 Months
