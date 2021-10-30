@@ -5,7 +5,7 @@ testimonial:
   bg_image_webp: "/images/testimonialsbikes.webp"
   testimonial_item:
   - name: Anonymous, Vienna
-    image: ''
+    image: "/images/logo.png"
     image_webp: ''
     date: '"It was very enchanting to talk with Vlad."'
     content: It was very enchanting to talk with Vlad through critical periods of
