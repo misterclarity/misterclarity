@@ -4,6 +4,15 @@ testimonial:
   bg_image: "/images/testimonialsbikes.jpg"
   bg_image_webp: "/images/testimonialsbikes.webp"
   testimonial_item:
+  - name: Anonymous, Vienna
+    image: ''
+    image_webp: ''
+    date: '"It was very enchanting to talk with Vlad."'
+    content: It was very enchanting to talk with Vlad through critical periods of
+      my life and connecting dots I would have never seen in relation with each other.
+      Vlad is fully immersed in the discussion and has a special feel for the body
+      mind connection. His deep understanding for eastern and western philosophy helps
+      to integrate all these concepts into the individual life.
   - name: Cynthia, Bali
     image: "/images/cynthia.jpeg"
     image_webp: ''
