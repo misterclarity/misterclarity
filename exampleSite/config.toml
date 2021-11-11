@@ -50,7 +50,7 @@ author = "Coachpedia"
 biglogo = "images/enhancedLogo.png"
 description = "Self-Leadership Guide helping you realize that the person you thought you are is no match to the person you truly are 😉"
 google_analytics_id = "UA-173554268-1"
-logo = "images/enhancedLogo.png"
+logo = "images/logo.png"
 post_share = true
 [params.map]
 enable = false
