@@ -88,6 +88,9 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/misterclarity"
+[[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/misterclarity"
 [[params.social]]
