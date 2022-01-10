@@ -1,7 +1,7 @@
 ---
 title: Vlad-Emil Petrea
 image: "/images/profile.jpg"
-email: drachencoach@gmail.com
+email: coach@misterclarity.com
 social:
 - icon: ti-facebook
   link: "#"
