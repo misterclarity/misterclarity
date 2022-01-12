@@ -2480,7 +2480,10 @@ figcaption {
 }
 
 #feature div.vlad-image {
-  background-position: 78% 100% !important;
+  background-size: contain;
+  background-position: center center; 
+  background-repeat: no-repeat; 
+  min-height: 460px;
 }
 
 /* ========================================================================= */
