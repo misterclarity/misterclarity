@@ -21,7 +21,6 @@ fields:
   - type: file
     name: bg_video
     label: bg_video
-
   - type: text
     name: icon
     label: icon
