@@ -1,6 +1,4 @@
 ---
-- id: spaceholderz
-  translation: Spaceholderz
 - id: blogTitle
   translation: Latest Posts
 - id: readMore
@@ -29,3 +27,5 @@
   translation: Blog
 - id: contact
   translation: Contact
+- id: spaceholderz
+  translation: Spaceholderz
