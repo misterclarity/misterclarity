@@ -2479,10 +2479,6 @@ figcaption {
   margin-bottom: 0.3em !important;
 }
 
-#feature div.vlad-image {
-  background-position: 78% 100% !important;
-}
-
 /* ========================================================================= */
 /*	Service block
   /* =========================================================================  */
@@ -2978,5 +2974,23 @@ div#testimonials {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+}
+
+#feature div.vlad-image {
+  background-size: contain;
+  background-position: center 20%;
+  background-repeat: no-repeat;
+  min-height: 460px;
+}
+
+.video-wrapper video {
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  background-color: #000;
+  left: 0;
 }
 /*# sourceMappingURL=style.css.map */

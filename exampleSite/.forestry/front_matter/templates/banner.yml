@@ -18,6 +18,10 @@ fields:
   - type: file
     name: bg_image
     label: bg_image
+  - type: file
+    name: bg_video
+    label: bg_video
+
   - type: text
     name: icon
     label: icon

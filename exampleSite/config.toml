@@ -45,10 +45,9 @@ weight = 7
 [[menu.main]]
 URL = "contact"
 name = "contact"
-[[menu.main]]
+[[menu.static]]
 URL = "https://www.spaceholderz.com/"
 name = "spaceholderz"
-weight = ""
 [params]
 author = "Coachpedia"
 biglogo = "images/enhancedLogo.png"

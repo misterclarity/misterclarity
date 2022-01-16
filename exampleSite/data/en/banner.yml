@@ -4,6 +4,7 @@ banner:
   hide_on_mobile: false
   bg_image_webp: "/images/sun2.webp"
   bg_image: ''
+  bg_video: 'https://www.misterclarity.com/images/latest_1024_0193.mp4'
   icon: ''
   title: ''
   content: ''

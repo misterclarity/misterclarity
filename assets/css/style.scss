@@ -2393,10 +2393,6 @@ html {
     margin-bottom: 0.3em !important;
   }
   
-  #feature div.vlad-image {
-    background-position: 78% 100% !important;
-  }
-  
   
   /* ========================================================================= */
   /*	Service block
@@ -2827,4 +2823,22 @@ section#cta2 {
 
 div#testimonials {
   display:flex;
+}
+
+#feature div.vlad-image {
+  background-size: contain;
+  background-position: center 20%; 
+  background-repeat: no-repeat; 
+  min-height: 460px;
+}
+
+
+.video-wrapper video {
+  object-fit: contain;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  background-color: #000;
+  left: 0;
 }

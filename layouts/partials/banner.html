@@ -10,7 +10,14 @@
 <section class="hero-area {{ $var }}" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
 	<!-- this image is for trigger this section fallback background image -->
 	<img class="lozad d-none" data-src="{{ .bg_image_webp | absURL }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"/>
-
+	{{ if .bg_video }}
+	<div class="video-wrapper">
+		<video playsinline autoplay muted loop>
+		  <source src="{{ .bg_video | absURL }}" type="video/mp4">
+		  Your browser does not support the video tag.
+		</video>
+	</div>	  
+	{{ end }}
 	<div class="block">
 		{{ if .icon }}
 		<div class="video-button">
@@ -30,7 +37,7 @@
 		<![endif]-->
 		<br/>
 		<div class="rw-wrapper">
-			<h1 class="rw-sentence"><br/><br/><br/><br/>
+			<h1 class="rw-sentence">
 				
 <!-- 			<span class="first"><b>Feeling</span> -->
 					<br class="display-mobile"/>
@@ -44,7 +51,7 @@
 
 		</h1>
 				
-		<br/><br/><br/>
+		<br/>
 				
 <!-- 		</div>
 		<h1 class="rw-sentence-IE">
