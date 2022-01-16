@@ -1,4 +1,6 @@
 ---
+- id: spaceholderz
+  translation: Spaceholderz
 - id: blogTitle
   translation: Ultimul articol
 - id: readMore
