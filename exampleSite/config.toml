@@ -19,10 +19,6 @@ languageCode = "ro-ro"
 languageName = "Ro"
 weight = "2"
 [[menu.main]]
-URL = "https://www.spaceholderz.com/"
-name = "Spazeholderz"
-weight = ""
-[[menu.main]]
 URL = "feature"
 name = "feature"
 weight = 2
