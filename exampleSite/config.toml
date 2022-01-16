@@ -19,37 +19,36 @@ languageCode = "ro-ro"
 languageName = "Ro"
 weight = "2"
 [[menu.main]]
+URL = "spazeholderz"
 name = "spaceholderz"
-url = "https://www.spaceholderz.com/"
-weight = 8
+weight = ""
 [[menu.main]]
 URL = "feature"
 name = "feature"
-weight = 1
-[[menu.main]]
-URL = "contact"
-name = "contact"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 7
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 6
-[[menu.main]]
-URL = "testimonial"
-name = "testimonial"
-weight = 5
+URL = "services"
+name = "service"
+weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "portfolio"
 weight = 4
 [[menu.main]]
-URL = "services"
-name = "service"
-weight = 3
+URL = "testimonial"
+name = "testimonial"
+weight = 5
+[[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = 6
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 7
+[[menu.main]]
+URL = "contact"
+name = "contact"
 [params]
 author = "Coachpedia"
 biglogo = "images/enhancedLogo.png"
