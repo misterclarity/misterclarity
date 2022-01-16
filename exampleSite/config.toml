@@ -19,10 +19,6 @@ languageCode = "ro-ro"
 languageName = "Ro"
 weight = "2"
 [[menu.main]]
-URL = "https://www.spaceholderz.com/"
-name = "spaceholderz"
-weight = ""
-[[menu.main]]
 URL = "feature"
 name = "feature"
 weight = 2
@@ -49,6 +45,10 @@ weight = 7
 [[menu.main]]
 URL = "contact"
 name = "contact"
+[[menu.main]]
+URL = "https://www.spaceholderz.com/"
+name = "spaceholderz"
+weight = ""
 [params]
 author = "Coachpedia"
 biglogo = "images/enhancedLogo.png"
