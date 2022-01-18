@@ -7,13 +7,13 @@ theme = "misterclarity"
 title = "Mr. Clarity | Self-Leadership & Creativity"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Coachpedia.](https://coachpedia.net) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [The Brandalicious.](https://www.thebrandalicious.com/) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/ro"
-copyright = "Copyright &copy; 2020 [Coachpedia.](https://coachpedia.net) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [The Brandalicious.](https://www.thebrandalicious.com/) All Rights Reserved"
 home = "Acasă"
 languageCode = "ro-ro"
 languageName = "Ro"
