@@ -49,9 +49,9 @@ name = "contact"
 URL = "https://www.spaceholderz.com/"
 name = "spaceholderz"
 [params]
-author = "Coachpedia"
+author = "The Brandalicious"
 biglogo = "images/enhancedLogo.png"
-description = "Self-Leadership Guide helping you realize that the person you thought you are is no match to the person you truly are 😉"
+description = "Self-Leadership Guide helping you bloom into your limitless human potential through fun and creativity."
 google_analytics_id = "UA-173554268-1"
 logo = "images/logo.png"
 post_share = true
