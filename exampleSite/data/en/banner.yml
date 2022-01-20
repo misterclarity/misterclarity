@@ -5,7 +5,7 @@ banner:
   bg_image_webp: "/images/sun2.webp"
   bg_image: ''
   bg_video: ''
-  icon: ''
+  icon: m
   title: ''
   content: ''
   button:
