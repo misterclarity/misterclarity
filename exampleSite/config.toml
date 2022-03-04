@@ -4,16 +4,16 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "misterclarity"
-title = "Mr. Clarity | Self-Leadership & Creativity"
+title = "Mr. Clarity | Self-Leadership & Personality"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Coachpedia.](https://coachpedia.net) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [The Brandalicious.](https://www.thebrandalicious.com/) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/ro"
-copyright = "Copyright &copy; 2020 [Coachpedia.](https://coachpedia.net) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [The Brandalicious.](https://www.thebrandalicious.com/) All Rights Reserved"
 home = "Acasă"
 languageCode = "ro-ro"
 languageName = "Ro"
@@ -49,9 +49,9 @@ name = "contact"
 URL = "https://www.spaceholderz.com/"
 name = "spaceholderz"
 [params]
-author = "Coachpedia"
+author = "The Brandalicious"
 biglogo = "images/enhancedLogo.png"
-description = "Self-Leadership Guide helping you realize that the person you thought you are is no match to the person you truly are 😉"
+description = "Self-Leadership Guide helping you bloom into your limitless human potential through fun and creativity."
 google_analytics_id = "UA-173554268-1"
 logo = "images/logo.png"
 post_share = true
@@ -93,9 +93,6 @@ preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/misterclarity"
-[[params.social]]
-icon = "ti-facebook"
-link = "https://www.facebook.com/misterclarity"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/misterclarity"

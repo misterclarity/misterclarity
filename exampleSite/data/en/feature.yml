@@ -1,9 +1,9 @@
 ---
 feature:
   enable: true
-  image: "/images/bike.jpg"
-  image_webp: "/images/bike.webp"
-  title: I help you break free from limitations so you can access your highest potential.
+  image: "/images/profile.jpg"
+  image_webp: "/images/profile.webp"
+  title: ''
   content: ''
   feature_item:
   - title: Grounded & Open
