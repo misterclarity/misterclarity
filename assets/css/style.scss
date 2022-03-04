@@ -2830,7 +2830,11 @@ div#testimonials {
   background-position: center 20%; 
   background-repeat: no-repeat; 
   min-height: 460px;
-  max-width: 400px !important;
+
+  img {
+    max-width: 400px !important;
+    margin: 0 auto;
+  }
 }
 
 
