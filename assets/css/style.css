@@ -464,6 +464,7 @@ a:hover {
           align-items: center;
 }
 
+/* this is where you darken the banner image to make the text transparency */
 .hero-area:before {
   content: '';
   background: rgba(0, 0, 0, 0.63);
