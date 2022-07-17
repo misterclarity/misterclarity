@@ -9,6 +9,6 @@ banner:
   content: ''
   button:
     enable: true
-    label: About me
+    label: Let‘s talk!
     link: "#feature"
   bg_video: ''
