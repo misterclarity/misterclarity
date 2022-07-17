@@ -5,20 +5,5 @@ feature:
   image_webp: "/images/profile.webp"
   title: ''
   content: ''
-  feature_item:
-  - title: Grounded & Open
-    icon: ti-user
-    content: I am aware, equanimous, and present, fully in service of your evolutionary
-      and self-leadership process.
-  - title: Positive & Encouraging
-    icon: ti-thumb-up
-    content: 'It takes consistent momentum to make a change, so I support you when
-      you struggle, while acknowledging your progress. '
-  - title: Person-centered & Inspiring
-    icon: ti-move
-    content: You decide the topics, I provide the impetus!
-  - title: Collaborative & Intuitive
-    icon: ti-thought
-    content: I remain present by listening deeply to myself and to you, asking clarifying
-      questions, and witnessing the essence of your words/actions.
+  feature_item: []
   hide_on_mobile: false
