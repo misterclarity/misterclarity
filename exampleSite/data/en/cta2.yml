@@ -3,8 +3,8 @@ cta:
   enable: true
   bg_image: ''
   bg_image_webp: ''
-  title: Coaching is a relationship.
-  content: Let's see if we have the right connection during a free introductory call.
+  title: Human presence is therapeutic.
+  content: Find out if we have the right connection during a free call.
   button:
     enable: true
     label: Schedule now
@@ -16,7 +16,7 @@ cta2:
   bg_image: ''
   bg_image_webp: ''
   title: '"Don''t underestimate the hole your absence would leave." J.B. Peterson'
-  content: Find out how I can help you become more present during a free consultation.
+  content: Find out how I can help you become more present during a free call.
   button:
     enable: true
     label: Get in touch
