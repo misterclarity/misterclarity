@@ -5,8 +5,8 @@ pricing:
   title: The paths
   pricing_table:
   - name: "Aware \U0001F928"
-    price: ''
-    unit: ''
+    price: 2 months
+    unit: 8 sessions
     services:
     - '"There is no spoon."'
     - Expand consciousness
