@@ -51,13 +51,13 @@ name = "spaceholderz"
 [params]
 author = "The Brandalicious"
 biglogo = "images/enhancedLogo.png"
-description = "Self-Leadership Guide helping you bloom into your limitless human potential through fun and creativity."
+description = "Renaissance Guide helping you become spontaneous through (re)connecting with instincts."
 google_analytics_id = "UA-173554268-1"
 logo = "images/logo.png"
 post_share = true
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAyCIAQihbtu9cShJs0kf2IxdIdNckhTEk"
+gmap_api = ""
 map_latitude = "48.126404"
 map_longitude = "16.283692"
 map_marker = "images/marker.png"
