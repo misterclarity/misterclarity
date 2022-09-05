@@ -6,9 +6,9 @@ pricing:
   pricing_table:
   - name: "Aware \U0001F928"
     price: 2 months
-    unit: "€800"
+    unit: 8 sessions
     services:
-    - '"There is no spoon."'
+    - '"There is no spoon" mentality'
     - Expand consciousness
     - "Integrate projections \U0001F93C"
     button:
@@ -16,7 +16,7 @@ pricing:
       label: More info
   - name: "Grounded\U0001F60C"
     price: 3 months
-    unit: "€1140"
+    unit: 13 sessions
     services:
     - "Improve grounding and sleep \U0001F634"
     - Decrease anxiety & mental chatter
@@ -26,9 +26,9 @@ pricing:
       link: https://calendly.com/misterclarity/30min
   - name: "Equanimous\U0001F970"
     price: 4 months
-    unit: "€1440"
+    unit: 18 sessions
     services:
-    - Integrate the ego
+    - Befriend the ego
     - "Develop a meditative state \U0001F9D8"
     - Find your vision
     button:
@@ -42,13 +42,13 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-    unit: "€1000"
+    unit: 8 sessions
     price: 2 Months
   - name: "Skilled \U0001F4B6"
     price: 2 Months
-    unit: "€1000"
+    unit: 8 sessions
     services:
-    - '"Show me the money!"'
+    - '"Show me the money" mentality'
     - An exploration of your talents
     - "For the astrologically inclined \U0001F609"
     button:
@@ -58,7 +58,7 @@ pricing:
     unit: Free
     services:
     - Intro to the Law of Nature
-    - '"Just observe. Do nothing."'
+    - '"Just observe, do nothing" mentality'
     - "For the meditative ones \U0001F609"
     button:
       link: https://calendly.com/misterclarity/30min
