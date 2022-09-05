@@ -4,7 +4,7 @@ cta:
   bg_image: ''
   bg_image_webp: ''
   title: 'Human connection is therapeutic.'
-  content: 'Find out how I can support your journey during a free call.'
+  content: 'Find out how I can support you during a free call.'
   button:
     enable: true
     label: Get in touch
