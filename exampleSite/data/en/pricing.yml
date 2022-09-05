@@ -2,7 +2,7 @@
 pricing:
   enable: true
   hide_on_mobile: false
-  title: The paths
+  title: My offer
   pricing_table:
   - name: "Aware \U0001F928"
     price: 2 months
