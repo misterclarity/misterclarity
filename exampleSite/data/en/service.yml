@@ -24,6 +24,6 @@ service:
     content: Enhancing your mental capacity by operating from a place of genuine (self-)acceptance.
   - name: Confidence
     icon: fa fa-level-up fa-lg fa-3x
-    content: Integrating the past activates resources you always knew you have, but
-      could not access.
+    content: Re(connecting) to your instincts activates resources you always knew
+      you have, but could not access.
   hide_on_mobile: true
