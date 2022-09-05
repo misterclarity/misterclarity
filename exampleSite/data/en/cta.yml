@@ -3,8 +3,8 @@ cta:
   enable: true
   bg_image: ''
   bg_image_webp: ''
-  title: 'Human presence is therapeutic.'
-  content: 'Experience the effect of conscious presence during a free call.'
+  title: 'Human connection is therapeutic.'
+  content: 'Find out how I can support your journey during a free call.'
   button:
     enable: true
     label: Get in touch
