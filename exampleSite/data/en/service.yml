@@ -17,8 +17,8 @@ service:
       on your vision grants momentum."
   - name: Grounding
     icon: fa fa-tree fa-lg fa-3x
-    content: Stepping into a place of calm and composure, especially when dealing
-      with a tough or complex situation. Staying anchored in hope.
+    content: Naturally stepping into a place of calm and composure, especially when
+      dealing with a novel or complex situation.
   - name: Intelligence
     icon: fa fa-lightbulb-o fa-lg fa-3x
     content: Enhancing your mental capacity by operating from a place of genuine (self-)acceptance.
