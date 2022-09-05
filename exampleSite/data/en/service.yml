@@ -5,7 +5,7 @@ service:
   service_item:
   - name: Motivation
     icon: fa fa-awesome-face fa-lg fa-3x
-    content: 'Waking up feeling grateful to be alive. Your is key to fulfillment,
+    content: 'Waking up feeling grateful to be alive. Your spontaneity is key to fulfillment,
       regardless of circumstances. '
   - name: Clarity
     icon: fa fa-compass fa-lg fa-3x
