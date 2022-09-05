@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "misterclarity"
-title = "MisterClarity - a man for all seasons"
+title = "Mister Clarity - renaissance guide"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [The Brandalicious.](https://www.thebrandalicious.com/) All Rights Reserved"
