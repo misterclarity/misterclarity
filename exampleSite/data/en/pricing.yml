@@ -14,7 +14,7 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-  - name: "Grounded\U0001F60C"
+  - name: "Grounded \U0001F60C"
     price: 3 months
     unit: 13 sessions
     services:
