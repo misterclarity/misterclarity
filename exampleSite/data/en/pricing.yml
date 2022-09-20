@@ -34,33 +34,3 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-  - name: Connected✨
-    services:
-    - Your pain = strength & wisdom
-    - An exploration of the chironic wound
-    - "For the astrologically inclined \U0001F609"
-    button:
-      link: https://calendly.com/misterclarity/30min
-      label: More info
-    unit: 8 sessions
-    price: 2 Months
-  - name: "Skilled \U0001F4B6"
-    price: 2 Months
-    unit: 8 sessions
-    services:
-    - '"Show me the money" mentality'
-    - An exploration of your talents
-    - "For the astrologically inclined \U0001F609"
-    button:
-      link: https://calendly.com/misterclarity/30min
-      label: More info
-  - price: "?"
-    unit: Free
-    services:
-    - Intro to the Law of Nature
-    - '"Just observe, do nothing" mentality'
-    - "For the meditative ones \U0001F609"
-    button:
-      link: https://calendly.com/misterclarity/30min
-      label: More info
-    name: On the Path
