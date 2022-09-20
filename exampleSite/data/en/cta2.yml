@@ -4,11 +4,11 @@ cta:
   bg_image: ''
   bg_image_webp: ''
   title: 'Connect more to fear less.'
-  content: Find out how I can support you in becoming fearless.
+  content: 'Find out how I can support you in becoming fearless.'
   button:
     enable: true
     label: Schedule now
-    link: https://calendly.com/misterclarity/60min
+    link: https://calendly.com/misterclarity/30min
   hide_on_mobile: false
 cta2:
   enable: true
@@ -16,7 +16,7 @@ cta2:
   bg_image: ''
   bg_image_webp: ''
   title: 'Human connection is therapeutic.'
-  content: Find out how I can support your evolution.
+  content: 'Find out how I can support your evolution.'
   button:
     enable: true
     label: Get in touch
