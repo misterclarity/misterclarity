@@ -9,6 +9,6 @@ banner:
   content: ''
   button:
     enable: true
-    label: Let‘s take a walk
+    label: Read on
     link: "#feature"
   bg_video: ''
