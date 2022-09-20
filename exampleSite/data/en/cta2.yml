@@ -3,8 +3,8 @@ cta:
   enable: true
   bg_image: ''
   bg_image_webp: ''
-  title: 'Human presence is therapeutic.'
-  content: 'Find out how I can support you during a free call.'
+  title: "Connect more to fear less."
+  content: Find out how I can support you in becoming fearless.
   button:
     enable: true
     label: Schedule now
@@ -15,8 +15,8 @@ cta2:
   hide_on_mobile: false
   bg_image: ''
   bg_image_webp: ''
-  title: '"Now is the time to understand more so that we may fear less." Marie Curie'
-  content: Find out how I can support you in becoming fearless during a free call.
+  title: 'Human connection is therapeutic.'
+  content: Find out how I can support your evolution.
   button:
     enable: true
     label: Get in touch
