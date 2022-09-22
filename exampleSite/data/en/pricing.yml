@@ -14,7 +14,7 @@ pricing:
     button:
       link: https://calendly.com/misterclarity/30min
       label: More info
-  - name: "Grounded\U0001F60C"
+  - name: "Grounded \U0001F60C"
     price: 3 months
     unit: 13 sessions
     services:
@@ -24,7 +24,7 @@ pricing:
     button:
       label: More info
       link: https://calendly.com/misterclarity/30min
-  - name: "Equanimous\U0001F970"
+  - name: "Equanimous \U0001F970"
     price: 4 months
     unit: 18 sessions
     services:
