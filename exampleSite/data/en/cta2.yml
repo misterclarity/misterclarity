@@ -3,8 +3,8 @@ cta:
   enable: true
   bg_image: ''
   bg_image_webp: ''
-  title: 'Connect more to fear less.'
-  content: 'Find out how I can support you in becoming fearless.'
+  title: 'It is in the shelter of each other that the people live. -Irish Proverb'
+  content: 'Find out how I can help you connect to others.'
   button:
     enable: true
     label: Schedule now
