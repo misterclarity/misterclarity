@@ -4,6 +4,19 @@ testimonial:
   bg_image: "/images/testimonialsbikes.jpg"
   bg_image_webp: "/images/testimonialsbikes.webp"
   testimonial_item:
+  - name: Maria, Vienna
+    image: ''
+    image_webp: ''
+    date: If you are searching for a more holistic coaching program [...] Vlad is
+      your coach.
+    content: Vlad has an extremely broad acumen, he is a very professional, and inquisitive
+      but also a compassionate counselor. It was important for me to be able to trust,
+      so one of the things I appreciated the most was that he held a strong and safe
+      space for expressing deep feelings, doubts, and inquiries. He guided me very
+      subtly yet empowered me through precise questions to get to the essence of things,
+      gain more clarity and make steps in the right direction. If you are searching
+      for a more holistic coaching program, that can be tailored as you go and need,
+      I think Vlad is your coach.
   - name: Anonymous, Vienna
     image: "/images/logo.png"
     image_webp: ''
