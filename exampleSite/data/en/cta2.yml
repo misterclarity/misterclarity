@@ -3,11 +3,11 @@ cta:
   enable: true
   bg_image: ''
   bg_image_webp: ''
-  title: 'What you think, you become.'
-  content: 'Find out how I can help you improve your decisions.'
+  title: 'Serving is a supreme art.'
+  content: 'All the wisdom that I have been priviledged to transmit is at your service.'
   button:
     enable: true
-    label: Schedule now
+    label: Get in touch
     link: https://calendly.com/misterclarity/30min
   hide_on_mobile: false
 cta2:
@@ -16,7 +16,7 @@ cta2:
   bg_image: ''
   bg_image_webp: ''
   title: 'Inner clarity is therapeutic.'
-  content: 'Find out how I can support your growth.'
+  content: 'Find out how I can support you on your journey.'
   button:
     enable: true
     label: Get in touch
