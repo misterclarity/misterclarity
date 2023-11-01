@@ -49,9 +49,9 @@ name = "contact"
 URL = "https://www.spaceholderz.com/"
 name = "spaceholderz"
 [params]
-author = "The Brandalicious"
-biglogo = ""
-description = "Unconventional Guide helping you thrive."
+author = "Mister Clarity"
+biglogo = "images/logo.png"
+description = "Helping you thrive."
 google_analytics_id = "UA-173554268-1"
 logo = "images/logo.png"
 post_share = true
