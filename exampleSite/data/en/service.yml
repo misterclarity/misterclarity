@@ -13,7 +13,7 @@ service:
       become intuitive and getting back on track feels effortless.
   - name: Focus
     icon: fa fa-bolt fa-lg fa-3x
-    content: "(Re)aligning with your goals validates and increases your drive. Focusing
+    content: "(Re)aligning with your needs validates and increases your drive. Focusing
       on your vision grants momentum."
   - name: Grounding
     icon: fa fa-tree fa-lg fa-3x
