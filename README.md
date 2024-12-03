@@ -43,7 +43,7 @@ Here comes the last step. Go to your [Netlify](https://bit.ly/netlify-account) a
 
 ## Demo
 
-<img src="https://user-images.githubusercontent.com/37659754/54068559-44d79a80-4278-11e9-9601-f58d6879989c.gif" alt="screenshot" width="100%">
+<img src="https://user-images.githubusercontent.com/37659754/54068559-44d79a80-4278-11e9-9601-f58d6879989c.gif" alt="screenshot" width="100%");
 
 **The images are only for demonstration purposes. Please don't use those images.**
 
@@ -68,23 +68,6 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 ## Technical Support or Questions (Paid)
 
 If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
-
-
-### Donate Us (Author) 
-This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated . Thank you!
-
-* **[Donate $10](https://www.paypal.me/themefisher/10USD)**: Thank's for creating this project, here's a tea (or some juice) for you!
-* **[Donate $20](https://www.paypal.me/themefisher/20USD)**: Wow, I am stunned. Let me take you to the movies!
-* **[Donate $30](https://www.paypal.me/themefisher/30USD)**: I really appreciate your work, let's grab some lunch!
-* **[Donate $40](https://www.paypal.me/themefisher/40USD)**: That's some awesome stuff you did right there, dinner is on me!
-* **[Donate $50](https://www.paypal.me/themefisher/50USD)**: I really really want to support this project, great job!
-* **[Donate $100](https://www.paypal.me/themefisher/100USD)**: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
-* **[Donate $1500](https://www.paypal.me/themefisher/1500USD)**: Go buddy, buy Macbook Pro for yourself!
-
-Of course, you can also choose what you want to donate, all donations are awesome! 
-
-## Hire Us
-We are available for **Hiring** for your next HUGO project. Drop us a mail at [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
 
 ## Premium Themes
 
