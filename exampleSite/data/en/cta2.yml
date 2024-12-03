@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: ''
   bg_image_webp: ''
-  title: 'Serving is a supreme art.'
+  title: 'Peer into the future and cast your vision.'
   content: 'All the wisdom that I have been priviledged to embody is at your service.'
   button:
     enable: true
@@ -15,7 +15,7 @@ cta2:
   hide_on_mobile: false
   bg_image: ''
   bg_image_webp: ''
-  title: 'Inner clarity is therapeutic.'
+  title: 'Embodied clarity is therapeutic.'
   content: 'Find out how I can support you on your journey.'
   button:
     enable: true

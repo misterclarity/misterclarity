@@ -2,7 +2,7 @@
 testimonial:
   enable: true
   bg_image: "/images/testimonialsbikes.jpg"
-  bg_image_webp: "/images/testimonialsbikes.webp"
+  bg_image_webp: "/images/sun2.webp"
   testimonial_item:
   - name: Maria, Vienna
     image: "/images/marialazar.jpeg"

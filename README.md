@@ -62,7 +62,7 @@ $ hugo server --themesDir ../..
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing issues](https://github.com/themefisher/meghna-hugo/issues). It’s possible someone has already reported the same problem.
+We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing issues](https://github.com/themefisher/meghna-hugo/issues). It's possible someone has already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/meghna-hugo/issues).
 
 ## Technical Support or Questions (Paid)

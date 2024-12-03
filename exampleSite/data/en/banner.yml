@@ -9,6 +9,6 @@ banner:
   content: ''
   button:
     enable: true
-    label: Step inside
+    label: Let's go!
     link: "#feature"
   bg_video: ''
