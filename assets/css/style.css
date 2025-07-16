@@ -2979,21 +2979,23 @@ div#testimonials {
 
 #feature div.vlad-image {
   background-size: contain;
-  background-position: center 20%;
+  background-position: 90% 20%;
   background-repeat: no-repeat;
   min-height: 460px;
-  max-width: 400px !important;
+  max-width: 500px !important;
   margin: 0 auto;
+  padding-right: 50px;
 }
 
-.video-wrapper video {
-  -o-object-fit: contain;
-     object-fit: contain;
-  width: 100vw;
-  height: 100vh;
-  position: absolute;
-  top: 0;
-  background-color: #000;
-  left: 0;
+@media screen and (min-width: 1200px) {
+  #feature div.vlad-image {
+    background-position: 95% 20%;
+    margin-right: 0;
+  }
+  
+  #feature .content-block {
+    padding-right: 60px;
+  }
 }
+
 /*# sourceMappingURL=style.css.map */
