@@ -646,6 +646,8 @@ a:hover {
   ==================================================================*/
 .about-2 .content-block {
   padding: 40px;
+  max-width: 700px; /* Add max-width to allow more horizontal space */
+  margin-right: auto; /* Help with alignment */
 }
 
 .about-2 .content-block .media {
@@ -2998,4 +3000,4 @@ div#testimonials {
   }
 }
 
-/*# sourceMappingURL=style.css.map */
+/# sourceMappingURL=style.css.map
