@@ -15,8 +15,8 @@
   translation: All
 - id: feature
   translation: About
-- id: service
-  translation: My Promise
+# - id: service
+#   translation: My Promise
 - id: testimonial
   translation: Testimonials
 - id: portfolio
