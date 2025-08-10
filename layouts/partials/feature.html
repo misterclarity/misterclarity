@@ -8,8 +8,8 @@
     {{ $var = "hideonmobile" }}
 {{ end }}
 <section class="section section-bg about-2 padding-0 {{ $var }}" id="feature">
-	<div class="container-fluid">
-		<div class="row">
+	<div class="container-fluid px-0">
+		<div class="row mx-0">
 			<div class="col-lg-6">
 				<div class="content-block">
 					<!-- <h2>{{ .title | markdownify }}</h2>-->
@@ -38,7 +38,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-6 vlad-image padding-0" style="background-image: url('{{ .image_webp | absURL }}'); border-radius: 15px; margin: 20px;">
+			<div class="col-lg-6 vlad-image" style="background-image: url('{{ .image_webp | absURL }}'); border-radius: 15px; margin: 20px; background-size: cover; background-position: center; overflow: hidden;">
 				<!-- this image is for trigger this section fallback background image -->
 				<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" src="{{ .image_webp | absURL }}" />
 			</div>
