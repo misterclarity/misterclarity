@@ -19,8 +19,8 @@
 #   translation: My Promise
 - id: testimonial
   translation: Testimonials
-- id: portfolio
-  translation: Resources
+# - id: portfolio
+#   translation: Resources
 - id: pricing
   translation: Offer
 - id: blog
