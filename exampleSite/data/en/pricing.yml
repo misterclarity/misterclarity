@@ -4,7 +4,7 @@ pricing:
   hide_on_mobile: false
   title: My offer
   pricing_table:
-  - name: "Golden Compass \U0001F9ED"
+  - name: "The Golden Compass \U0001F9ED"
     price: 3 months
     unit: 12 sessions
     services:
