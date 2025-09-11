@@ -4,19 +4,19 @@ pricing:
   hide_on_mobile: false
   title: My offer
   pricing_table:
-  - name: "The Golden Compass \U0001F9ED"
-    price: 3 months
-    unit: 12 sessions
+  - name: "The world is mine \U0001F5FA\U0000FE0F"
+    price: €195
+    unit: 2 sessions
     services:
-    - Flexible weekly sessions
-    - Guidance for major decisions
-    - Tailored travel recommendations
+    - Astrocartography analysis
+    - Identify power places
+    - Past & present insights
     button:
       link: https://calendly.com/misterclarity/30min
       label: Start now
   - name: "Home sweet home \U0001F60C"
-    price: 2 months
-    unit: 8 sessions
+    price: €390
+    unit: 4 sessions
     services:
     - Find your ideal place to live
     - Complete relocation analysis
@@ -24,13 +24,13 @@ pricing:
     button:
       label: Start now
       link: https://calendly.com/misterclarity/30min
-  - name: "The world is mine \U0001F5FA\U0000FE0F"
-    price: 1 months
-    unit: 4 sessions
+  - name: "The Golden Compass \U0001F9ED"
+    price: €585
+    unit: 6 sessions
     services:
-    - Astrocartography analysis
-    - Identify power places
-    - Past & present insights
+      - Flexible weekly sessions
+      - Guidance for major decisions
+      - Tailored travel recommendations
     button:
       link: https://calendly.com/misterclarity/30min
       label: Start now
