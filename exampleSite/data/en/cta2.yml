@@ -4,7 +4,7 @@ cta:
   bg_image: ''
   bg_image_webp: ''
   title: 'Gain clarity about your future and make it real.'
-  content: 'The wisdom of astrocartography is at your service.'
+  content: 'Over 4000 years of astrological wisdom, at your service.'
   button:
     enable: true
     label: Get in touch
@@ -16,7 +16,7 @@ cta2:
   bg_image: ''
   bg_image_webp: ''
   title: 'Building bridges is therapeutic.'
-  content: 'Find out what the world has in store for your journey.'
+  content: 'Find out what the world has in store for your life journey.'
   button:
     enable: true
     label: Get in touch
