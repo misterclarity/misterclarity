@@ -5,7 +5,7 @@ pricing:
   title: My offer
   pricing_table:
   - name: "The world is mine \U0001F5FA\U0000FE0F"
-    price: €195
+    price: €190
     unit: 2 sessions
     services:
     - Astrocartography analysis
@@ -25,7 +25,7 @@ pricing:
       label: Start now
       link: https://calendly.com/misterclarity/30min
   - name: "The Golden Compass \U0001F9ED"
-    price: €585
+    price: €580
     unit: 6 sessions
     services:
       - Flexible weekly sessions
