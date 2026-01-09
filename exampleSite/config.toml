@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "misterclarity"
-title = "Mister Clarity | Astrocartography & Transition Coaching"
+title = "Mister Clarity | AstroCartography & Transition Coaching"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Mister Clarity.](https://www.misterclarity.com/) All Rights Reserved"
