@@ -5,7 +5,7 @@
 {{"<!-- feature -->" | safeHTML}}
 {{ $var := "" }}
 {{ if .hide_on_mobile }}
-    {{ $var = "hideonmobile" }}
+{{ $var = "hideonmobile" }}
 {{ end }}
 <section class="section section-bg about-2 padding-2 {{ $var }}" id="feature">
 	<div class="container-fluid px-0 d-flex justify-content-center">
@@ -13,40 +13,50 @@
 			<div class="col-lg-10 text-center">
 				<div class="content-block" style="padding: 0 40px; margin: 0 auto;">
 					<!-- <h2>{{ .title | markdownify }}</h2>-->
-					     Welcome <span aria-hidden="true" class="fa fa-lg fa-heart fa-anim-vertical-shake" style="color:#FF0064"></span> </br>			     
-					     <h3 style="text-align: justify;"></br>
-						 <p>  
-					     A love of mythology mixed with a life crisis sparked my 20+ year study of Astrology that still fascinates me to this day.
-						 </br></br>
-						 During the COVID pandemic I also studied <b>coaching</b> with <a href="https://www.animascoaching.com/" target="_blank">Animas UK</a> and began combining astrology with somatic practices and coaching. 
-						 The latest touch came from my love of travel, which led to learning <b>AstroCartography</b> 
-						 — finding optimal locations aligned with personal goals. 
-						 </br></br>If you are looking for <b>free</b> astrological tools and training, you can visit <a href="https://www.lunarium.co.uk" target="_blank">lunarium.co.uk</a>, a website that I maintain in my spare time.</br>
-						 </h2>
-					     </br>I'm Vlad, and if you are ready for the next step in your adventure, you may <b><a style="color:#FF9F1C;" href="https://calendly.com/misterclarity/30min">book a free intro session</a></b>.
-					     
-					<div class="row">
-						{{ range .feature_item }}
-						<div class="col-lg-6">
-							<div class="media">
-								{{with .icon}}
-								<div class="align-self-start mr-3">
-									<i class="{{ . }}"></i>
-								</div>
-								{{ end }}
-								<div class="media-body">
-									<h4 class="media-heading">{{ .title | markdownify }}</h4>
-									<p>{{ .content | markdownify }}</p>
+					Welcome <span aria-hidden="true" class="fa fa-lg fa-heart fa-anim-vertical-shake"
+						style="color:#FF0064"></span> </br>
+					<h3 style="text-align: justify;"></br>
+						<p>
+							Where you live can be the difference between fighting against the tide and finding your
+							natural flow.
+							</br></br>
+							If you are currently navigating a major life transition or searching for an environment that
+							finally supports your goals—whether in career advancement, spiritual growth, or love — I
+							help you find the location where you are meant to thrive.
+							</br></br>By combining <b>Tran sition Coaching</b> with precise <b>AstroCartography</b>, we
+							translate your unique astrological blueprint into a practical roadmap. Instead of
+							generalized advice, I provide personalized location guidance focused on your immediate
+							reality and long-term objectives.
+							</br></br>
+							I'm Vlad, and if you are ready for the next step in your adventure, you may <b><a
+									style="color:#FF9F1C;" href="https://calendly.com/misterclarity/30min">book a free
+									intro session</a></b>.
+
+						<div class="row">
+							{{ range .feature_item }}
+							<div class="col-lg-6">
+								<div class="media">
+									{{with .icon}}
+									<div class="align-self-start mr-3">
+										<i class="{{ . }}"></i>
+									</div>
+									{{ end }}
+									<div class="media-body">
+										<h4 class="media-heading">{{ .title | markdownify }}</h4>
+										<p>{{ .content | markdownify }}</p>
+									</div>
 								</div>
 							</div>
+							{{ end }}
 						</div>
-						{{ end }}
-					</div>
 				</div>
 			</div>
-			<div class="col-lg-6 vlad-image" style="background-image: url('{{ .image_webp | absURL }}'); border-radius: 15px; margin: 20px; padding-bottom: 10px; background-repeat: no-repeat; overflow: hidden;">
+			<div class="col-lg-6 vlad-image"
+				style="background-image: url('{{ .image_webp | absURL }}'); border-radius: 15px; margin: 20px; padding-bottom: 10px; background-repeat: no-repeat; overflow: hidden;">
 				<!-- this image is for trigger this section fallback background image -->
-				<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" src="{{ .image_webp | absURL }}" />
+				<img style="display: none;"
+					onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'"
+					src="{{ .image_webp | absURL }}" />
 			</div>
 		</div>
 	</div>
